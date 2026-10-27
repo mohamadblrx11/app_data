@@ -1,0 +1,384 @@
+[
+  {
+    "CategoryName": "الخضر والفواكه",
+    "Items": [
+      {
+        "Name": "التمر المنقر",
+        "Description": "نوعية جيدة",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 195,
+            "Unit": "كغ",
+            "ImagePath": "dates.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "تمر البطانة",
+        "Description": "بطانة غرس / غيره",
+        "Variations": [
+          {
+            "MarketName": "بطانة غرس",
+            "SizeName": "1 كغ",
+            "Price": 180,
+            "Unit": "كغ",
+            "ImagePath": "dates.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "غيرها",
+            "SizeName": "1 كغ",
+            "Price": 180,
+            "Unit": "كغ",
+            "ImagePath": "dates.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "البطاطا",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 95,
+            "Unit": "كغ",
+            "ImagePath": "potato.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "البصل",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 50,
+            "Unit": "كغ",
+            "ImagePath": "onion.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الطماطم",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 60,
+            "Unit": "كغ",
+            "ImagePath": "tomato_fresh.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الجزر",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 80,
+            "Unit": "كغ",
+            "ImagePath": "carrot.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الفلفل الحار",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 140,
+            "Unit": "كغ",
+            "ImagePath": "chili.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الفلفل الحلو",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 80,
+            "Unit": "كغ",
+            "ImagePath": "bell_pepper.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الدنجال",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 80,
+            "Unit": "كغ",
+            "ImagePath": "eggplant.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الخيار",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 90,
+            "Unit": "كغ",
+            "ImagePath": "cucumber.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الكورجيت",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 90,
+            "Unit": "كغ",
+            "ImagePath": "zucchini.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "اللوبيا الخضراء",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 200,
+            "Unit": "كغ",
+            "ImagePath": "green_beans.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الملوخية",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "250 غ",
+            "Price": 200,
+            "Unit": "حزمة",
+            "ImagePath": "mallow.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "القرعة",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 90,
+            "Unit": "كغ",
+            "ImagePath": "pumpkin.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "البطيخ الأصفر",
+        "Description": "فواكه",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "حبة",
+            "Price": 100,
+            "Unit": "حبة",
+            "ImagePath": "melon.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الشلاطة",
+        "Description": "خضر",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "حزمة",
+            "Price": 150,
+            "Unit": "حزمة",
+            "ImagePath": "lettuce.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "المعدنوس",
+        "Description": "أعشاب",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "حزمة",
+            "Price": 30,
+            "Unit": "حزمة",
+            "ImagePath": "parsley.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "الكسبر",
+        "Description": "أعشاب",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "حزمة",
+            "Price": 30,
+            "Unit": "حزمة",
+            "ImagePath": "coriander.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "النعناع",
+        "Description": "أعشاب",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "حزمة",
+            "Price": 30,
+            "Unit": "حزمة",
+            "ImagePath": "mint.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "فلفل مرقد",
+        "Description": "مخللات",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "100 غ",
+            "Price": 55,
+            "Unit": "علبة",
+            "ImagePath": "pickles.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
+        "Name": "زيتون",
+        "Description": "أنواع مختلفة",
+        "Variations": [
+          {
+            "MarketName": "أسود",
+            "SizeName": "100 غ",
+            "Price": 55,
+            "Unit": "علبة",
+            "ImagePath": "olive_black.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بدون نوى",
+            "SizeName": "100 غ",
+            "Price": 55,
+            "Unit": "علبة",
+            "ImagePath": "olive_green.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بالعلف",
+            "SizeName": "100 غ",
+            "Price": 55,
+            "Unit": "علبة",
+            "ImagePath": "olive_green.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بنفسجي",
+            "SizeName": "100 غ",
+            "Price": 55,
+            "Unit": "علبة",
+            "ImagePath": "olive_purple.png",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "CategoryName": "المواد الغذائية",
+    "Items": [
+      {
+        "Name": "السكر",
+        "Description": "كلغ معلب",
+        "Variations": [
+          {
+            "MarketName": "سكور",
+            "SizeName": "1 كغ",
+            "Price": 95,
+            "Unit": "كغ",
+            "ImagePath": "suger1kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سكور",
+            "SizeName": "2 كغ",
+            "Price": 190,
+            "Unit": "كغ",
+            "ImagePath": "suger2kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سكور",
+            "SizeName": "5 كغ",
+            "Price": 475,
+            "Unit": "كغ",
+            "ImagePath": "suger5kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سكور",
+            "SizeName": "10 كغ",
+            "Price": 950,
+            "Unit": "كغ",
+            "ImagePath": "suger10kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سكور",
+            "SizeName": "25 كغ",
+            "Price": 2375,
+            "Unit": "كغ",
+            "ImagePath": "suger25kg.png",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
+  }
+]
