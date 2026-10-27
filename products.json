@@ -23,7 +23,7 @@
           {
             "MarketName": "بطانة غرس",
             "SizeName": "1 كغ",
-            "Price": 200,
+            "Price": 180,
             "Unit": "كغ",
             "ImagePath": "dates.png",
             "IsAvailable": true
@@ -31,7 +31,7 @@
           {
             "MarketName": "غيرها",
             "SizeName": "1 كغ",
-            "Price": 200,
+            "Price": 180,
             "Unit": "كغ",
             "ImagePath": "dates.png",
             "IsAvailable": true
@@ -45,7 +45,7 @@
           {
             "MarketName": "عام",
             "SizeName": "1 كغ",
-            "Price": 85,
+            "Price": 95,
             "Unit": "كغ",
             "ImagePath": "potato.png",
             "IsAvailable": true
