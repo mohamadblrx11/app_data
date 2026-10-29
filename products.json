@@ -950,7 +950,7 @@
     ]
   },
   {
-    "CategoryName": "الحفاظات",
+    "CategoryName": "مستلزمات الأطفال",
     "Items": [
       {
         "Name": "حفاظات",
@@ -963,6 +963,28 @@
           { "MarketName": "بيمبيز", "SizeName": "4-6", "Price": 1140, "Unit": "محفظة", "ImagePath": "diapers.png", "IsAvailable": true },
           { "MarketName": "دادا", "SizeName": "2-3", "Price": 430, "Unit": "محفظة", "ImagePath": "diapers.png", "IsAvailable": true },
           { "MarketName": "دادا", "SizeName": "4-5-6", "Price": 485, "Unit": "محفظة", "ImagePath": "diapers.png", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "جوكينق دافئ للأطفال",
+        "Description": "ملابس أطفال شتوية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "مقاس واحد", "Price": 1700, "Unit": "قطعة", "ImagePath": "baby_clothes.png", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "بطانية مواليد شتوية",
+        "Description": "بطاطين مواليد",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "شتوي", "Price": 900, "Unit": "قطعة", "ImagePath": "baby_blanket.png", "IsAvailable": true },
+          { "MarketName": "عام", "SizeName": "فاخر", "Price": 990, "Unit": "قطعة", "ImagePath": "baby_blanket.png", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "طقم 100% قطن جاكيت و بودي و سروال",
+        "Description": "ملابس أطفال قطنية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "مقاس واحد", "Price": 1050, "Unit": "طقم", "ImagePath": "baby_clothes.png", "IsAvailable": true }
         ]
       }
     ]
