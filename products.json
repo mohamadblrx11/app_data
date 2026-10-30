@@ -3230,6 +3230,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "vivox300pro",
+        "Description": "phone",
+        "Variations": [
+          {
+            "MarketName": "vivo",
+            "SizeName": "حجم جديد",
+            "Price": 133500,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
