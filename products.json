@@ -3555,7 +3555,7 @@
     "Items": [
       {
         "Name": "تعبئة رصيد موبيليس",
-        "Description": "100 / 200",
+        "Description": "100/200/500/1000",
         "Variations": [
           {
             "MarketName": "موبيليس",
