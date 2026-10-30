@@ -1189,7 +1189,7 @@
             "Price": 0,
             "Unit": "كغ",
             "ImagePath": "meat.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
