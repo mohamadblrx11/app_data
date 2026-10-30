@@ -3230,20 +3230,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "phone",
-        "Description": "New",
-        "Variations": [
-          {
-            "MarketName": "Iphone",
-            "SizeName": "13 pro max",
-            "Price": 100000,
-            "Unit": "5",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
