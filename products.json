@@ -14,14 +14,6 @@
             "Unit": "كغ",
             "ImagePath": "dates.png",
             "IsAvailable": true
-          },
-          {
-            "MarketName": "",
-            "SizeName": "5 كغ",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
           }
         ]
       },
