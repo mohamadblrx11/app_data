@@ -1,1301 +1,3552 @@
 [
   {
-    "CategoryName": "الخضر والفواكه",
+    "CategoryName": "\u0627\u0644\u062E\u0636\u0631 \u0648\u0627\u0644\u0641\u0648\u0627\u0643\u0647",
     "Items": [
       {
-        "Name": "التمر المنقر",
-        "Description": "نوعية جيدة",
+        "Name": "\u0627\u0644\u062A\u0645\u0631 \u0627\u0644\u0645\u0646\u0642\u0631",
+        "Description": "\u0646\u0648\u0639\u064A\u0629 \u062C\u064A\u062F\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 195, "Unit": "كغ", "ImagePath": "dates.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 195,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "dates.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "تمر البطانة",
-        "Description": "بطانة غرس / غيره",
+        "Name": "\u062A\u0645\u0631 \u0627\u0644\u0628\u0637\u0627\u0646\u0629",
+        "Description": "\u0628\u0637\u0627\u0646\u0629 \u063A\u0631\u0633 / \u063A\u064A\u0631\u0647",
         "Variations": [
-          { "MarketName": "بطانة غرس", "SizeName": "1 كغ", "Price": 180, "Unit": "كغ", "ImagePath": "dates.png", "IsAvailable": true },
-          { "MarketName": "غيرها", "SizeName": "1 كغ", "Price": 180, "Unit": "كغ", "ImagePath": "dates.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0628\u0637\u0627\u0646\u0629 \u063A\u0631\u0633",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 180,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "dates.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u063A\u064A\u0631\u0647\u0627",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 180,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "dates.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "البطاطا",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0628\u0637\u0627\u0637\u0627",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 95, "Unit": "كغ", "ImagePath": "potato.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 95,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "potato.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "البصل",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0628\u0635\u0644",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 50, "Unit": "كغ", "ImagePath": "onion.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 50,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "onion.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الطماطم",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0637\u0645\u0627\u0637\u0645",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 60, "Unit": "كغ", "ImagePath": "tomato_fresh.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 60,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "tomato_fresh.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الجزر",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u062C\u0632\u0631",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 80, "Unit": "كغ", "ImagePath": "carrot.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 80,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "carrot.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الفلفل الحار",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0641\u0644\u0641\u0644 \u0627\u0644\u062D\u0627\u0631",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 140, "Unit": "كغ", "ImagePath": "chili.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 140,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "chili.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الفلفل الحلو",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0641\u0644\u0641\u0644 \u0627\u0644\u062D\u0644\u0648",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 80, "Unit": "كغ", "ImagePath": "bell_pepper.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 80,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "bell_pepper.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الدنجال",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u062F\u0646\u062C\u0627\u0644",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 80, "Unit": "كغ", "ImagePath": "eggplant.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 80,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "eggplant.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الخيار",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u062E\u064A\u0627\u0631",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 90, "Unit": "كغ", "ImagePath": "cucumber.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 90,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "cucumber.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الكورجيت",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0643\u0648\u0631\u062C\u064A\u062A",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 90, "Unit": "كغ", "ImagePath": "zucchini.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 90,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "zucchini.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "اللوبيا الخضراء",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0644\u0648\u0628\u064A\u0627 \u0627\u0644\u062E\u0636\u0631\u0627\u0621",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 200, "Unit": "كغ", "ImagePath": "green_beans.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 200,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "green_beans.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الملوخية",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0645\u0644\u0648\u062E\u064A\u0629",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "250 غ", "Price": 200, "Unit": "حزمة", "ImagePath": "mallow.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "250 \u063A",
+            "Price": 200,
+            "Unit": "\u062D\u0632\u0645\u0629",
+            "ImagePath": "mallow.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "القرعة",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0642\u0631\u0639\u0629",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 90, "Unit": "كغ", "ImagePath": "pumpkin.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 90,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "pumpkin.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "البطيخ الأصفر",
-        "Description": "فواكه",
+        "Name": "\u0627\u0644\u0628\u0637\u064A\u062E \u0627\u0644\u0623\u0635\u0641\u0631",
+        "Description": "\u0641\u0648\u0627\u0643\u0647",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حبة", "Price": 100, "Unit": "حبة", "ImagePath": "melon.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 100,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "melon.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الشلاطة",
-        "Description": "خضر",
+        "Name": "\u0627\u0644\u0634\u0644\u0627\u0637\u0629",
+        "Description": "\u062E\u0636\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حزمة", "Price": 150, "Unit": "حزمة", "ImagePath": "lettuce.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0632\u0645\u0629",
+            "Price": 150,
+            "Unit": "\u062D\u0632\u0645\u0629",
+            "ImagePath": "lettuce.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "المعدنوس",
-        "Description": "أعشاب",
+        "Name": "\u0627\u0644\u0645\u0639\u062F\u0646\u0648\u0633",
+        "Description": "\u0623\u0639\u0634\u0627\u0628",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حزمة", "Price": 30, "Unit": "حزمة", "ImagePath": "parsley.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0632\u0645\u0629",
+            "Price": 30,
+            "Unit": "\u062D\u0632\u0645\u0629",
+            "ImagePath": "parsley.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الكسبر",
-        "Description": "أعشاب",
+        "Name": "\u0627\u0644\u0643\u0633\u0628\u0631",
+        "Description": "\u0623\u0639\u0634\u0627\u0628",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حزمة", "Price": 30, "Unit": "حزمة", "ImagePath": "coriander.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0632\u0645\u0629",
+            "Price": 30,
+            "Unit": "\u062D\u0632\u0645\u0629",
+            "ImagePath": "coriander.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "النعناع",
-        "Description": "أعشاب",
+        "Name": "\u0627\u0644\u0646\u0639\u0646\u0627\u0639",
+        "Description": "\u0623\u0639\u0634\u0627\u0628",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حزمة", "Price": 30, "Unit": "حزمة", "ImagePath": "mint.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0632\u0645\u0629",
+            "Price": 30,
+            "Unit": "\u062D\u0632\u0645\u0629",
+            "ImagePath": "mint.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "فلفل مرقد",
-        "Description": "مخللات",
+        "Name": "\u0641\u0644\u0641\u0644 \u0645\u0631\u0642\u062F",
+        "Description": "\u0645\u062E\u0644\u0644\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "100 غ", "Price": 55, "Unit": "علبة", "ImagePath": "pickles.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "100 \u063A",
+            "Price": 55,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "pickles.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "زيتون",
-        "Description": "أنواع مختلفة",
+        "Name": "\u0632\u064A\u062A\u0648\u0646",
+        "Description": "\u0623\u0646\u0648\u0627\u0639 \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "أسود", "SizeName": "100 غ", "Price": 55, "Unit": "علبة", "ImagePath": "olive_black.png", "IsAvailable": true },
-          { "MarketName": "بدون نوى", "SizeName": "100 غ", "Price": 55, "Unit": "علبة", "ImagePath": "olive_green.png", "IsAvailable": true },
-          { "MarketName": "بالعلف", "SizeName": "100 غ", "Price": 55, "Unit": "علبة", "ImagePath": "olive_green.png", "IsAvailable": true },
-          { "MarketName": "بنفسجي", "SizeName": "100 غ", "Price": 55, "Unit": "علبة", "ImagePath": "olive_purple.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0623\u0633\u0648\u062F",
+            "SizeName": "100 \u063A",
+            "Price": 55,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "olive_black.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u062F\u0648\u0646 \u0646\u0648\u0649",
+            "SizeName": "100 \u063A",
+            "Price": 55,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "olive_green.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0627\u0644\u0639\u0644\u0641",
+            "SizeName": "100 \u063A",
+            "Price": 55,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "olive_green.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0646\u0641\u0633\u062C\u064A",
+            "SizeName": "100 \u063A",
+            "Price": 55,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "olive_purple.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "المواد الغذائية",
+    "CategoryName": "\u0627\u0644\u0645\u0648\u0627\u062F \u0627\u0644\u063A\u0630\u0627\u0626\u064A\u0629",
     "Items": [
       {
-        "Name": "السكر",
-        "Description": "كلغ معلب",
+        "Name": "\u0627\u0644\u0633\u0643\u0631",
+        "Description": "\u0643\u0644\u063A \u0645\u0639\u0644\u0628",
         "Variations": [
-          { "MarketName": "سكور", "SizeName": "1 كغ", "Price": 95, "Unit": "كغ", "ImagePath": "suger1kg.png", "IsAvailable": true },
-          { "MarketName": "سكور", "SizeName": "2 كغ", "Price": 190, "Unit": "كغ", "ImagePath": "suger2kg.png", "IsAvailable": true },
-          { "MarketName": "سكور", "SizeName": "5 كغ", "Price": 475, "Unit": "كغ", "ImagePath": "suger5kg.png", "IsAvailable": true },
-          { "MarketName": "سكور", "SizeName": "10 كغ", "Price": 950, "Unit": "كغ", "ImagePath": "suger10kg.png", "IsAvailable": true },
-          { "MarketName": "سكور", "SizeName": "25 كغ", "Price": 2375, "Unit": "كغ", "ImagePath": "suger25kg.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u0643\u0648\u0631",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 95,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "suger1kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0643\u0648\u0631",
+            "SizeName": "2 \u0643\u063A",
+            "Price": 190,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "suger2kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0643\u0648\u0631",
+            "SizeName": "5 \u0643\u063A",
+            "Price": 475,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "suger5kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0643\u0648\u0631",
+            "SizeName": "10 \u0643\u063A",
+            "Price": 950,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "suger10kg.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0643\u0648\u0631",
+            "SizeName": "25 \u0643\u063A",
+            "Price": 2375,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "suger25kg.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "زيت المائدة إيليو",
-        "Description": "زيت طبخ",
+        "Name": "\u0632\u064A\u062A \u0627\u0644\u0645\u0627\u0626\u062F\u0629 \u0625\u064A\u0644\u064A\u0648",
+        "Description": "\u0632\u064A\u062A \u0637\u0628\u062E",
         "Variations": [
-          { "MarketName": "إيليو", "SizeName": "1 لتر", "Price": 125, "Unit": "لتر", "ImagePath": "oil1l.png", "IsAvailable": true },
-          { "MarketName": "إيليو", "SizeName": "2 لتر", "Price": 250, "Unit": "لتر", "ImagePath": "oil2l.png", "IsAvailable": true },
-          { "MarketName": "إيليو", "SizeName": "5 لتر", "Price": 635, "Unit": "لتر", "ImagePath": "oil5l.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0625\u064A\u0644\u064A\u0648",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 125,
+            "Unit": "\u0644\u062A\u0631",
+            "ImagePath": "oil1l.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0625\u064A\u0644\u064A\u0648",
+            "SizeName": "2 \u0644\u062A\u0631",
+            "Price": 250,
+            "Unit": "\u0644\u062A\u0631",
+            "ImagePath": "oil2l.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0625\u064A\u0644\u064A\u0648",
+            "SizeName": "5 \u0644\u062A\u0631",
+            "Price": 635,
+            "Unit": "\u0644\u062A\u0631",
+            "ImagePath": "oil5l.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الخل",
-        "Description": "أنواع الخل",
+        "Name": "\u0627\u0644\u062E\u0644",
+        "Description": "\u0623\u0646\u0648\u0627\u0639 \u0627\u0644\u062E\u0644",
         "Variations": [
-          { "MarketName": "أنوار", "SizeName": "أحمر", "Price": 80, "Unit": "قارورة", "ImagePath": "vinegar.png", "IsAvailable": true },
-          { "MarketName": "أنوار", "SizeName": "أبيض", "Price": 80, "Unit": "قارورة", "ImagePath": "vinegar.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0623\u0646\u0648\u0627\u0631",
+            "SizeName": "\u0623\u062D\u0645\u0631",
+            "Price": 80,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "vinegar.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0646\u0648\u0627\u0631",
+            "SizeName": "\u0623\u0628\u064A\u0636",
+            "Price": 80,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "vinegar.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ماء الزهر",
-        "Description": "مقطر",
+        "Name": "\u0645\u0627\u0621 \u0627\u0644\u0632\u0647\u0631",
+        "Description": "\u0645\u0642\u0637\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قارورة", "Price": 60, "Unit": "قارورة", "ImagePath": "rosewater.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "Price": 60,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "rosewater.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ملح الطعام",
-        "Description": "كلغ معلب",
+        "Name": "\u0645\u0644\u062D \u0627\u0644\u0637\u0639\u0627\u0645",
+        "Description": "\u0643\u0644\u063A \u0645\u0639\u0644\u0628",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 25, "Unit": "كغ", "ImagePath": "salt.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 25,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "salt.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "طماطم معلبة",
-        "Description": "أنواع مختلفة",
+        "Name": "\u0637\u0645\u0627\u0637\u0645 \u0645\u0639\u0644\u0628\u0629",
+        "Description": "\u0623\u0646\u0648\u0627\u0639 \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "كاب", "SizeName": "160 غ", "Price": 60, "Unit": "علبة", "ImagePath": "tomato.png", "IsAvailable": true },
-          { "MarketName": "كاب", "SizeName": "400 غ", "Price": 185, "Unit": "علبة", "ImagePath": "tomato.png", "IsAvailable": true },
-          { "MarketName": "كاب", "SizeName": "800 غ", "Price": 305, "Unit": "علبة", "ImagePath": "tomato.png", "IsAvailable": true },
-          { "MarketName": "الحارة", "SizeName": "400 غ", "Price": 185, "Unit": "علبة", "ImagePath": "tomato.png", "IsAvailable": true },
-          { "MarketName": "جمبو", "SizeName": "800 غ", "Price": 305, "Unit": "علبة", "ImagePath": "tomato.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0643\u0627\u0628",
+            "SizeName": "160 \u063A",
+            "Price": 60,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tomato.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0628",
+            "SizeName": "400 \u063A",
+            "Price": 185,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tomato.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0628",
+            "SizeName": "800 \u063A",
+            "Price": 305,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tomato.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u062D\u0627\u0631\u0629",
+            "SizeName": "400 \u063A",
+            "Price": 185,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tomato.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062C\u0645\u0628\u0648",
+            "SizeName": "800 \u063A",
+            "Price": 305,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tomato.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "هريسة",
-        "Description": "كاب أو غيرها",
+        "Name": "\u0647\u0631\u064A\u0633\u0629",
+        "Description": "\u0643\u0627\u0628 \u0623\u0648 \u063A\u064A\u0631\u0647\u0627",
         "Variations": [
-          { "MarketName": "كاب", "SizeName": "160 غ", "Price": 70, "Unit": "علبة", "ImagePath": "harissa.png", "IsAvailable": true },
-          { "MarketName": "كاب", "SizeName": "400 غ", "Price": 145, "Unit": "علبة", "ImagePath": "harissa.png", "IsAvailable": true },
-          { "MarketName": "أخرى", "SizeName": "400 غ", "Price": 145, "Unit": "علبة", "ImagePath": "harissa.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0643\u0627\u0628",
+            "SizeName": "160 \u063A",
+            "Price": 70,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "harissa.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0628",
+            "SizeName": "400 \u063A",
+            "Price": 145,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "harissa.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u062E\u0631\u0649",
+            "SizeName": "400 \u063A",
+            "Price": 145,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "harissa.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "المربى",
-        "Description": "مشمش / تين",
+        "Name": "\u0627\u0644\u0645\u0631\u0628\u0649",
+        "Description": "\u0645\u0634\u0645\u0634 / \u062A\u064A\u0646",
         "Variations": [
-          { "MarketName": "تريستار", "SizeName": "مشمش 340 غ", "Price": 170, "Unit": "علبة", "ImagePath": "jam.png", "IsAvailable": true },
-          { "MarketName": "تريستار", "SizeName": "تين 340 غ", "Price": 170, "Unit": "علبة", "ImagePath": "jam.png", "IsAvailable": true },
-          { "MarketName": "تريستار", "SizeName": "مشمش 500 غ", "Price": 150, "Unit": "علبة", "ImagePath": "jam.png", "IsAvailable": true },
-          { "MarketName": "تريستار", "SizeName": "تين 500 غ", "Price": 150, "Unit": "علبة", "ImagePath": "jam.png", "IsAvailable": true }
+          {
+            "MarketName": "\u062A\u0631\u064A\u0633\u062A\u0627\u0631",
+            "SizeName": "\u0645\u0634\u0645\u0634 340 \u063A",
+            "Price": 170,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "jam.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0631\u064A\u0633\u062A\u0627\u0631",
+            "SizeName": "\u062A\u064A\u0646 340 \u063A",
+            "Price": 170,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "jam.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0631\u064A\u0633\u062A\u0627\u0631",
+            "SizeName": "\u0645\u0634\u0645\u0634 500 \u063A",
+            "Price": 150,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "jam.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0631\u064A\u0633\u062A\u0627\u0631",
+            "SizeName": "\u062A\u064A\u0646 500 \u063A",
+            "Price": 150,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "jam.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "العسيلة",
-        "Description": "المرجان / وريدة",
+        "Name": "\u0627\u0644\u0639\u0633\u064A\u0644\u0629",
+        "Description": "\u0627\u0644\u0645\u0631\u062C\u0627\u0646 / \u0648\u0631\u064A\u062F\u0629",
         "Variations": [
-          { "MarketName": "المرجان", "SizeName": "رطل", "Price": 110, "Unit": "رطل", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "وريدة", "SizeName": "رطل", "Price": 110, "Unit": "رطل", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "المرجان", "SizeName": "كيلو", "Price": 190, "Unit": "كغ", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "وريدة", "SizeName": "كيلو", "Price": 190, "Unit": "كغ", "ImagePath": "honey.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0644\u0645\u0631\u062C\u0627\u0646",
+            "SizeName": "\u0631\u0637\u0644",
+            "Price": 110,
+            "Unit": "\u0631\u0637\u0644",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0648\u0631\u064A\u062F\u0629",
+            "SizeName": "\u0631\u0637\u0644",
+            "Price": 110,
+            "Unit": "\u0631\u0637\u0644",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0645\u0631\u062C\u0627\u0646",
+            "SizeName": "\u0643\u064A\u0644\u0648",
+            "Price": 190,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0648\u0631\u064A\u062F\u0629",
+            "SizeName": "\u0643\u064A\u0644\u0648",
+            "Price": 190,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "زبدة",
-        "Description": "ستار / غيرها",
+        "Name": "\u0632\u0628\u062F\u0629",
+        "Description": "\u0633\u062A\u0627\u0631 / \u063A\u064A\u0631\u0647\u0627",
         "Variations": [
-          { "MarketName": "ستار", "SizeName": "200 غ", "Price": 155, "Unit": "علبة", "ImagePath": "butter.png", "IsAvailable": true },
-          { "MarketName": "أخرى", "SizeName": "200 غ", "Price": 155, "Unit": "علبة", "ImagePath": "butter.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u062A\u0627\u0631",
+            "SizeName": "200 \u063A",
+            "Price": 155,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "butter.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u062E\u0631\u0649",
+            "SizeName": "200 \u063A",
+            "Price": 155,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "butter.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مرغرين",
-        "Description": "لابل / صول / فلوريال",
+        "Name": "\u0645\u0631\u063A\u0631\u064A\u0646",
+        "Description": "\u0644\u0627\u0628\u0644 / \u0635\u0648\u0644 / \u0641\u0644\u0648\u0631\u064A\u0627\u0644",
         "Variations": [
-          { "MarketName": "لابل", "SizeName": "250 غ", "Price": 115, "Unit": "علبة", "ImagePath": "margarine.png", "IsAvailable": true },
-          { "MarketName": "صول", "SizeName": "250 غ", "Price": 115, "Unit": "علبة", "ImagePath": "margarine.png", "IsAvailable": true },
-          { "MarketName": "فلوريال", "SizeName": "250 غ", "Price": 115, "Unit": "علبة", "ImagePath": "margarine.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0644\u0627\u0628\u0644",
+            "SizeName": "250 \u063A",
+            "Price": 115,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "margarine.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0635\u0648\u0644",
+            "SizeName": "250 \u063A",
+            "Price": 115,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "margarine.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0641\u0644\u0648\u0631\u064A\u0627\u0644",
+            "SizeName": "250 \u063A",
+            "Price": 115,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "margarine.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "سمن",
-        "Description": "المرجان / المدينة / الوليمة",
+        "Name": "\u0633\u0645\u0646",
+        "Description": "\u0627\u0644\u0645\u0631\u062C\u0627\u0646 / \u0627\u0644\u0645\u062F\u064A\u0646\u0629 / \u0627\u0644\u0648\u0644\u064A\u0645\u0629",
         "Variations": [
-          { "MarketName": "المرجان", "SizeName": "300 غ", "Price": 160, "Unit": "علبة", "ImagePath": "ghee.png", "IsAvailable": true },
-          { "MarketName": "المدينة", "SizeName": "300 غ", "Price": 160, "Unit": "علبة", "ImagePath": "ghee.png", "IsAvailable": true },
-          { "MarketName": "المرجان", "SizeName": "500 غ", "Price": 235, "Unit": "علبة", "ImagePath": "ghee.png", "IsAvailable": true },
-          { "MarketName": "المدينة", "SizeName": "500 غ", "Price": 235, "Unit": "علبة", "ImagePath": "ghee.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0644\u0645\u0631\u062C\u0627\u0646",
+            "SizeName": "300 \u063A",
+            "Price": 160,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ghee.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0645\u062F\u064A\u0646\u0629",
+            "SizeName": "300 \u063A",
+            "Price": 160,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ghee.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0645\u0631\u062C\u0627\u0646",
+            "SizeName": "500 \u063A",
+            "Price": 235,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ghee.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0645\u062F\u064A\u0646\u0629",
+            "SizeName": "500 \u063A",
+            "Price": 235,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ghee.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "سردين",
-        "Description": "بالزيت / بالطماطم",
+        "Name": "\u0633\u0631\u062F\u064A\u0646",
+        "Description": "\u0628\u0627\u0644\u0632\u064A\u062A / \u0628\u0627\u0644\u0637\u0645\u0627\u0637\u0645",
         "Variations": [
-          { "MarketName": "فيفا", "SizeName": "بالزيت", "Price": 100, "Unit": "علبة", "ImagePath": "sardine.png", "IsAvailable": true },
-          { "MarketName": "فيفا", "SizeName": "بالطماطم", "Price": 100, "Unit": "علبة", "ImagePath": "sardine.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0641\u064A\u0641\u0627",
+            "SizeName": "\u0628\u0627\u0644\u0632\u064A\u062A",
+            "Price": 100,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "sardine.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0641\u064A\u0641\u0627",
+            "SizeName": "\u0628\u0627\u0644\u0637\u0645\u0627\u0637\u0645",
+            "Price": 100,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "sardine.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "التونة",
-        "Description": "ماركات مختلفة",
+        "Name": "\u0627\u0644\u062A\u0648\u0646\u0629",
+        "Description": "\u0645\u0627\u0631\u0643\u0627\u062A \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "عادية", "SizeName": "بالزيت", "Price": 60, "Unit": "علبة", "ImagePath": "tuna.png", "IsAvailable": true },
-          { "MarketName": "عادية", "SizeName": "بالطماطم", "Price": 60, "Unit": "علبة", "ImagePath": "tuna.png", "IsAvailable": true },
-          { "MarketName": "ريكامار", "SizeName": "بالزيت", "Price": 105, "Unit": "علبة", "ImagePath": "tuna.png", "IsAvailable": true },
-          { "MarketName": "ريكامار", "SizeName": "بالطماطم", "Price": 105, "Unit": "علبة", "ImagePath": "tuna.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u062F\u064A\u0629",
+            "SizeName": "\u0628\u0627\u0644\u0632\u064A\u062A",
+            "Price": 60,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tuna.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u062F\u064A\u0629",
+            "SizeName": "\u0628\u0627\u0644\u0637\u0645\u0627\u0637\u0645",
+            "Price": 60,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tuna.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0631\u064A\u0643\u0627\u0645\u0627\u0631",
+            "SizeName": "\u0628\u0627\u0644\u0632\u064A\u062A",
+            "Price": 105,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tuna.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0631\u064A\u0643\u0627\u0645\u0627\u0631",
+            "SizeName": "\u0628\u0627\u0644\u0637\u0645\u0627\u0637\u0645",
+            "Price": 105,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tuna.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "شاي معلب",
-        "Description": "ماركات مختلفة",
+        "Name": "\u0634\u0627\u064A \u0645\u0639\u0644\u0628",
+        "Description": "\u0645\u0627\u0631\u0643\u0627\u062A \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "فردوس", "SizeName": "250 غ", "Price": 345, "Unit": "علبة", "ImagePath": "tea.png", "IsAvailable": true },
-          { "MarketName": "أحمد", "SizeName": "250 غ", "Price": 345, "Unit": "علبة", "ImagePath": "tea.png", "IsAvailable": true },
-          { "MarketName": "البراد", "SizeName": "250 غ", "Price": 345, "Unit": "علبة", "ImagePath": "tea.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0641\u0631\u062F\u0648\u0633",
+            "SizeName": "250 \u063A",
+            "Price": 345,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tea.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u062D\u0645\u062F",
+            "SizeName": "250 \u063A",
+            "Price": 345,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tea.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0628\u0631\u0627\u062F",
+            "SizeName": "250 \u063A",
+            "Price": 345,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tea.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "شاي ميزان",
-        "Description": "عادي / ممتاز",
+        "Name": "\u0634\u0627\u064A \u0645\u064A\u0632\u0627\u0646",
+        "Description": "\u0639\u0627\u062F\u064A / \u0645\u0645\u062A\u0627\u0632",
         "Variations": [
-          { "MarketName": "عادي", "SizeName": "100 غ", "Price": 130, "Unit": "كيس", "ImagePath": "tea.png", "IsAvailable": true },
-          { "MarketName": "ممتاز", "SizeName": "100 غ", "Price": 160, "Unit": "كيس", "ImagePath": "tea.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u062F\u064A",
+            "SizeName": "100 \u063A",
+            "Price": 130,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "tea.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0645\u062A\u0627\u0632",
+            "SizeName": "100 \u063A",
+            "Price": 160,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "tea.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "قهوة معلبة",
-        "Description": "ماركات مختلفة",
+        "Name": "\u0642\u0647\u0648\u0629 \u0645\u0639\u0644\u0628\u0629",
+        "Description": "\u0645\u0627\u0631\u0643\u0627\u062A \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "1001", "SizeName": "250 غ", "Price": 395, "Unit": "علبة", "ImagePath": "coffee.png", "IsAvailable": true },
-          { "MarketName": "أروما", "SizeName": "250 غ", "Price": 395, "Unit": "علبة", "ImagePath": "coffee.png", "IsAvailable": true },
-          { "MarketName": "فاميكو", "SizeName": "250 غ", "Price": 395, "Unit": "علبة", "ImagePath": "coffee.png", "IsAvailable": true }
+          {
+            "MarketName": "1001",
+            "SizeName": "250 \u063A",
+            "Price": 395,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "coffee.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0631\u0648\u0645\u0627",
+            "SizeName": "250 \u063A",
+            "Price": 395,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "coffee.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0641\u0627\u0645\u064A\u0643\u0648",
+            "SizeName": "250 \u063A",
+            "Price": 395,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "coffee.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "قهوة محمصة مرحية",
-        "Description": "ميزان",
+        "Name": "\u0642\u0647\u0648\u0629 \u0645\u062D\u0645\u0635\u0629 \u0645\u0631\u062D\u064A\u0629",
+        "Description": "\u0645\u064A\u0632\u0627\u0646",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 1390, "Unit": "كغ", "ImagePath": "coffee.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 1390,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "coffee.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "قهوة خضراء",
-        "Description": "أنواع",
+        "Name": "\u0642\u0647\u0648\u0629 \u062E\u0636\u0631\u0627\u0621",
+        "Description": "\u0623\u0646\u0648\u0627\u0639",
         "Variations": [
-          { "MarketName": "روبيستا", "SizeName": "1 كغ", "Price": 1390, "Unit": "كغ", "ImagePath": "coffee_beans.png", "IsAvailable": true },
-          { "MarketName": "أربيكا", "SizeName": "1 كغ", "Price": 1390, "Unit": "كغ", "ImagePath": "coffee_beans.png", "IsAvailable": true },
-          { "MarketName": "بوخاري", "SizeName": "1 كغ", "Price": 1390, "Unit": "كغ", "ImagePath": "coffee_beans.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0631\u0648\u0628\u064A\u0633\u062A\u0627",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 1390,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "coffee_beans.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0631\u0628\u064A\u0643\u0627",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 1390,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "coffee_beans.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0648\u062E\u0627\u0631\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 1390,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "coffee_beans.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "الحليب ومشتقاته",
+    "CategoryName": "\u0627\u0644\u062D\u0644\u064A\u0628 \u0648\u0645\u0634\u062A\u0642\u0627\u062A\u0647",
     "Items": [
       {
-        "Name": "حليب",
-        "Description": "كانديا / صومام / ميلكوسبراي",
+        "Name": "\u062D\u0644\u064A\u0628",
+        "Description": "\u0643\u0627\u0646\u062F\u064A\u0627 / \u0635\u0648\u0645\u0627\u0645 / \u0645\u064A\u0644\u0643\u0648\u0633\u0628\u0631\u0627\u064A",
         "Variations": [
-          { "MarketName": "كانديا", "SizeName": "1 لتر", "Price": 125, "Unit": "علبة", "ImagePath": "milk.png", "IsAvailable": true },
-          { "MarketName": "كانديا", "SizeName": "1/2 لتر", "Price": 75, "Unit": "علبة", "ImagePath": "milk.png", "IsAvailable": true },
-          { "MarketName": "ميلكوسبراي", "SizeName": "500 غ", "Price": 465, "Unit": "علبة", "ImagePath": "milk_powder.png", "IsAvailable": true },
-          { "MarketName": "لويا", "SizeName": "500 غ", "Price": 550, "Unit": "علبة", "ImagePath": "milk_powder.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0643\u0627\u0646\u062F\u064A\u0627",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 125,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "milk.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0646\u062F\u064A\u0627",
+            "SizeName": "1/2 \u0644\u062A\u0631",
+            "Price": 75,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "milk.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u064A\u0644\u0643\u0648\u0633\u0628\u0631\u0627\u064A",
+            "SizeName": "500 \u063A",
+            "Price": 465,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "milk_powder.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0644\u0648\u064A\u0627",
+            "SizeName": "500 \u063A",
+            "Price": 550,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "milk_powder.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "لبن ورايب",
-        "Description": "الصومام",
+        "Name": "\u0644\u0628\u0646 \u0648\u0631\u0627\u064A\u0628",
+        "Description": "\u0627\u0644\u0635\u0648\u0645\u0627\u0645",
         "Variations": [
-          { "MarketName": "الصومام", "SizeName": "لبن 1 لتر", "Price": 145, "Unit": "قارورة", "ImagePath": "lben.png", "IsAvailable": true },
-          { "MarketName": "الصومام", "SizeName": "رايب 1 لتر", "Price": 145, "Unit": "قارورة", "ImagePath": "raib.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0644\u0635\u0648\u0645\u0627\u0645",
+            "SizeName": "\u0644\u0628\u0646 1 \u0644\u062A\u0631",
+            "Price": 145,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "lben.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0635\u0648\u0645\u0627\u0645",
+            "SizeName": "\u0631\u0627\u064A\u0628 1 \u0644\u062A\u0631",
+            "Price": 145,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "raib.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ياؤورت",
-        "Description": "إياب / جنينة / ياقو / ديالنا",
+        "Name": "\u064A\u0627\u0624\u0648\u0631\u062A",
+        "Description": "\u0625\u064A\u0627\u0628 / \u062C\u0646\u064A\u0646\u0629 / \u064A\u0627\u0642\u0648 / \u062F\u064A\u0627\u0644\u0646\u0627",
         "Variations": [
-          { "MarketName": "إياب", "SizeName": "1 كغ", "Price": 165, "Unit": "قارورة", "ImagePath": "yogurt.png", "IsAvailable": true },
-          { "MarketName": "جنينة", "SizeName": "1 كغ", "Price": 165, "Unit": "قارورة", "ImagePath": "yogurt.png", "IsAvailable": true },
-          { "MarketName": "ياقو", "SizeName": "1/2 لتر", "Price": 80, "Unit": "قارورة", "ImagePath": "yogurt.png", "IsAvailable": true },
-          { "MarketName": "ياقو", "SizeName": "170 غ", "Price": 40, "Unit": "قارورة", "ImagePath": "yogurt.png", "IsAvailable": true },
-          { "MarketName": "ديالنا", "SizeName": "100 غ", "Price": 30, "Unit": "علبة", "ImagePath": "yogurt.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0625\u064A\u0627\u0628",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 165,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "yogurt.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062C\u0646\u064A\u0646\u0629",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 165,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "yogurt.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u064A\u0627\u0642\u0648",
+            "SizeName": "1/2 \u0644\u062A\u0631",
+            "Price": 80,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "yogurt.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u064A\u0627\u0642\u0648",
+            "SizeName": "170 \u063A",
+            "Price": 40,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "yogurt.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062F\u064A\u0627\u0644\u0646\u0627",
+            "SizeName": "100 \u063A",
+            "Price": 30,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "yogurt.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "جبن علب",
-        "Description": "بربر / شيزي / كاوبل",
+        "Name": "\u062C\u0628\u0646 \u0639\u0644\u0628",
+        "Description": "\u0628\u0631\u0628\u0631 / \u0634\u064A\u0632\u064A / \u0643\u0627\u0648\u0628\u0644",
         "Variations": [
-          { "MarketName": "بربر", "SizeName": "8 قطع", "Price": 100, "Unit": "علبة", "ImagePath": "cheese.png", "IsAvailable": true },
-          { "MarketName": "بربر", "SizeName": "16 قطعة", "Price": 185, "Unit": "علبة", "ImagePath": "cheese.png", "IsAvailable": true },
-          { "MarketName": "شيزي", "SizeName": "24 قطعة", "Price": 275, "Unit": "علبة", "ImagePath": "cheese.png", "IsAvailable": true },
-          { "MarketName": "كاوبل", "SizeName": "32 قطعة", "Price": 285, "Unit": "علبة", "ImagePath": "cheese.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0628\u0631\u0628\u0631",
+            "SizeName": "8 \u0642\u0637\u0639",
+            "Price": 100,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "cheese.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0631\u0628\u0631",
+            "SizeName": "16 \u0642\u0637\u0639\u0629",
+            "Price": 185,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "cheese.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0634\u064A\u0632\u064A",
+            "SizeName": "24 \u0642\u0637\u0639\u0629",
+            "Price": 275,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "cheese.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0648\u0628\u0644",
+            "SizeName": "32 \u0642\u0637\u0639\u0629",
+            "Price": 285,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "cheese.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مايونيز",
-        "Description": "نوعية جيدة",
+        "Name": "\u0645\u0627\u064A\u0648\u0646\u064A\u0632",
+        "Description": "\u0646\u0648\u0639\u064A\u0629 \u062C\u064A\u062F\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "300 غ", "Price": 120, "Unit": "قارورة", "ImagePath": "mayo.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "500 غ", "Price": 150, "Unit": "قارورة", "ImagePath": "mayo.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "300 \u063A",
+            "Price": 120,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "mayo.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "500 \u063A",
+            "Price": 150,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "mayo.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "قصابة",
+    "CategoryName": "\u0642\u0635\u0627\u0628\u0629",
     "Items": [
       {
-        "Name": "بيض بلدي عرب",
-        "Description": "بلاكة",
+        "Name": "\u0628\u064A\u0636 \u0628\u0644\u062F\u064A \u0639\u0631\u0628",
+        "Description": "\u0628\u0644\u0627\u0643\u0629",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "بلاكة", "Price": 900, "Unit": "بلاكة", "ImagePath": "eggs.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "\u0628\u0644\u0627\u0643\u0629",
+            "Price": 900,
+            "Unit": "\u0628\u0644\u0627\u0643\u0629",
+            "ImagePath": "eggs.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بيض أبيض",
-        "Description": "بلاكة",
+        "Name": "\u0628\u064A\u0636 \u0623\u0628\u064A\u0636",
+        "Description": "\u0628\u0644\u0627\u0643\u0629",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "بلاكة", "Price": 590, "Unit": "بلاكة", "ImagePath": "eggs.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "\u0628\u0644\u0627\u0643\u0629",
+            "Price": 590,
+            "Unit": "\u0628\u0644\u0627\u0643\u0629",
+            "ImagePath": "eggs.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بيض أحمر",
-        "Description": "بلاكة",
+        "Name": "\u0628\u064A\u0636 \u0623\u062D\u0645\u0631",
+        "Description": "\u0628\u0644\u0627\u0643\u0629",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "بلاكة", "Price": 610, "Unit": "بلاكة", "ImagePath": "eggs.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "\u0628\u0644\u0627\u0643\u0629",
+            "Price": 610,
+            "Unit": "\u0628\u0644\u0627\u0643\u0629",
+            "ImagePath": "eggs.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "دجاج",
-        "Description": "كلغ",
+        "Name": "\u062F\u062C\u0627\u062C",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 450, "Unit": "كغ", "ImagePath": "chicken.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 450,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "chicken.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "كويس",
-        "Description": "كلغ",
+        "Name": "\u0643\u0648\u064A\u0633",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 420, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 420,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "كبدة دجاج صافية",
-        "Description": "كلغ",
+        "Name": "\u0643\u0628\u062F\u0629 \u062F\u062C\u0627\u062C \u0635\u0627\u0641\u064A\u0629",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 990, "Unit": "كغ", "ImagePath": "liver.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 990,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "liver.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أجنحة دجاج",
-        "Description": "كلغ",
+        "Name": "\u0623\u062C\u0646\u062D\u0629 \u062F\u062C\u0627\u062C",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 250, "Unit": "كغ", "ImagePath": "chicken_wings.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 250,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "chicken_wings.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "جناح وكتف داند",
-        "Description": "كلغ",
+        "Name": "\u062C\u0646\u0627\u062D \u0648\u0643\u062A\u0641 \u062F\u0627\u0646\u062F",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 0, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": false }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 0,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": false
+          }
         ]
       },
       {
-        "Name": "رقبة داند",
-        "Description": "كلغ",
+        "Name": "\u0631\u0642\u0628\u0629 \u062F\u0627\u0646\u062F",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 0, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": false }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 0,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": false
+          }
         ]
       },
       {
-        "Name": "كانزة داند",
-        "Description": "كلغ",
+        "Name": "\u0643\u0627\u0646\u0632\u0629 \u062F\u0627\u0646\u062F",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 150, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 150,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "سكالوب",
-        "Description": "كلغ",
+        "Name": "\u0633\u0643\u0627\u0644\u0648\u0628",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 990, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 990,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "لحم نعجة",
-        "Description": "كلغ",
+        "Name": "\u0644\u062D\u0645 \u0646\u0639\u062C\u0629",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 1980, "Unit": "كغ", "ImagePath": "lamb.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 1980,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "lamb.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "هبرة مخلول",
-        "Description": "كلغ",
+        "Name": "\u0647\u0628\u0631\u0629 \u0645\u062E\u0644\u0648\u0644",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 0, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": false }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 0,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": false
+          }
         ]
       },
       {
-        "Name": "لحم مخلول",
-        "Description": "كلغ",
+        "Name": "\u0644\u062D\u0645 \u0645\u062E\u0644\u0648\u0644",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 0, "Unit": "كغ", "ImagePath": "meat.png", "IsAvailable": false }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 0,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "meat.png",
+            "IsAvailable": false
+          }
         ]
       },
       {
-        "Name": "شحم سنام",
-        "Description": "كلغ",
+        "Name": "\u0634\u062D\u0645 \u0633\u0646\u0627\u0645",
+        "Description": "\u0643\u0644\u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "1 كغ", "Price": 0, "Unit": "كغ", "ImagePath": "fat.png", "IsAvailable": false }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 0,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "fat.png",
+            "IsAvailable": false
+          }
         ]
       },
       {
-        "Name": "مرقاز",
-        "Description": "عادي / حار",
+        "Name": "\u0645\u0631\u0642\u0627\u0632",
+        "Description": "\u0639\u0627\u062F\u064A / \u062D\u0627\u0631",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "عادي 1 كغ", "Price": 1180, "Unit": "كغ", "ImagePath": "merguez.png", "IsAvailable": true },
-          { "MarketName": "محلي", "SizeName": "حار 1 كغ", "Price": 1180, "Unit": "كغ", "ImagePath": "merguez.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "\u0639\u0627\u062F\u064A 1 \u0643\u063A",
+            "Price": 1180,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "merguez.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "\u062D\u0627\u0631 1 \u0643\u063A",
+            "Price": 1180,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "merguez.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "جلبانة مجمدة",
-        "Description": "أحجام مختلفة",
+        "Name": "\u062C\u0644\u0628\u0627\u0646\u0629 \u0645\u062C\u0645\u062F\u0629",
+        "Description": "\u0623\u062D\u062C\u0627\u0645 \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "مجمدة", "SizeName": "كيس 1 كغ", "Price": 0, "Unit": "كيس", "ImagePath": "peas.png", "IsAvailable": false },
-          { "MarketName": "مجمدة", "SizeName": "300 غ", "Price": 220, "Unit": "كيس", "ImagePath": "peas.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u062C\u0645\u062F\u0629",
+            "SizeName": "\u0643\u064A\u0633 1 \u0643\u063A",
+            "Price": 0,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "peas.png",
+            "IsAvailable": false
+          },
+          {
+            "MarketName": "\u0645\u062C\u0645\u062F\u0629",
+            "SizeName": "300 \u063A",
+            "Price": 220,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "peas.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "رشتة",
-        "Description": "00 غ",
+        "Name": "\u0631\u0634\u062A\u0629",
+        "Description": "00 \u063A",
         "Variations": [
-          { "MarketName": "محلي", "SizeName": "00 غ", "Price": 0, "Unit": "كيس", "ImagePath": "pasta.png", "IsAvailable": false }
+          {
+            "MarketName": "\u0645\u062D\u0644\u064A",
+            "SizeName": "00 \u063A",
+            "Price": 0,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "pasta.png",
+            "IsAvailable": false
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "العشاب والتوابل",
+    "CategoryName": "\u0627\u0644\u0639\u0634\u0627\u0628 \u0648\u0627\u0644\u062A\u0648\u0627\u0628\u0644",
     "Items": [
       {
-        "Name": "العسل",
-        "Description": "طبيعي",
+        "Name": "\u0627\u0644\u0639\u0633\u0644",
+        "Description": "\u0637\u0628\u064A\u0639\u064A",
         "Variations": [
-          { "MarketName": "سدر", "SizeName": "250 غ", "Price": 1550, "Unit": "علبة", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "شوكيات", "SizeName": "250 غ", "Price": 900, "Unit": "علبة", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "برتقال", "SizeName": "250 غ", "Price": 900, "Unit": "علبة", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "متعدد الأزهار", "SizeName": "250 غ", "Price": 900, "Unit": "علبة", "ImagePath": "honey.png", "IsAvailable": true },
-          { "MarketName": "أكاسيا", "SizeName": "250 غ", "Price": 1650, "Unit": "علبة", "ImagePath": "honey.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u062F\u0631",
+            "SizeName": "250 \u063A",
+            "Price": 1550,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0634\u0648\u0643\u064A\u0627\u062A",
+            "SizeName": "250 \u063A",
+            "Price": 900,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0631\u062A\u0642\u0627\u0644",
+            "SizeName": "250 \u063A",
+            "Price": 900,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u062A\u0639\u062F\u062F \u0627\u0644\u0623\u0632\u0647\u0627\u0631",
+            "SizeName": "250 \u063A",
+            "Price": 900,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0643\u0627\u0633\u064A\u0627",
+            "SizeName": "250 \u063A",
+            "Price": 1650,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "honey.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "زيت الزيتون",
-        "Description": "حر / بكر",
+        "Name": "\u0632\u064A\u062A \u0627\u0644\u0632\u064A\u062A\u0648\u0646",
+        "Description": "\u062D\u0631 / \u0628\u0643\u0631",
         "Variations": [
-          { "MarketName": "حر تقليدي", "SizeName": "1/2 لتر", "Price": 490, "Unit": "قارورة", "ImagePath": "olive_oil.png", "IsAvailable": true },
-          { "MarketName": "حر عصري", "SizeName": "1/2 لتر", "Price": 425, "Unit": "قارورة", "ImagePath": "olive_oil.png", "IsAvailable": true },
-          { "MarketName": "بكر غصن الزيتون", "SizeName": "37 سل", "Price": 490, "Unit": "قارورة", "ImagePath": "olive_oil.png", "IsAvailable": true },
-          { "MarketName": "بكر غصن الزيتون", "SizeName": "1/2 لتر", "Price": 650, "Unit": "قارورة", "ImagePath": "olive_oil.png", "IsAvailable": true }
+          {
+            "MarketName": "\u062D\u0631 \u062A\u0642\u0644\u064A\u062F\u064A",
+            "SizeName": "1/2 \u0644\u062A\u0631",
+            "Price": 490,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "olive_oil.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0631 \u0639\u0635\u0631\u064A",
+            "SizeName": "1/2 \u0644\u062A\u0631",
+            "Price": 425,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "olive_oil.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0643\u0631 \u063A\u0635\u0646 \u0627\u0644\u0632\u064A\u062A\u0648\u0646",
+            "SizeName": "37 \u0633\u0644",
+            "Price": 490,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "olive_oil.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0643\u0631 \u063A\u0635\u0646 \u0627\u0644\u0632\u064A\u062A\u0648\u0646",
+            "SizeName": "1/2 \u0644\u062A\u0631",
+            "Price": 650,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "olive_oil.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "خل التفاح",
-        "Description": "طبيعي",
+        "Name": "\u062E\u0644 \u0627\u0644\u062A\u0641\u0627\u062D",
+        "Description": "\u0637\u0628\u064A\u0639\u064A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حجم صغير", "Price": 150, "Unit": "قارورة", "ImagePath": "apple_cider.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "حجم كبير", "Price": 300, "Unit": "قارورة", "ImagePath": "apple_cider.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u062C\u0645 \u0635\u063A\u064A\u0631",
+            "Price": 150,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "apple_cider.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u062C\u0645 \u0643\u0628\u064A\u0631",
+            "Price": 300,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "apple_cider.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ماء الورد",
-        "Description": "مقطر",
+        "Name": "\u0645\u0627\u0621 \u0627\u0644\u0648\u0631\u062F",
+        "Description": "\u0645\u0642\u0637\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قارورة", "Price": 65, "Unit": "قارورة", "ImagePath": "rosewater.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "Price": 65,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "rosewater.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الرب",
-        "Description": "عصير",
+        "Name": "\u0627\u0644\u0631\u0628",
+        "Description": "\u0639\u0635\u064A\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1/2 لتر", "Price": 250, "Unit": "قارورة", "ImagePath": "juice.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1/2 \u0644\u062A\u0631",
+            "Price": 250,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "juice.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "دهان (سمن) الماعز",
-        "Description": "طبيعي",
+        "Name": "\u062F\u0647\u0627\u0646 (\u0633\u0645\u0646) \u0627\u0644\u0645\u0627\u0639\u0632",
+        "Description": "\u0637\u0628\u064A\u0639\u064A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "250 غ", "Price": 1200, "Unit": "علبة", "ImagePath": "ghee.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "250 \u063A",
+            "Price": 1200,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ghee.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "حليب الناقة",
-        "Description": "طبيعي",
+        "Name": "\u062D\u0644\u064A\u0628 \u0627\u0644\u0646\u0627\u0642\u0629",
+        "Description": "\u0637\u0628\u064A\u0639\u064A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 لتر", "Price": 120, "Unit": "لتر", "ImagePath": "camel_milk.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 120,
+            "Unit": "\u0644\u062A\u0631",
+            "ImagePath": "camel_milk.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بهارات",
-        "Description": "توابل",
+        "Name": "\u0628\u0647\u0627\u0631\u0627\u062A",
+        "Description": "\u062A\u0648\u0627\u0628\u0644",
         "Variations": [
-          { "MarketName": "فلفل أسود", "SizeName": "50 غ", "Price": 120, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "كمون", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "زعتر", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "عكري", "SizeName": "50 غ", "Price": 65, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "كركم", "SizeName": "50 غ", "Price": 65, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "كصبر", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "بسباس", "SizeName": "50 غ", "Price": 65, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "قرفة مرحي", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true },
-          { "MarketName": "قرفة عودان", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "spices.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0641\u0644\u0641\u0644 \u0623\u0633\u0648\u062F",
+            "SizeName": "50 \u063A",
+            "Price": 120,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0645\u0648\u0646",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0632\u0639\u062A\u0631",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0643\u0631\u064A",
+            "SizeName": "50 \u063A",
+            "Price": 65,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0631\u0643\u0645",
+            "SizeName": "50 \u063A",
+            "Price": 65,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0635\u0628\u0631",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0633\u0628\u0627\u0633",
+            "SizeName": "50 \u063A",
+            "Price": 65,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0642\u0631\u0641\u0629 \u0645\u0631\u062D\u064A",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0642\u0631\u0641\u0629 \u0639\u0648\u062F\u0627\u0646",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "spices.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أعشاب وحبوب",
-        "Description": "أعشاب",
+        "Name": "\u0623\u0639\u0634\u0627\u0628 \u0648\u062D\u0628\u0648\u0628",
+        "Description": "\u0623\u0639\u0634\u0627\u0628",
         "Variations": [
-          { "MarketName": "قرنفل", "SizeName": "25 غ", "Price": 150, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "حلبة", "SizeName": "100 غ", "Price": 65, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "حبة حلاوة", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "سانوج", "SizeName": "100 غ", "Price": 100, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "جلجلان", "SizeName": "100 غ", "Price": 100, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "خولنجان", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "لويزة", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "زنجبيل", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "بابونج", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "كركدية", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true },
-          { "MarketName": "عرق سوس", "SizeName": "50 غ", "Price": 65, "Unit": "كيس", "ImagePath": "herbs.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0642\u0631\u0646\u0641\u0644",
+            "SizeName": "25 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0644\u0628\u0629",
+            "SizeName": "100 \u063A",
+            "Price": 65,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0628\u0629 \u062D\u0644\u0627\u0648\u0629",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0627\u0646\u0648\u062C",
+            "SizeName": "100 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062C\u0644\u062C\u0644\u0627\u0646",
+            "SizeName": "100 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062E\u0648\u0644\u0646\u062C\u0627\u0646",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0644\u0648\u064A\u0632\u0629",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0632\u0646\u062C\u0628\u064A\u0644",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0627\u0628\u0648\u0646\u062C",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0631\u0643\u062F\u064A\u0629",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0631\u0642 \u0633\u0648\u0633",
+            "SizeName": "50 \u063A",
+            "Price": 65,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "herbs.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "البقوليات والعجائن",
+    "CategoryName": "\u0627\u0644\u0628\u0642\u0648\u0644\u064A\u0627\u062A \u0648\u0627\u0644\u0639\u062C\u0627\u0626\u0646",
     "Items": [
       {
-        "Name": "اللوبيا البيضاء",
-        "Description": "بقوليات",
+        "Name": "\u0627\u0644\u0644\u0648\u0628\u064A\u0627 \u0627\u0644\u0628\u064A\u0636\u0627\u0621",
+        "Description": "\u0628\u0642\u0648\u0644\u064A\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 305, "Unit": "كغ", "ImagePath": "beans.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 305,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "beans.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "العدس",
-        "Description": "بقوليات",
+        "Name": "\u0627\u0644\u0639\u062F\u0633",
+        "Description": "\u0628\u0642\u0648\u0644\u064A\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 265, "Unit": "كغ", "ImagePath": "lentils.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 265,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "lentils.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الفول",
-        "Description": "مقشر أو عادي",
+        "Name": "\u0627\u0644\u0641\u0648\u0644",
+        "Description": "\u0645\u0642\u0634\u0631 \u0623\u0648 \u0639\u0627\u062F\u064A",
         "Variations": [
-          { "MarketName": "مقشر", "SizeName": "1 كغ", "Price": 300, "Unit": "كغ", "ImagePath": "fava_beans.png", "IsAvailable": true },
-          { "MarketName": "عادي", "SizeName": "1 كغ", "Price": 300, "Unit": "كغ", "ImagePath": "fava_beans.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u0642\u0634\u0631",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 300,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "fava_beans.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u062F\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 300,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "fava_beans.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الفويلة",
-        "Description": "بقوليات",
+        "Name": "\u0627\u0644\u0641\u0648\u064A\u0644\u0629",
+        "Description": "\u0628\u0642\u0648\u0644\u064A\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 300, "Unit": "كغ", "ImagePath": "beans.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 300,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "beans.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الدشيشة",
-        "Description": "مفلقة أو رقيقة",
+        "Name": "\u0627\u0644\u062F\u0634\u064A\u0634\u0629",
+        "Description": "\u0645\u0641\u0644\u0642\u0629 \u0623\u0648 \u0631\u0642\u064A\u0642\u0629",
         "Variations": [
-          { "MarketName": "مفلقة", "SizeName": "1 كغ", "Price": 120, "Unit": "كغ", "ImagePath": "bulgur.png", "IsAvailable": true },
-          { "MarketName": "رقيقة", "SizeName": "1 كغ", "Price": 120, "Unit": "كغ", "ImagePath": "bulgur.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u0641\u0644\u0642\u0629",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 120,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "bulgur.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0631\u0642\u064A\u0642\u0629",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 120,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "bulgur.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "المردود",
-        "Description": "بقوليات",
+        "Name": "\u0627\u0644\u0645\u0631\u062F\u0648\u062F",
+        "Description": "\u0628\u0642\u0648\u0644\u064A\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 120, "Unit": "كغ", "ImagePath": "bulgur.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 120,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "bulgur.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "الأرز",
-        "Description": "أبيض أو مفور",
+        "Name": "\u0627\u0644\u0623\u0631\u0632",
+        "Description": "\u0623\u0628\u064A\u0636 \u0623\u0648 \u0645\u0641\u0648\u0631",
         "Variations": [
-          { "MarketName": "أبيض", "SizeName": "1 كغ", "Price": 155, "Unit": "كغ", "ImagePath": "rice.png", "IsAvailable": true },
-          { "MarketName": "مفور", "SizeName": "1 كغ", "Price": 155, "Unit": "كغ", "ImagePath": "rice.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0623\u0628\u064A\u0636",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 155,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "rice.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0641\u0648\u0631",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 155,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "rice.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "كسكس",
-        "Description": "سفينة / البركة / النخلة",
+        "Name": "\u0643\u0633\u0643\u0633",
+        "Description": "\u0633\u0641\u064A\u0646\u0629 / \u0627\u0644\u0628\u0631\u0643\u0629 / \u0627\u0644\u0646\u062E\u0644\u0629",
         "Variations": [
-          { "MarketName": "سفينة", "SizeName": "متوسط 1 كغ", "Price": 160, "Unit": "كغ", "ImagePath": "couscous.png", "IsAvailable": true },
-          { "MarketName": "سفينة", "SizeName": "رقيق 1 كغ", "Price": 160, "Unit": "كغ", "ImagePath": "couscous.png", "IsAvailable": true },
-          { "MarketName": "البركة", "SizeName": "متوسط 1 كغ", "Price": 150, "Unit": "كغ", "ImagePath": "couscous.png", "IsAvailable": true },
-          { "MarketName": "النخلة", "SizeName": "متوسط 1 كغ", "Price": 140, "Unit": "كغ", "ImagePath": "couscous.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "\u0645\u062A\u0648\u0633\u0637 1 \u0643\u063A",
+            "Price": 160,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "couscous.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "\u0631\u0642\u064A\u0642 1 \u0643\u063A",
+            "Price": 160,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "couscous.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0628\u0631\u0643\u0629",
+            "SizeName": "\u0645\u062A\u0648\u0633\u0637 1 \u0643\u063A",
+            "Price": 150,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "couscous.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0646\u062E\u0644\u0629",
+            "SizeName": "\u0645\u062A\u0648\u0633\u0637 1 \u0643\u063A",
+            "Price": 140,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "couscous.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "سميد",
-        "Description": "علامات وأحجام",
+        "Name": "\u0633\u0645\u064A\u062F",
+        "Description": "\u0639\u0644\u0627\u0645\u0627\u062A \u0648\u0623\u062D\u062C\u0627\u0645",
         "Variations": [
-          { "MarketName": "سفينة", "SizeName": "كيس 10 كغ", "Price": 425, "Unit": "كيس", "ImagePath": "semolina.png", "IsAvailable": true },
-          { "MarketName": "سفينة", "SizeName": "كيس 25 كغ", "Price": 1050, "Unit": "كيس", "ImagePath": "semolina.png", "IsAvailable": true },
-          { "MarketName": "الأغواط", "SizeName": "كيس 10 كغ", "Price": 425, "Unit": "كيس", "ImagePath": "semolina.png", "IsAvailable": true },
-          { "MarketName": "الأغواط", "SizeName": "كيس 25 كغ", "Price": 1050, "Unit": "كيس", "ImagePath": "semolina.png", "IsAvailable": true },
-          { "MarketName": "الصرصو", "SizeName": "كيس 10 كغ", "Price": 425, "Unit": "كيس", "ImagePath": "semolina.png", "IsAvailable": true },
-          { "MarketName": "الصرصو", "SizeName": "كيس 25 كغ", "Price": 1050, "Unit": "كيس", "ImagePath": "semolina.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "\u0643\u064A\u0633 10 \u0643\u063A",
+            "Price": 425,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "semolina.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "\u0643\u064A\u0633 25 \u0643\u063A",
+            "Price": 1050,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "semolina.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0623\u063A\u0648\u0627\u0637",
+            "SizeName": "\u0643\u064A\u0633 10 \u0643\u063A",
+            "Price": 425,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "semolina.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0623\u063A\u0648\u0627\u0637",
+            "SizeName": "\u0643\u064A\u0633 25 \u0643\u063A",
+            "Price": 1050,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "semolina.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0635\u0631\u0635\u0648",
+            "SizeName": "\u0643\u064A\u0633 10 \u0643\u063A",
+            "Price": 425,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "semolina.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0635\u0631\u0635\u0648",
+            "SizeName": "\u0643\u064A\u0633 25 \u0643\u063A",
+            "Price": 1050,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "semolina.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "فرينة",
-        "Description": "سفينة / سوسيمي / البركة",
+        "Name": "\u0641\u0631\u064A\u0646\u0629",
+        "Description": "\u0633\u0641\u064A\u0646\u0629 / \u0633\u0648\u0633\u064A\u0645\u064A / \u0627\u0644\u0628\u0631\u0643\u0629",
         "Variations": [
-          { "MarketName": "سفينة", "SizeName": "1 كغ", "Price": 75, "Unit": "كغ", "ImagePath": "flour.png", "IsAvailable": true },
-          { "MarketName": "سفينة", "SizeName": "كيس 5 كغ", "Price": 335, "Unit": "كيس", "ImagePath": "flour.png", "IsAvailable": true },
-          { "MarketName": "سفينة", "SizeName": "كيس 10 كغ", "Price": 600, "Unit": "كيس", "ImagePath": "flour.png", "IsAvailable": true },
-          { "MarketName": "سوسيمي", "SizeName": "1 كغ", "Price": 75, "Unit": "كغ", "ImagePath": "flour.png", "IsAvailable": true },
-          { "MarketName": "البركة", "SizeName": "1 كغ", "Price": 75, "Unit": "كغ", "ImagePath": "flour.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 75,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "flour.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "\u0643\u064A\u0633 5 \u0643\u063A",
+            "Price": 335,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "flour.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0641\u064A\u0646\u0629",
+            "SizeName": "\u0643\u064A\u0633 10 \u0643\u063A",
+            "Price": 600,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "flour.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0633\u0648\u0633\u064A\u0645\u064A",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 75,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "flour.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0628\u0631\u0643\u0629",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 75,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "flour.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "حمص مرحي",
-        "Description": "بقوليات",
+        "Name": "\u062D\u0645\u0635 \u0645\u0631\u062D\u064A",
+        "Description": "\u0628\u0642\u0648\u0644\u064A\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "1 كغ", "Price": 150, "Unit": "كغ", "ImagePath": "chickpeas.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "1 \u0643\u063A",
+            "Price": 150,
+            "Unit": "\u0643\u063A",
+            "ImagePath": "chickpeas.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "عجائن ومعكرونة",
-        "Description": "مقرون / محمصة / تليتلي",
+        "Name": "\u0639\u062C\u0627\u0626\u0646 \u0648\u0645\u0639\u0643\u0631\u0648\u0646\u0629",
+        "Description": "\u0645\u0642\u0631\u0648\u0646 / \u0645\u062D\u0645\u0635\u0629 / \u062A\u0644\u064A\u062A\u0644\u064A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "500 غ", "Price": 85, "Unit": "كيس", "ImagePath": "pasta.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "500 \u063A",
+            "Price": 85,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "pasta.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "شعيرية إندومي",
-        "Description": "دجاج / خضار / جبن / كاري",
+        "Name": "\u0634\u0639\u064A\u0631\u064A\u0629 \u0625\u0646\u062F\u0648\u0645\u064A",
+        "Description": "\u062F\u062C\u0627\u062C / \u062E\u0636\u0627\u0631 / \u062C\u0628\u0646 / \u0643\u0627\u0631\u064A",
         "Variations": [
-          { "MarketName": "دجاج", "SizeName": "70 غ", "Price": 45, "Unit": "كيس", "ImagePath": "indomie.png", "IsAvailable": true },
-          { "MarketName": "خضار", "SizeName": "70 غ", "Price": 45, "Unit": "كيس", "ImagePath": "indomie.png", "IsAvailable": true },
-          { "MarketName": "جبن", "SizeName": "70 غ", "Price": 45, "Unit": "كيس", "ImagePath": "indomie.png", "IsAvailable": true },
-          { "MarketName": "كاري", "SizeName": "70 غ", "Price": 45, "Unit": "كيس", "ImagePath": "indomie.png", "IsAvailable": true }
+          {
+            "MarketName": "\u062F\u062C\u0627\u062C",
+            "SizeName": "70 \u063A",
+            "Price": 45,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "indomie.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062E\u0636\u0627\u0631",
+            "SizeName": "70 \u063A",
+            "Price": 45,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "indomie.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062C\u0628\u0646",
+            "SizeName": "70 \u063A",
+            "Price": 45,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "indomie.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0631\u064A",
+            "SizeName": "70 \u063A",
+            "Price": 45,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "indomie.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "المشروبات",
+    "CategoryName": "\u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062A",
     "Items": [
       {
-        "Name": "ماء معدني",
-        "Description": "صومام / القولية / طوجي",
+        "Name": "\u0645\u0627\u0621 \u0645\u0639\u062F\u0646\u064A",
+        "Description": "\u0635\u0648\u0645\u0627\u0645 / \u0627\u0644\u0642\u0648\u0644\u064A\u0629 / \u0637\u0648\u062C\u064A",
         "Variations": [
-          { "MarketName": "صومام", "SizeName": "33 سل", "Price": 20, "Unit": "قارورة", "ImagePath": "water.png", "IsAvailable": true },
-          { "MarketName": "صومام", "SizeName": "1.5 لتر", "Price": 35, "Unit": "قارورة", "ImagePath": "water.png", "IsAvailable": true },
-          { "MarketName": "القولية", "SizeName": "1.5 لتر", "Price": 40, "Unit": "قارورة", "ImagePath": "water.png", "IsAvailable": true },
-          { "MarketName": "طوجي", "SizeName": "5 لتر", "Price": 90, "Unit": "قارورة", "ImagePath": "water.png", "IsAvailable": true },
-          { "MarketName": "فيشي", "SizeName": "33 سل", "Price": 30, "Unit": "قارورة", "ImagePath": "water.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0635\u0648\u0645\u0627\u0645",
+            "SizeName": "33 \u0633\u0644",
+            "Price": 20,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "water.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0635\u0648\u0645\u0627\u0645",
+            "SizeName": "1.5 \u0644\u062A\u0631",
+            "Price": 35,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "water.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0642\u0648\u0644\u064A\u0629",
+            "SizeName": "1.5 \u0644\u062A\u0631",
+            "Price": 40,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "water.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0637\u0648\u062C\u064A",
+            "SizeName": "5 \u0644\u062A\u0631",
+            "Price": 90,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "water.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0641\u064A\u0634\u064A",
+            "SizeName": "33 \u0633\u0644",
+            "Price": 30,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "water.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مشروب غازي",
-        "Description": "زعيم / شريعة / حمود",
+        "Name": "\u0645\u0634\u0631\u0648\u0628 \u063A\u0627\u0632\u064A",
+        "Description": "\u0632\u0639\u064A\u0645 / \u0634\u0631\u064A\u0639\u0629 / \u062D\u0645\u0648\u062F",
         "Variations": [
-          { "MarketName": "زعيم", "SizeName": "33 سل", "Price": 40, "Unit": "قارورة", "ImagePath": "soda.png", "IsAvailable": true },
-          { "MarketName": "زعيم", "SizeName": "1 لتر", "Price": 65, "Unit": "قارورة", "ImagePath": "soda.png", "IsAvailable": true },
-          { "MarketName": "زعيم", "SizeName": "2 لتر", "Price": 100, "Unit": "قارورة", "ImagePath": "soda.png", "IsAvailable": true },
-          { "MarketName": "حمود", "SizeName": "1 لتر", "Price": 85, "Unit": "قارورة", "ImagePath": "soda.png", "IsAvailable": true },
-          { "MarketName": "حمود", "SizeName": "2 لتر", "Price": 130, "Unit": "قارورة", "ImagePath": "soda.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0632\u0639\u064A\u0645",
+            "SizeName": "33 \u0633\u0644",
+            "Price": 40,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "soda.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0632\u0639\u064A\u0645",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 65,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "soda.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0632\u0639\u064A\u0645",
+            "SizeName": "2 \u0644\u062A\u0631",
+            "Price": 100,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "soda.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0645\u0648\u062F",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 85,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "soda.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0645\u0648\u062F",
+            "SizeName": "2 \u0644\u062A\u0631",
+            "Price": 130,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "soda.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مشروب أمازون",
-        "Description": "طاقة / فيشي / غازي",
+        "Name": "\u0645\u0634\u0631\u0648\u0628 \u0623\u0645\u0627\u0632\u0648\u0646",
+        "Description": "\u0637\u0627\u0642\u0629 / \u0641\u064A\u0634\u064A / \u063A\u0627\u0632\u064A",
         "Variations": [
-          { "MarketName": "طاقة", "SizeName": "33 سل", "Price": 55, "Unit": "قارورة", "ImagePath": "amazon.png", "IsAvailable": true },
-          { "MarketName": "فيشي", "SizeName": "33 سل", "Price": 45, "Unit": "قارورة", "ImagePath": "amazon.png", "IsAvailable": true },
-          { "MarketName": "غازي", "SizeName": "1 لتر", "Price": 100, "Unit": "قارورة", "ImagePath": "amazon.png", "IsAvailable": true },
-          { "MarketName": "غازي", "SizeName": "2 لتر", "Price": 175, "Unit": "قارورة", "ImagePath": "amazon.png", "IsAvailable": true },
-          { "MarketName": "صودا", "SizeName": "2 لتر", "Price": 95, "Unit": "قارورة", "ImagePath": "amazon.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0637\u0627\u0642\u0629",
+            "SizeName": "33 \u0633\u0644",
+            "Price": 55,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "amazon.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0641\u064A\u0634\u064A",
+            "SizeName": "33 \u0633\u0644",
+            "Price": 45,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "amazon.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u063A\u0627\u0632\u064A",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 100,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "amazon.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u063A\u0627\u0632\u064A",
+            "SizeName": "2 \u0644\u062A\u0631",
+            "Price": 175,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "amazon.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0635\u0648\u062F\u0627",
+            "SizeName": "2 \u0644\u062A\u0631",
+            "Price": 95,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "amazon.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مشروب رامي",
-        "Description": "رامي",
+        "Name": "\u0645\u0634\u0631\u0648\u0628 \u0631\u0627\u0645\u064A",
+        "Description": "\u0631\u0627\u0645\u064A",
         "Variations": [
-          { "MarketName": "رامي", "SizeName": "1.25 لتر", "Price": 135, "Unit": "قارورة", "ImagePath": "rami.png", "IsAvailable": true },
-          { "MarketName": "رامي", "SizeName": "2 لتر", "Price": 185, "Unit": "قارورة", "ImagePath": "rami.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0631\u0627\u0645\u064A",
+            "SizeName": "1.25 \u0644\u062A\u0631",
+            "Price": 135,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "rami.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0631\u0627\u0645\u064A",
+            "SizeName": "2 \u0644\u062A\u0631",
+            "Price": 185,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "rami.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مشروب معلب",
-        "Description": "دايلي / نقاوس / صومي",
+        "Name": "\u0645\u0634\u0631\u0648\u0628 \u0645\u0639\u0644\u0628",
+        "Description": "\u062F\u0627\u064A\u0644\u064A / \u0646\u0642\u0627\u0648\u0633 / \u0635\u0648\u0645\u064A",
         "Variations": [
-          { "MarketName": "دايلي", "SizeName": "125 مل", "Price": 10, "Unit": "علبة", "ImagePath": "canned_drink.png", "IsAvailable": true },
-          { "MarketName": "دايلي", "SizeName": "20 سل", "Price": 25, "Unit": "علبة", "ImagePath": "canned_drink.png", "IsAvailable": true },
-          { "MarketName": "دايلي", "SizeName": "1 لتر", "Price": 75, "Unit": "علبة", "ImagePath": "canned_drink.png", "IsAvailable": true },
-          { "MarketName": "نقاوس", "SizeName": "1 لتر", "Price": 105, "Unit": "علبة", "ImagePath": "canned_drink.png", "IsAvailable": true },
-          { "MarketName": "صومي", "SizeName": "حليب 20 سل", "Price": 45, "Unit": "علبة", "ImagePath": "canned_drink.png", "IsAvailable": true },
-          { "MarketName": "صومي", "SizeName": "شوكولاتة 20 سل", "Price": 10, "Unit": "علبة", "ImagePath": "canned_drink.png", "IsAvailable": true }
+          {
+            "MarketName": "\u062F\u0627\u064A\u0644\u064A",
+            "SizeName": "125 \u0645\u0644",
+            "Price": 10,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "canned_drink.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062F\u0627\u064A\u0644\u064A",
+            "SizeName": "20 \u0633\u0644",
+            "Price": 25,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "canned_drink.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062F\u0627\u064A\u0644\u064A",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 75,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "canned_drink.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0646\u0642\u0627\u0648\u0633",
+            "SizeName": "1 \u0644\u062A\u0631",
+            "Price": 105,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "canned_drink.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0635\u0648\u0645\u064A",
+            "SizeName": "\u062D\u0644\u064A\u0628 20 \u0633\u0644",
+            "Price": 45,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "canned_drink.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0635\u0648\u0645\u064A",
+            "SizeName": "\u0634\u0648\u0643\u0648\u0644\u0627\u062A\u0629 20 \u0633\u0644",
+            "Price": 10,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "canned_drink.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "عصير أميلا",
-        "Description": "أكياس",
+        "Name": "\u0639\u0635\u064A\u0631 \u0623\u0645\u064A\u0644\u0627",
+        "Description": "\u0623\u0643\u064A\u0627\u0633",
         "Variations": [
-          { "MarketName": "أميلا", "SizeName": "كيس", "Price": 40, "Unit": "كيس", "ImagePath": "juice.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0623\u0645\u064A\u0644\u0627",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 40,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "juice.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "المكسرات والحلويات",
+    "CategoryName": "\u0627\u0644\u0645\u0643\u0633\u0631\u0627\u062A \u0648\u0627\u0644\u062D\u0644\u0648\u064A\u0627\u062A",
     "Items": [
       {
-        "Name": "مكسرات",
-        "Description": "كاوكاو / لوز / كاجو",
+        "Name": "\u0645\u0643\u0633\u0631\u0627\u062A",
+        "Description": "\u0643\u0627\u0648\u0643\u0627\u0648 / \u0644\u0648\u0632 / \u0643\u0627\u062C\u0648",
         "Variations": [
-          { "MarketName": "كاوكاو مملح", "SizeName": "100 غ", "Price": 60, "Unit": "كيس", "ImagePath": "nuts.png", "IsAvailable": true },
-          { "MarketName": "كاوكاو مجمر", "SizeName": "100 غ", "Price": 75, "Unit": "كيس", "ImagePath": "nuts.png", "IsAvailable": true },
-          { "MarketName": "لوز", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "nuts.png", "IsAvailable": true },
-          { "MarketName": "كاجو", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "nuts.png", "IsAvailable": true },
-          { "MarketName": "بيسطاش", "SizeName": "50 غ", "Price": 150, "Unit": "كيس", "ImagePath": "nuts.png", "IsAvailable": true },
-          { "MarketName": "متنوعة", "SizeName": "50 غ", "Price": 100, "Unit": "كيس", "ImagePath": "nuts.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0643\u0627\u0648\u0643\u0627\u0648 \u0645\u0645\u0644\u062D",
+            "SizeName": "100 \u063A",
+            "Price": 60,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "nuts.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0648\u0643\u0627\u0648 \u0645\u062C\u0645\u0631",
+            "SizeName": "100 \u063A",
+            "Price": 75,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "nuts.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0644\u0648\u0632",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "nuts.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u062C\u0648",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "nuts.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u064A\u0633\u0637\u0627\u0634",
+            "SizeName": "50 \u063A",
+            "Price": 150,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "nuts.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u062A\u0646\u0648\u0639\u0629",
+            "SizeName": "50 \u063A",
+            "Price": 100,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "nuts.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مادلين",
-        "Description": "الشروق / تومي",
+        "Name": "\u0645\u0627\u062F\u0644\u064A\u0646",
+        "Description": "\u0627\u0644\u0634\u0631\u0648\u0642 / \u062A\u0648\u0645\u064A",
         "Variations": [
-          { "MarketName": "الشروق", "SizeName": "8 قطع", "Price": 50, "Unit": "علبة", "ImagePath": "madeleine.png", "IsAvailable": true },
-          { "MarketName": "تومي", "SizeName": "8 قطع", "Price": 80, "Unit": "علبة", "ImagePath": "madeleine.png", "IsAvailable": true },
-          { "MarketName": "الشروق", "SizeName": "14 قطعة", "Price": 120, "Unit": "علبة", "ImagePath": "madeleine.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0644\u0634\u0631\u0648\u0642",
+            "SizeName": "8 \u0642\u0637\u0639",
+            "Price": 50,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "madeleine.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0648\u0645\u064A",
+            "SizeName": "8 \u0642\u0637\u0639",
+            "Price": 80,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "madeleine.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0634\u0631\u0648\u0642",
+            "SizeName": "14 \u0642\u0637\u0639\u0629",
+            "Price": 120,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "madeleine.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بسكويت",
-        "Description": "بودوار / تانغو / بيمو",
+        "Name": "\u0628\u0633\u0643\u0648\u064A\u062A",
+        "Description": "\u0628\u0648\u062F\u0648\u0627\u0631 / \u062A\u0627\u0646\u063A\u0648 / \u0628\u064A\u0645\u0648",
         "Variations": [
-          { "MarketName": "بودوار", "SizeName": "170-200 غ", "Price": 125, "Unit": "علبة", "ImagePath": "biscuit.png", "IsAvailable": true },
-          { "MarketName": "تانغو", "SizeName": "علبة", "Price": 120, "Unit": "علبة", "ImagePath": "biscuit.png", "IsAvailable": true },
-          { "MarketName": "بيمو", "SizeName": "قاليت", "Price": 120, "Unit": "علبة", "ImagePath": "biscuit.png", "IsAvailable": true },
-          { "MarketName": "جاف فطور", "SizeName": "كيس", "Price": 50, "Unit": "كيس", "ImagePath": "biscuit.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0628\u0648\u062F\u0648\u0627\u0631",
+            "SizeName": "170-200 \u063A",
+            "Price": 125,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "biscuit.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0627\u0646\u063A\u0648",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 120,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "biscuit.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u064A\u0645\u0648",
+            "SizeName": "\u0642\u0627\u0644\u064A\u062A",
+            "Price": 120,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "biscuit.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062C\u0627\u0641 \u0641\u0637\u0648\u0631",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 50,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "biscuit.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "حلويات",
-        "Description": "الشامية / الحلقوم",
+        "Name": "\u062D\u0644\u0648\u064A\u0627\u062A",
+        "Description": "\u0627\u0644\u0634\u0627\u0645\u064A\u0629 / \u0627\u0644\u062D\u0644\u0642\u0648\u0645",
         "Variations": [
-          { "MarketName": "شامية", "SizeName": "100 غ", "Price": 65, "Unit": "كيس", "ImagePath": "sweets.png", "IsAvailable": true },
-          { "MarketName": "شامية", "SizeName": "200 غ", "Price": 185, "Unit": "علبة", "ImagePath": "sweets.png", "IsAvailable": true },
-          { "MarketName": "شامية", "SizeName": "800 غ", "Price": 550, "Unit": "علبة", "ImagePath": "sweets.png", "IsAvailable": true },
-          { "MarketName": "حلقوم", "SizeName": "200 غ", "Price": 100, "Unit": "علبة", "ImagePath": "sweets.png", "IsAvailable": true },
-          { "MarketName": "حلقوم", "SizeName": "400 غ", "Price": 145, "Unit": "علبة", "ImagePath": "sweets.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0634\u0627\u0645\u064A\u0629",
+            "SizeName": "100 \u063A",
+            "Price": 65,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "sweets.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0634\u0627\u0645\u064A\u0629",
+            "SizeName": "200 \u063A",
+            "Price": 185,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "sweets.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0634\u0627\u0645\u064A\u0629",
+            "SizeName": "800 \u063A",
+            "Price": 550,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "sweets.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0644\u0642\u0648\u0645",
+            "SizeName": "200 \u063A",
+            "Price": 100,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "sweets.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062D\u0644\u0642\u0648\u0645",
+            "SizeName": "400 \u063A",
+            "Price": 145,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "sweets.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "شيبس",
-        "Description": "أحجام مختلفة",
+        "Name": "\u0634\u064A\u0628\u0633",
+        "Description": "\u0623\u062D\u062C\u0627\u0645 \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "5 دج", "Price": 5, "Unit": "كيس", "ImagePath": "chips.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "10 دج", "Price": 10, "Unit": "كيس", "ImagePath": "chips.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "20 دج", "Price": 20, "Unit": "كيس", "ImagePath": "chips.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "ميزان 50 غ", "Price": 50, "Unit": "كيس", "ImagePath": "chips.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "5 \u062F\u062C",
+            "Price": 5,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "chips.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "10 \u062F\u062C",
+            "Price": 10,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "chips.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "20 \u062F\u062C",
+            "Price": 20,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "chips.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0645\u064A\u0632\u0627\u0646 50 \u063A",
+            "Price": 50,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "chips.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "شكولاطة",
-        "Description": "عادية / ماكسن / أوبتيلا",
+        "Name": "\u0634\u0643\u0648\u0644\u0627\u0637\u0629",
+        "Description": "\u0639\u0627\u062F\u064A\u0629 / \u0645\u0627\u0643\u0633\u0646 / \u0623\u0648\u0628\u062A\u064A\u0644\u0627",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "10 دج", "Price": 10, "Unit": "حبة", "ImagePath": "chocolate.png", "IsAvailable": true },
-          { "MarketName": "لوحة عادية", "SizeName": "90 غ", "Price": 90, "Unit": "حبة", "ImagePath": "chocolate.png", "IsAvailable": true },
-          { "MarketName": "لوحة ماكسن", "SizeName": "170 غ", "Price": 170, "Unit": "حبة", "ImagePath": "chocolate.png", "IsAvailable": true },
-          { "MarketName": "مسحوق", "SizeName": "300 غ", "Price": 225, "Unit": "علبة", "ImagePath": "chocolate_powder.png", "IsAvailable": true },
-          { "MarketName": "مسحوق", "SizeName": "500 غ", "Price": 260, "Unit": "علبة", "ImagePath": "chocolate_powder.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "10 \u062F\u062C",
+            "Price": 10,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "chocolate.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0644\u0648\u062D\u0629 \u0639\u0627\u062F\u064A\u0629",
+            "SizeName": "90 \u063A",
+            "Price": 90,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "chocolate.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0644\u0648\u062D\u0629 \u0645\u0627\u0643\u0633\u0646",
+            "SizeName": "170 \u063A",
+            "Price": 170,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "chocolate.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0633\u062D\u0648\u0642",
+            "SizeName": "300 \u063A",
+            "Price": 225,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "chocolate_powder.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0633\u062D\u0648\u0642",
+            "SizeName": "500 \u063A",
+            "Price": 260,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "chocolate_powder.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "المثلجات",
+    "CategoryName": "\u0627\u0644\u0645\u062B\u0644\u062C\u0627\u062A",
     "Items": [
       {
-        "Name": "مثلجات",
-        "Description": "أشكال مختلفة",
+        "Name": "\u0645\u062B\u0644\u062C\u0627\u062A",
+        "Description": "\u0623\u0634\u0643\u0627\u0644 \u0645\u062E\u062A\u0644\u0641\u0629",
         "Variations": [
-          { "MarketName": "الفلاش", "SizeName": "حبة", "Price": 5, "Unit": "حبة", "ImagePath": "ice_cream.png", "IsAvailable": true },
-          { "MarketName": "بريما ميني", "SizeName": "حبة", "Price": 35, "Unit": "حبة", "ImagePath": "ice_cream.png", "IsAvailable": true },
-          { "MarketName": "بريما سيبرام", "SizeName": "حبة", "Price": 60, "Unit": "حبة", "ImagePath": "ice_cream.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "علبة 900 مل", "Price": 255, "Unit": "علبة", "ImagePath": "ice_cream.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "علبة 1.2 لتر", "Price": 270, "Unit": "علبة", "ImagePath": "ice_cream.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0644\u0641\u0644\u0627\u0634",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 5,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "ice_cream.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0631\u064A\u0645\u0627 \u0645\u064A\u0646\u064A",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 35,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "ice_cream.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0631\u064A\u0645\u0627 \u0633\u064A\u0628\u0631\u0627\u0645",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 60,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "ice_cream.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0639\u0644\u0628\u0629 900 \u0645\u0644",
+            "Price": 255,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ice_cream.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0639\u0644\u0628\u0629 1.2 \u0644\u062A\u0631",
+            "Price": 270,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "ice_cream.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "المستلزمات الشخصية",
+    "CategoryName": "\u0627\u0644\u0645\u0633\u062A\u0644\u0632\u0645\u0627\u062A \u0627\u0644\u0634\u062E\u0635\u064A\u0629",
     "Items": [
       {
-        "Name": "مناديل شخصية",
-        "Description": "للجيب / مطهرة",
+        "Name": "\u0645\u0646\u0627\u062F\u064A\u0644 \u0634\u062E\u0635\u064A\u0629",
+        "Description": "\u0644\u0644\u062C\u064A\u0628 / \u0645\u0637\u0647\u0631\u0629",
         "Variations": [
-          { "MarketName": "للجيب", "SizeName": "علبة", "Price": 15, "Unit": "علبة", "ImagePath": "tissues.png", "IsAvailable": true },
-          { "MarketName": "مطهرة", "SizeName": "عبوة", "Price": 100, "Unit": "عبوة", "ImagePath": "tissues.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0644\u0644\u062C\u064A\u0628",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 15,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "tissues.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0637\u0647\u0631\u0629",
+            "SizeName": "\u0639\u0628\u0648\u0629",
+            "Price": 100,
+            "Unit": "\u0639\u0628\u0648\u0629",
+            "ImagePath": "tissues.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "فازلين",
-        "Description": "عناية",
+        "Name": "\u0641\u0627\u0632\u0644\u064A\u0646",
+        "Description": "\u0639\u0646\u0627\u064A\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "علبة", "Price": 65, "Unit": "علبة", "ImagePath": "vaseline.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 65,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "vaseline.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مزيل الشعر",
-        "Description": "آل سان / الغالية",
+        "Name": "\u0645\u0632\u064A\u0644 \u0627\u0644\u0634\u0639\u0631",
+        "Description": "\u0622\u0644 \u0633\u0627\u0646 / \u0627\u0644\u063A\u0627\u0644\u064A\u0629",
         "Variations": [
-          { "MarketName": "آل سان", "SizeName": "علبة", "Price": 100, "Unit": "علبة", "ImagePath": "hair_remover.png", "IsAvailable": true },
-          { "MarketName": "الغالية", "SizeName": "علبة", "Price": 45, "Unit": "علبة", "ImagePath": "hair_remover.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0622\u0644 \u0633\u0627\u0646",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 100,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "hair_remover.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u063A\u0627\u0644\u064A\u0629",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 45,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "hair_remover.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "صبغة الشعر",
-        "Description": "لوريات",
+        "Name": "\u0635\u0628\u063A\u0629 \u0627\u0644\u0634\u0639\u0631",
+        "Description": "\u0644\u0648\u0631\u064A\u0627\u062A",
         "Variations": [
-          { "MarketName": "لوريات", "SizeName": "علبة", "Price": 135, "Unit": "علبة", "ImagePath": "hair_dye.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0644\u0648\u0631\u064A\u0627\u062A",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 135,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "hair_dye.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أوكسيدون",
+        "Name": "\u0623\u0648\u0643\u0633\u064A\u062F\u0648\u0646",
         "Description": "20-30",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قارورة", "Price": 50, "Unit": "قارورة", "ImagePath": "oxidant.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "Price": 50,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "oxidant.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مزيل عرق",
-        "Description": "عادي",
+        "Name": "\u0645\u0632\u064A\u0644 \u0639\u0631\u0642",
+        "Description": "\u0639\u0627\u062F\u064A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "علبة", "Price": 180, "Unit": "علبة", "ImagePath": "deodorant.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 180,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "deodorant.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "عطر",
-        "Description": "عادي",
+        "Name": "\u0639\u0637\u0631",
+        "Description": "\u0639\u0627\u062F\u064A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قارورة", "Price": 300, "Unit": "قارورة", "ImagePath": "perfume.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "Price": 300,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "perfume.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "صابون جلدي",
-        "Description": "معطر",
+        "Name": "\u0635\u0627\u0628\u0648\u0646 \u062C\u0644\u062F\u064A",
+        "Description": "\u0645\u0639\u0637\u0631",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حبة", "Price": 60, "Unit": "حبة", "ImagePath": "soap.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 60,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "soap.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "شامبو",
-        "Description": "فينوس",
+        "Name": "\u0634\u0627\u0645\u0628\u0648",
+        "Description": "\u0641\u064A\u0646\u0648\u0633",
         "Variations": [
-          { "MarketName": "فينوس", "SizeName": "2في1", "Price": 120, "Unit": "قارورة", "ImagePath": "shampoo.png", "IsAvailable": true },
-          { "MarketName": "فينوس", "SizeName": "3في1", "Price": 120, "Unit": "قارورة", "ImagePath": "shampoo.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0641\u064A\u0646\u0648\u0633",
+            "SizeName": "2\u0641\u064A1",
+            "Price": 120,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "shampoo.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0641\u064A\u0646\u0648\u0633",
+            "SizeName": "3\u0641\u064A1",
+            "Price": 120,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "shampoo.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "قداحة شخصية",
-        "Description": "متنوعات",
+        "Name": "\u0642\u062F\u0627\u062D\u0629 \u0634\u062E\u0635\u064A\u0629",
+        "Description": "\u0645\u062A\u0646\u0648\u0639\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قطعة", "Price": 25, "Unit": "قطعة", "ImagePath": "lighter.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0637\u0639\u0629",
+            "Price": 25,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "lighter.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "الحفاظات",
+    "CategoryName": "\u0627\u0644\u062D\u0641\u0627\u0638\u0627\u062A",
     "Items": [
       {
-        "Name": "حفاظات",
-        "Description": "أوان / النفساء / كان بيبي / دادا",
+        "Name": "\u062D\u0641\u0627\u0638\u0627\u062A",
+        "Description": "\u0623\u0648\u0627\u0646 / \u0627\u0644\u0646\u0641\u0633\u0627\u0621 / \u0643\u0627\u0646 \u0628\u064A\u0628\u064A / \u062F\u0627\u062F\u0627",
         "Variations": [
-          { "MarketName": "أوان", "SizeName": "عبوة", "Price": 85, "Unit": "عبوة", "ImagePath": "diapers.png", "IsAvailable": true },
-          { "MarketName": "النفساء", "SizeName": "عبوة", "Price": 195, "Unit": "عبوة", "ImagePath": "diapers.png", "IsAvailable": true },
-          { "MarketName": "كان بيبي", "SizeName": "1-5", "Price": 250, "Unit": "علبة", "ImagePath": "diapers.png", "IsAvailable": true },
-          { "MarketName": "كان بيبي", "SizeName": "6", "Price": 350, "Unit": "علبة", "ImagePath": "diapers.png", "IsAvailable": true },
-          { "MarketName": "بيمبيز", "SizeName": "4-6", "Price": 1140, "Unit": "محفظة", "ImagePath": "diapers.png", "IsAvailable": true },
-          { "MarketName": "دادا", "SizeName": "2-3", "Price": 430, "Unit": "محفظة", "ImagePath": "diapers.png", "IsAvailable": true },
-          { "MarketName": "دادا", "SizeName": "4-5-6", "Price": 485, "Unit": "محفظة", "ImagePath": "diapers.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0623\u0648\u0627\u0646",
+            "SizeName": "\u0639\u0628\u0648\u0629",
+            "Price": 85,
+            "Unit": "\u0639\u0628\u0648\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0644\u0646\u0641\u0633\u0627\u0621",
+            "SizeName": "\u0639\u0628\u0648\u0629",
+            "Price": 195,
+            "Unit": "\u0639\u0628\u0648\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0646 \u0628\u064A\u0628\u064A",
+            "SizeName": "1-5",
+            "Price": 250,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0643\u0627\u0646 \u0628\u064A\u0628\u064A",
+            "SizeName": "6",
+            "Price": 350,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u064A\u0645\u0628\u064A\u0632",
+            "SizeName": "4-6",
+            "Price": 1140,
+            "Unit": "\u0645\u062D\u0641\u0638\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062F\u0627\u062F\u0627",
+            "SizeName": "2-3",
+            "Price": 430,
+            "Unit": "\u0645\u062D\u0641\u0638\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062F\u0627\u062F\u0627",
+            "SizeName": "4-5-6",
+            "Price": 485,
+            "Unit": "\u0645\u062D\u0641\u0638\u0629",
+            "ImagePath": "diapers.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "جوكينق دافئ للأطفال",
-        "Description": "ملابس أطفال شتوية",
+        "Name": "\u062C\u0648\u0643\u064A\u0646\u0642 \u062F\u0627\u0641\u0626 \u0644\u0644\u0623\u0637\u0641\u0627\u0644",
+        "Description": "\u0645\u0644\u0627\u0628\u0633 \u0623\u0637\u0641\u0627\u0644 \u0634\u062A\u0648\u064A\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "مقاس واحد", "Price": 1700, "Unit": "قطعة", "ImagePath": "baby_clothes.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0645\u0642\u0627\u0633 \u0648\u0627\u062D\u062F",
+            "Price": 1700,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "baby_clothes.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بطانية مواليد شتوية",
-        "Description": "بطاطين مواليد",
+        "Name": "\u0628\u0637\u0627\u0646\u064A\u0629 \u0645\u0648\u0627\u0644\u064A\u062F \u0634\u062A\u0648\u064A\u0629",
+        "Description": "\u0628\u0637\u0627\u0637\u064A\u0646 \u0645\u0648\u0627\u0644\u064A\u062F",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "شتوي", "Price": 900, "Unit": "قطعة", "ImagePath": "baby_blanket.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "فاخر", "Price": 990, "Unit": "قطعة", "ImagePath": "baby_blanket.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0634\u062A\u0648\u064A",
+            "Price": 900,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "baby_blanket.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0641\u0627\u062E\u0631",
+            "Price": 990,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "baby_blanket.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "طقم 100% قطن جاكيت و بودي و سروال",
-        "Description": "ملابس أطفال قطنية",
+        "Name": "\u0637\u0642\u0645 100% \u0642\u0637\u0646 \u062C\u0627\u0643\u064A\u062A \u0648 \u0628\u0648\u062F\u064A \u0648 \u0633\u0631\u0648\u0627\u0644",
+        "Description": "\u0645\u0644\u0627\u0628\u0633 \u0623\u0637\u0641\u0627\u0644 \u0642\u0637\u0646\u064A\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "مقاس واحد", "Price": 1050, "Unit": "طقم", "ImagePath": "baby_clothes.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0645\u0642\u0627\u0633 \u0648\u0627\u062D\u062F",
+            "Price": 1050,
+            "Unit": "\u0637\u0642\u0645",
+            "ImagePath": "baby_clothes.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "التنظيف والصيانة",
+    "CategoryName": "\u0627\u0644\u062A\u0646\u0638\u064A\u0641 \u0648\u0627\u0644\u0635\u064A\u0627\u0646\u0629",
     "Items": [
       {
-        "Name": "مبيد حشرات",
-        "Description": "كازا / ساميتوكس",
+        "Name": "\u0645\u0628\u064A\u062F \u062D\u0634\u0631\u0627\u062A",
+        "Description": "\u0643\u0627\u0632\u0627 / \u0633\u0627\u0645\u064A\u062A\u0648\u0643\u0633",
         "Variations": [
-          { "MarketName": "كازا", "SizeName": "300 مل", "Price": 155, "Unit": "بخاخة", "ImagePath": "insecticide.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0643\u0627\u0632\u0627",
+            "SizeName": "300 \u0645\u0644",
+            "Price": 155,
+            "Unit": "\u0628\u062E\u0627\u062E\u0629",
+            "ImagePath": "insecticide.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "صابون مسحوق",
-        "Description": "ازيس / تست / أومو",
+        "Name": "\u0635\u0627\u0628\u0648\u0646 \u0645\u0633\u062D\u0648\u0642",
+        "Description": "\u0627\u0632\u064A\u0633 / \u062A\u0633\u062A / \u0623\u0648\u0645\u0648",
         "Variations": [
-          { "MarketName": "ازيس", "SizeName": "300 غ", "Price": 95, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "ازيس", "SizeName": "580 غ", "Price": 170, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "ازيس", "SizeName": "750 غ", "Price": 215, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "تست", "SizeName": "300 غ", "Price": 95, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "تست", "SizeName": "580 غ", "Price": 170, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "تست", "SizeName": "750 غ", "Price": 215, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "أومو", "SizeName": "300 غ", "Price": 95, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "أومو", "SizeName": "580 غ", "Price": 170, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true },
-          { "MarketName": "أومو", "SizeName": "750 غ", "Price": 215, "Unit": "كيس", "ImagePath": "detergent.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0632\u064A\u0633",
+            "SizeName": "300 \u063A",
+            "Price": 95,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0632\u064A\u0633",
+            "SizeName": "580 \u063A",
+            "Price": 170,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0632\u064A\u0633",
+            "SizeName": "750 \u063A",
+            "Price": 215,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0633\u062A",
+            "SizeName": "300 \u063A",
+            "Price": 95,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0633\u062A",
+            "SizeName": "580 \u063A",
+            "Price": 170,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0633\u062A",
+            "SizeName": "750 \u063A",
+            "Price": 215,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0648\u0645\u0648",
+            "SizeName": "300 \u063A",
+            "Price": 95,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0648\u0645\u0648",
+            "SizeName": "580 \u063A",
+            "Price": 170,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0623\u0648\u0645\u0648",
+            "SizeName": "750 \u063A",
+            "Price": 215,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "detergent.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "غسول أواني",
-        "Description": "ازيس بريل - تست",
+        "Name": "\u063A\u0633\u0648\u0644 \u0623\u0648\u0627\u0646\u064A",
+        "Description": "\u0627\u0632\u064A\u0633 \u0628\u0631\u064A\u0644 - \u062A\u0633\u062A",
         "Variations": [
-          { "MarketName": "ازيس بريل", "SizeName": "650 مل", "Price": 175, "Unit": "قارورة", "ImagePath": "dish_soap.png", "IsAvailable": true },
-          { "MarketName": "ازيس بريل", "SizeName": "1.25 لتر", "Price": 295, "Unit": "قارورة", "ImagePath": "dish_soap.png", "IsAvailable": true },
-          { "MarketName": "تست", "SizeName": "650 مل", "Price": 175, "Unit": "قارورة", "ImagePath": "dish_soap.png", "IsAvailable": true },
-          { "MarketName": "تست", "SizeName": "1.25 لتر", "Price": 295, "Unit": "قارورة", "ImagePath": "dish_soap.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0627\u0632\u064A\u0633 \u0628\u0631\u064A\u0644",
+            "SizeName": "650 \u0645\u0644",
+            "Price": 175,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "dish_soap.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0627\u0632\u064A\u0633 \u0628\u0631\u064A\u0644",
+            "SizeName": "1.25 \u0644\u062A\u0631",
+            "Price": 295,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "dish_soap.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0633\u062A",
+            "SizeName": "650 \u0645\u0644",
+            "Price": 175,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "dish_soap.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u062A\u0633\u062A",
+            "SizeName": "1.25 \u0644\u062A\u0631",
+            "Price": 295,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "dish_soap.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "جافيل",
-        "Description": "قارورة / دلو",
+        "Name": "\u062C\u0627\u0641\u064A\u0644",
+        "Description": "\u0642\u0627\u0631\u0648\u0631\u0629 / \u062F\u0644\u0648",
         "Variations": [
-          { "MarketName": "ناصح", "SizeName": "قارورة 720 مل", "Price": 60, "Unit": "قارورة", "ImagePath": "bleach.png", "IsAvailable": true },
-          { "MarketName": "ناصح", "SizeName": "دلو 5 لتر", "Price": 235, "Unit": "دلو", "ImagePath": "bleach.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0646\u0627\u0635\u062D",
+            "SizeName": "\u0642\u0627\u0631\u0648\u0631\u0629 720 \u0645\u0644",
+            "Price": 60,
+            "Unit": "\u0642\u0627\u0631\u0648\u0631\u0629",
+            "ImagePath": "bleach.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0646\u0627\u0635\u062D",
+            "SizeName": "\u062F\u0644\u0648 5 \u0644\u062A\u0631",
+            "Price": 235,
+            "Unit": "\u062F\u0644\u0648",
+            "ImagePath": "bleach.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "فرطوار",
-        "Description": "ماسح الأرض",
+        "Name": "\u0641\u0631\u0637\u0648\u0627\u0631",
+        "Description": "\u0645\u0627\u0633\u062D \u0627\u0644\u0623\u0631\u0636",
         "Variations": [
-          { "MarketName": "عادي", "SizeName": "قطعة", "Price": 65, "Unit": "قطعة", "ImagePath": "mop.png", "IsAvailable": true },
-          { "MarketName": "ممتاز", "SizeName": "قطعة", "Price": 140, "Unit": "قطعة", "ImagePath": "mop.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u062F\u064A",
+            "SizeName": "\u0642\u0637\u0639\u0629",
+            "Price": 65,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "mop.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0645\u062A\u0627\u0632",
+            "SizeName": "\u0642\u0637\u0639\u0629",
+            "Price": 140,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "mop.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "مستلزمات المطبخ",
+    "CategoryName": "\u0645\u0633\u062A\u0644\u0632\u0645\u0627\u062A \u0627\u0644\u0645\u0637\u0628\u062E",
     "Items": [
       {
-        "Name": "قداحة مطبخ",
-        "Description": "أدوات",
+        "Name": "\u0642\u062F\u0627\u062D\u0629 \u0645\u0637\u0628\u062E",
+        "Description": "\u0623\u062F\u0648\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قطعة", "Price": 95, "Unit": "قطعة", "ImagePath": "kitchen_lighter.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0637\u0639\u0629",
+            "Price": 95,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "kitchen_lighter.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مربع غسل الأواني",
-        "Description": "عادي / مخدة / بونجة",
+        "Name": "\u0645\u0631\u0628\u0639 \u063A\u0633\u0644 \u0627\u0644\u0623\u0648\u0627\u0646\u064A",
+        "Description": "\u0639\u0627\u062F\u064A / \u0645\u062E\u062F\u0629 / \u0628\u0648\u0646\u062C\u0629",
         "Variations": [
-          { "MarketName": "عادي", "SizeName": "حبة", "Price": 10, "Unit": "حبة", "ImagePath": "sponge.png", "IsAvailable": true },
-          { "MarketName": "مخدة", "SizeName": "حبة", "Price": 45, "Unit": "حبة", "ImagePath": "sponge.png", "IsAvailable": true },
-          { "MarketName": "بونجة", "SizeName": "حبة", "Price": 100, "Unit": "حبة", "ImagePath": "sponge.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u062F\u064A",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 10,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "sponge.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u062E\u062F\u0629",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 45,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "sponge.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0628\u0648\u0646\u062C\u0629",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 100,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "sponge.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ورق الطهي",
-        "Description": "أدوات",
+        "Name": "\u0648\u0631\u0642 \u0627\u0644\u0637\u0647\u064A",
+        "Description": "\u0623\u062F\u0648\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "5 متر", "Price": 80, "Unit": "لفة", "ImagePath": "baking_paper.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "5 \u0645\u062A\u0631",
+            "Price": 80,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "baking_paper.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ورق الشفاف",
-        "Description": "سيلوفان",
+        "Name": "\u0648\u0631\u0642 \u0627\u0644\u0634\u0641\u0627\u0641",
+        "Description": "\u0633\u064A\u0644\u0648\u0641\u0627\u0646",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "10 متر", "Price": 70, "Unit": "لفة", "ImagePath": "cling_film.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "30 متر", "Price": 155, "Unit": "لفة", "ImagePath": "cling_film.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "200 متر", "Price": 850, "Unit": "لفة", "ImagePath": "cling_film.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "10 \u0645\u062A\u0631",
+            "Price": 70,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "cling_film.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "30 \u0645\u062A\u0631",
+            "Price": 155,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "cling_film.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "200 \u0645\u062A\u0631",
+            "Price": 850,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "cling_film.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "ورق الألومنيوم",
-        "Description": "أدوات",
+        "Name": "\u0648\u0631\u0642 \u0627\u0644\u0623\u0644\u0648\u0645\u0646\u064A\u0648\u0645",
+        "Description": "\u0623\u062F\u0648\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "5 متر", "Price": 145, "Unit": "لفة", "ImagePath": "foil.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "10 متر", "Price": 250, "Unit": "لفة", "ImagePath": "foil.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "5 \u0645\u062A\u0631",
+            "Price": 145,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "foil.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "10 \u0645\u062A\u0631",
+            "Price": 250,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "foil.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مناديل اليدين",
-        "Description": "بيضاء / مطبوعة",
+        "Name": "\u0645\u0646\u0627\u062F\u064A\u0644 \u0627\u0644\u064A\u062F\u064A\u0646",
+        "Description": "\u0628\u064A\u0636\u0627\u0621 / \u0645\u0637\u0628\u0648\u0639\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "علبة", "Price": 75, "Unit": "علبة", "ImagePath": "napkins.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0639\u0644\u0628\u0629",
+            "Price": 75,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "napkins.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "لفات ورقية للمطبخ",
-        "Description": "أبيض / مطبوع",
+        "Name": "\u0644\u0641\u0627\u062A \u0648\u0631\u0642\u064A\u0629 \u0644\u0644\u0645\u0637\u0628\u062E",
+        "Description": "\u0623\u0628\u064A\u0636 / \u0645\u0637\u0628\u0648\u0639",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "لفة", "Price": 170, "Unit": "لفة", "ImagePath": "kitchen_towel.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0644\u0641\u0629",
+            "Price": 170,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "kitchen_towel.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "لفات ورقية صحية",
-        "Description": "للحمام",
+        "Name": "\u0644\u0641\u0627\u062A \u0648\u0631\u0642\u064A\u0629 \u0635\u062D\u064A\u0629",
+        "Description": "\u0644\u0644\u062D\u0645\u0627\u0645",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "لفة", "Price": 105, "Unit": "لفة", "ImagePath": "toilet_paper.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0644\u0641\u0629",
+            "Price": 105,
+            "Unit": "\u0644\u0641\u0629",
+            "ImagePath": "toilet_paper.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "الأدوات المدرسية",
+    "CategoryName": "\u0627\u0644\u0623\u062F\u0648\u0627\u062A \u0627\u0644\u0645\u062F\u0631\u0633\u064A\u0629",
     "Items": [
       {
-        "Name": "سيالة",
-        "Description": "اللون والنوع",
+        "Name": "\u0633\u064A\u0627\u0644\u0629",
+        "Description": "\u0627\u0644\u0644\u0648\u0646 \u0648\u0627\u0644\u0646\u0648\u0639",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "قطعة", "Price": 35, "Unit": "قطعة", "ImagePath": "pen.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0642\u0637\u0639\u0629",
+            "Price": 35,
+            "Unit": "\u0642\u0637\u0639\u0629",
+            "ImagePath": "pen.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "الأجهزة الكهرومنزلية",
+    "CategoryName": "\u0627\u0644\u0623\u062C\u0647\u0632\u0629 \u0627\u0644\u0643\u0647\u0631\u0648\u0645\u0646\u0632\u0644\u064A\u0629",
     "Items": [
       {
-        "Name": "تلفاز 43 بوصة",
-        "Description": "سامسونج ذكي جوجل",
+        "Name": "\u062A\u0644\u0641\u0627\u0632 43 \u0628\u0648\u0635\u0629",
+        "Description": "\u0633\u0627\u0645\u0633\u0648\u0646\u062C \u0630\u0643\u064A \u062C\u0648\u062C\u0644",
         "Variations": [
-          { "MarketName": "سامسونج", "SizeName": "43 بوصة", "Price": 45000, "Unit": "جهاز", "ImagePath": "tv.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0633\u0627\u0645\u0633\u0648\u0646\u062C",
+            "SizeName": "43 \u0628\u0648\u0635\u0629",
+            "Price": 45000,
+            "Unit": "\u062C\u0647\u0627\u0632",
+            "ImagePath": "tv.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مكيف 12 ألف وحدة",
-        "Description": "حدد النوعية",
+        "Name": "\u0645\u0643\u064A\u0641 12 \u0623\u0644\u0641 \u0648\u062D\u062F\u0629",
+        "Description": "\u062D\u062F\u062F \u0627\u0644\u0646\u0648\u0639\u064A\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "12000 BTU", "Price": 78500, "Unit": "جهاز", "ImagePath": "ac.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "12000 BTU",
+            "Price": 78500,
+            "Unit": "\u062C\u0647\u0627\u0632",
+            "ImagePath": "ac.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "متنوعات (أخرى)",
+    "CategoryName": "\u0645\u062A\u0646\u0648\u0639\u0627\u062A (\u0623\u062E\u0631\u0649)",
     "Items": [
       {
-        "Name": "جمبو ماكسي",
-        "Description": "أكياس صغيرة / 77غ / مكعبات",
+        "Name": "\u062C\u0645\u0628\u0648 \u0645\u0627\u0643\u0633\u064A",
+        "Description": "\u0623\u0643\u064A\u0627\u0633 \u0635\u063A\u064A\u0631\u0629 / 77\u063A / \u0645\u0643\u0639\u0628\u0627\u062A",
         "Variations": [
-          { "MarketName": "أكياس صغيرة", "SizeName": "كيس", "Price": 10, "Unit": "كيس", "ImagePath": "jumbo.png", "IsAvailable": true },
-          { "MarketName": "77 غ", "SizeName": "كيس", "Price": 90, "Unit": "كيس", "ImagePath": "jumbo.png", "IsAvailable": true },
-          { "MarketName": "مكعبات", "SizeName": "كيس", "Price": 15, "Unit": "كيس", "ImagePath": "jumbo.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0623\u0643\u064A\u0627\u0633 \u0635\u063A\u064A\u0631\u0629",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 10,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "jumbo.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "77 \u063A",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 90,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "jumbo.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0643\u0639\u0628\u0627\u062A",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 15,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "jumbo.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "فلون نوارة",
-        "Description": "شوكو / فانيلا / كراميل / فراولة",
+        "Name": "\u0641\u0644\u0648\u0646 \u0646\u0648\u0627\u0631\u0629",
+        "Description": "\u0634\u0648\u0643\u0648 / \u0641\u0627\u0646\u064A\u0644\u0627 / \u0643\u0631\u0627\u0645\u064A\u0644 / \u0641\u0631\u0627\u0648\u0644\u0629",
         "Variations": [
-          { "MarketName": "نوارة", "SizeName": "علبة صغيرة", "Price": 35, "Unit": "علبة", "ImagePath": "flanc.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0646\u0648\u0627\u0631\u0629",
+            "SizeName": "\u0639\u0644\u0628\u0629 \u0635\u063A\u064A\u0631\u0629",
+            "Price": 35,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "flanc.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "سكر ناعم",
-        "Description": "700 غ",
+        "Name": "\u0633\u0643\u0631 \u0646\u0627\u0639\u0645",
+        "Description": "700 \u063A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "700 غ", "Price": 130, "Unit": "كيس", "ImagePath": "sugar_powder.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "700 \u063A",
+            "Price": 130,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "sugar_powder.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "سكر فاني",
-        "Description": "نوارة / غيره",
+        "Name": "\u0633\u0643\u0631 \u0641\u0627\u0646\u064A",
+        "Description": "\u0646\u0648\u0627\u0631\u0629 / \u063A\u064A\u0631\u0647",
         "Variations": [
-          { "MarketName": "نوارة", "SizeName": "كيس", "Price": 5, "Unit": "كيس", "ImagePath": "vanilla.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0646\u0648\u0627\u0631\u0629",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 5,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "vanilla.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "خميرة كيميائية",
-        "Description": "نوارة / غيرها",
+        "Name": "\u062E\u0645\u064A\u0631\u0629 \u0643\u064A\u0645\u064A\u0627\u0626\u064A\u0629",
+        "Description": "\u0646\u0648\u0627\u0631\u0629 / \u063A\u064A\u0631\u0647\u0627",
         "Variations": [
-          { "MarketName": "نوارة", "SizeName": "كيس", "Price": 10, "Unit": "كيس", "ImagePath": "yeast.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0646\u0648\u0627\u0631\u0629",
+            "SizeName": "\u0643\u064A\u0633",
+            "Price": 10,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "yeast.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "خميرة الخبز",
-        "Description": "125 غ / 500 غ",
+        "Name": "\u062E\u0645\u064A\u0631\u0629 \u0627\u0644\u062E\u0628\u0632",
+        "Description": "125 \u063A / 500 \u063A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "125 غ", "Price": 155, "Unit": "كيس", "ImagePath": "yeast.png", "IsAvailable": true },
-          { "MarketName": "عام", "SizeName": "500 غ", "Price": 395, "Unit": "كيس", "ImagePath": "yeast.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "125 \u063A",
+            "Price": 155,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "yeast.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "500 \u063A",
+            "Price": 395,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "yeast.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مايزينة",
-        "Description": "700 غ",
+        "Name": "\u0645\u0627\u064A\u0632\u064A\u0646\u0629",
+        "Description": "700 \u063A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "700 غ", "Price": 145, "Unit": "كيس", "ImagePath": "starch.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "700 \u063A",
+            "Price": 145,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "starch.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بطاريات ساعة الحائط",
-        "Description": "ثنائية",
+        "Name": "\u0628\u0637\u0627\u0631\u064A\u0627\u062A \u0633\u0627\u0639\u0629 \u0627\u0644\u062D\u0627\u0626\u0637",
+        "Description": "\u062B\u0646\u0627\u0626\u064A\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حبتين", "Price": 25, "Unit": "علبة", "ImagePath": "battery.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0628\u062A\u064A\u0646",
+            "Price": 25,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "battery.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "بطاريات جهاز التحكم",
-        "Description": "ثنائية",
+        "Name": "\u0628\u0637\u0627\u0631\u064A\u0627\u062A \u062C\u0647\u0627\u0632 \u0627\u0644\u062A\u062D\u0643\u0645",
+        "Description": "\u062B\u0646\u0627\u0626\u064A\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حبتين", "Price": 25, "Unit": "علبة", "ImagePath": "battery.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0628\u062A\u064A\u0646",
+            "Price": 25,
+            "Unit": "\u0639\u0644\u0628\u0629",
+            "ImagePath": "battery.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مصابيح عادية",
-        "Description": "60 - 75 وات",
+        "Name": "\u0645\u0635\u0627\u0628\u064A\u062D \u0639\u0627\u062F\u064A\u0629",
+        "Description": "60 - 75 \u0648\u0627\u062A",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حبة", "Price": 55, "Unit": "حبة", "ImagePath": "bulb.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 55,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "bulb.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "مصابيح أل أو دي",
-        "Description": "15 واط",
+        "Name": "\u0645\u0635\u0627\u0628\u064A\u062D \u0623\u0644 \u0623\u0648 \u062F\u064A",
+        "Description": "15 \u0648\u0627\u0637",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "حبة", "Price": 205, "Unit": "حبة", "ImagePath": "bulb.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u062D\u0628\u0629",
+            "Price": 205,
+            "Unit": "\u062D\u0628\u0629",
+            "ImagePath": "bulb.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "مستلزمات التعبئة",
+    "CategoryName": "\u0645\u0633\u062A\u0644\u0632\u0645\u0627\u062A \u0627\u0644\u062A\u0639\u0628\u0626\u0629",
     "Items": [
       {
-        "Name": "أكياس التجميد",
-        "Description": "رزمة 80 كيس",
+        "Name": "\u0623\u0643\u064A\u0627\u0633 \u0627\u0644\u062A\u062C\u0645\u064A\u062F",
+        "Description": "\u0631\u0632\u0645\u0629 80 \u0643\u064A\u0633",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "80 كيس", "Price": 55, "Unit": "رزمة", "ImagePath": "freezer_bags.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "80 \u0643\u064A\u0633",
+            "Price": 55,
+            "Unit": "\u0631\u0632\u0645\u0629",
+            "ImagePath": "freezer_bags.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أكياس الخبز",
-        "Description": "رزمة 100 كيس",
+        "Name": "\u0623\u0643\u064A\u0627\u0633 \u0627\u0644\u062E\u0628\u0632",
+        "Description": "\u0631\u0632\u0645\u0629 100 \u0643\u064A\u0633",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "100 كيس", "Price": 150, "Unit": "رزمة", "ImagePath": "bread_bags.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "100 \u0643\u064A\u0633",
+            "Price": 150,
+            "Unit": "\u0631\u0632\u0645\u0629",
+            "ImagePath": "bread_bags.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أكياس سوداء",
-        "Description": "3 كغ رزمة 80 كيس",
+        "Name": "\u0623\u0643\u064A\u0627\u0633 \u0633\u0648\u062F\u0627\u0621",
+        "Description": "3 \u0643\u063A \u0631\u0632\u0645\u0629 80 \u0643\u064A\u0633",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "80 كيس", "Price": 90, "Unit": "رزمة", "ImagePath": "black_bags.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "80 \u0643\u064A\u0633",
+            "Price": 90,
+            "Unit": "\u0631\u0632\u0645\u0629",
+            "ImagePath": "black_bags.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أكياس بيضاء",
-        "Description": "5 كلغ رزمة 40 كيس",
+        "Name": "\u0623\u0643\u064A\u0627\u0633 \u0628\u064A\u0636\u0627\u0621",
+        "Description": "5 \u0643\u0644\u063A \u0631\u0632\u0645\u0629 40 \u0643\u064A\u0633",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "40 كيس", "Price": 60, "Unit": "رزمة", "ImagePath": "white_bags.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "40 \u0643\u064A\u0633",
+            "Price": 60,
+            "Unit": "\u0631\u0632\u0645\u0629",
+            "ImagePath": "white_bags.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أكياس 10 كلغ",
-        "Description": "رزمة 25 كيس",
+        "Name": "\u0623\u0643\u064A\u0627\u0633 10 \u0643\u0644\u063A",
+        "Description": "\u0631\u0632\u0645\u0629 25 \u0643\u064A\u0633",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "25 كيس", "Price": 85, "Unit": "رزمة", "ImagePath": "bags.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "25 \u0643\u064A\u0633",
+            "Price": 85,
+            "Unit": "\u0631\u0632\u0645\u0629",
+            "ImagePath": "bags.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "أكياس القمامة",
-        "Description": "حدد المقاس",
+        "Name": "\u0623\u0643\u064A\u0627\u0633 \u0627\u0644\u0642\u0645\u0627\u0645\u0629",
+        "Description": "\u062D\u062F\u062F \u0627\u0644\u0645\u0642\u0627\u0633",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "رزمة", "Price": 25, "Unit": "رزمة", "ImagePath": "trash_bags.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "\u0631\u0632\u0645\u0629",
+            "Price": 25,
+            "Unit": "\u0631\u0632\u0645\u0629",
+            "ImagePath": "trash_bags.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "كؤوس بلاستيك",
-        "Description": "للماء والمشروبات الباردة",
+        "Name": "\u0643\u0624\u0648\u0633 \u0628\u0644\u0627\u0633\u062A\u064A\u0643",
+        "Description": "\u0644\u0644\u0645\u0627\u0621 \u0648\u0627\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062A \u0627\u0644\u0628\u0627\u0631\u062F\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "16 سل * 100", "Price": 145, "Unit": "كيس", "ImagePath": "plastic_cups.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "16 \u0633\u0644 * 100",
+            "Price": 145,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "plastic_cups.png",
+            "IsAvailable": true
+          }
         ]
       },
       {
-        "Name": "كؤوس الكرتون",
-        "Description": "للمشروبات الساخنة",
+        "Name": "\u0643\u0624\u0648\u0633 \u0627\u0644\u0643\u0631\u062A\u0648\u0646",
+        "Description": "\u0644\u0644\u0645\u0634\u0631\u0648\u0628\u0627\u062A \u0627\u0644\u0633\u0627\u062E\u0646\u0629",
         "Variations": [
-          { "MarketName": "عام", "SizeName": "16 سل * 45", "Price": 110, "Unit": "كيس", "ImagePath": "paper_cups.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0639\u0627\u0645",
+            "SizeName": "16 \u0633\u0644 * 45",
+            "Price": 110,
+            "Unit": "\u0643\u064A\u0633",
+            "ImagePath": "paper_cups.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
   },
   {
-    "CategoryName": "خدمات وشحن",
+    "CategoryName": "\u062E\u062F\u0645\u0627\u062A \u0648\u0634\u062D\u0646",
     "Items": [
       {
-        "Name": "تعبئة رصيد موبيليس",
+        "Name": "\u062A\u0639\u0628\u0626\u0629 \u0631\u0635\u064A\u062F \u0645\u0648\u0628\u064A\u0644\u064A\u0633",
         "Description": "100 / 200",
         "Variations": [
-          { "MarketName": "موبيليس", "SizeName": "100 د.ج", "Price": 100, "Unit": "رصيد", "ImagePath": "mobilis.png", "IsAvailable": true },
-          { "MarketName": "موبيليس", "SizeName": "200 د.ج", "Price": 200, "Unit": "رصيد", "ImagePath": "mobilis.png", "IsAvailable": true }
+          {
+            "MarketName": "\u0645\u0648\u0628\u064A\u0644\u064A\u0633",
+            "SizeName": "100 \u062F.\u062C",
+            "Price": 100,
+            "Unit": "\u0631\u0635\u064A\u062F",
+            "ImagePath": "mobilis.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "\u0645\u0648\u0628\u064A\u0644\u064A\u0633",
+            "SizeName": "200 \u062F.\u062C",
+            "Price": 200,
+            "Unit": "\u0631\u0635\u064A\u062F",
+            "ImagePath": "mobilis.png",
+            "IsAvailable": true
+          }
         ]
       }
     ]
+  },
+  {
+    "CategoryName": "tesst",
+    "Items": []
   }
 ]
