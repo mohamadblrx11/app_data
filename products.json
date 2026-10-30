@@ -3566,21 +3566,6 @@
   {
     "CategoryName": "Nothing Here",
     "Icon": "\uD83E\uDD64",
-    "Items": [
-      {
-        "Name": "literley nothing",
-        "Description": "idk",
-        "Variations": [
-          {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   }
 ]
