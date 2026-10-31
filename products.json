@@ -43,28 +43,6 @@
         ]
       },
       {
-        "Name": "الأرز",
-        "Description": "أبيض أو مفور",
-        "Variations": [
-          {
-            "MarketName": "أبيض",
-            "SizeName": "1 كغ",
-            "Price": 155,
-            "Unit": "كغ",
-            "ImagePath": "rice.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مفور",
-            "SizeName": "1 كغ",
-            "Price": 155,
-            "Unit": "كغ",
-            "ImagePath": "rice.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "سميد",
         "Description": "علامات وأحجام",
         "Variations": [
