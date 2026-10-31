@@ -87,30 +87,7 @@
   {
     "CategoryName": "خدمات وشحن",
     "Icon": "\uD83D\uDCF1",
-    "Items": [
-      {
-        "Name": "تعبئة رصيد موبيليس",
-        "Description": "100/200/500/1000",
-        "Variations": [
-          {
-            "MarketName": "موبيليس",
-            "SizeName": "100 د.ج",
-            "Price": 100,
-            "Unit": "رصيد",
-            "ImagePath": "mobilis.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "موبيليس",
-            "SizeName": "200 د.ج",
-            "Price": 200,
-            "Unit": "رصيد",
-            "ImagePath": "mobilis.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "ملابس اطفال",
