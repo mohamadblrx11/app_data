@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "اللوبيا الخضراء",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 200,
-            "Unit": "كغ",
-            "ImagePath": "green_beans.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الملوخية",
         "Description": "خضر",
         "Variations": [
