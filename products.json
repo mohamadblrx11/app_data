@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "الدنجال",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 80,
-            "Unit": "كغ",
-            "ImagePath": "eggplant.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الكورجيت",
         "Description": "خضر",
         "Variations": [
