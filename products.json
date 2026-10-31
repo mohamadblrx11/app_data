@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "الجزر",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 80,
-            "Unit": "كغ",
-            "ImagePath": "carrot.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الدنجال",
         "Description": "خضر",
         "Variations": [
