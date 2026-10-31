@@ -167,39 +167,31 @@
         ]
       },
       {
-        "Name": "سمن",
-        "Description": "المرجان / المدينة / الوليمة",
+        "Name": "مرغرين",
+        "Description": "لابل / صول / فلوريال",
         "Variations": [
           {
-            "MarketName": "المرجان",
-            "SizeName": "300 غ",
-            "Price": 160,
+            "MarketName": "لابل",
+            "SizeName": "250 غ",
+            "Price": 115,
             "Unit": "علبة",
-            "ImagePath": "ghee.png",
+            "ImagePath": "margarine.png",
             "IsAvailable": true
           },
           {
-            "MarketName": "المدينة",
-            "SizeName": "300 غ",
-            "Price": 160,
+            "MarketName": "صول",
+            "SizeName": "250 غ",
+            "Price": 115,
             "Unit": "علبة",
-            "ImagePath": "ghee.png",
+            "ImagePath": "margarine.png",
             "IsAvailable": true
           },
           {
-            "MarketName": "المرجان",
-            "SizeName": "500 غ",
-            "Price": 235,
+            "MarketName": "فلوريال",
+            "SizeName": "250 غ",
+            "Price": 115,
             "Unit": "علبة",
-            "ImagePath": "ghee.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "المدينة",
-            "SizeName": "500 غ",
-            "Price": 235,
-            "Unit": "علبة",
-            "ImagePath": "ghee.png",
+            "ImagePath": "margarine.png",
             "IsAvailable": true
           }
         ]
