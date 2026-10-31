@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "هبرة مخلول",
-        "Description": "كلغ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "1 كغ",
-            "Price": 0,
-            "Unit": "كغ",
-            "ImagePath": "meat.png",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "لحم مخلول",
         "Description": "كلغ",
         "Variations": [
