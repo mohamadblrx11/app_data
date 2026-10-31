@@ -79,20 +79,6 @@
     "Icon": "\uD83D\uDCE6",
     "Items": [
       {
-        "Name": "خميرة كيميائية",
-        "Description": "نوارة / غيرها",
-        "Variations": [
-          {
-            "MarketName": "نوارة",
-            "SizeName": "كيس",
-            "Price": 10,
-            "Unit": "كيس",
-            "ImagePath": "yeast.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مايزينة",
         "Description": "700 غ",
         "Variations": [
