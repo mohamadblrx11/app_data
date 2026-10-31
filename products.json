@@ -33,28 +33,6 @@
         ]
       },
       {
-        "Name": "مرقاز",
-        "Description": "عادي / حار",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "عادي 1 كغ",
-            "Price": 1180,
-            "Unit": "كغ",
-            "ImagePath": "merguez.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "محلي",
-            "SizeName": "حار 1 كغ",
-            "Price": 1180,
-            "Unit": "كغ",
-            "ImagePath": "merguez.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جلبانة مجمدة",
         "Description": "أحجام مختلفة",
         "Variations": [
