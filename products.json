@@ -84,20 +84,6 @@
     "Icon": "\uD83D\uDECD️",
     "Items": [
       {
-        "Name": "كؤوس بلاستيك",
-        "Description": "للماء والمشروبات الباردة",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "16 سل * 100",
-            "Price": 145,
-            "Unit": "كيس",
-            "ImagePath": "plastic_cups.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "كؤوس الكرتون",
         "Description": "للمشروبات الساخنة",
         "Variations": [
