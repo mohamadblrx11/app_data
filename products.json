@@ -2,22 +2,7 @@
   {
     "CategoryName": "الخضر والفواكه",
     "Icon": "\uD83E\uDD66",
-    "Items": [
-      {
-        "Name": "فلفل مرقد",
-        "Description": "مخللات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "100 غ",
-            "Price": 55,
-            "Unit": "علبة",
-            "ImagePath": "pickles.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "المواد الغذائية",
