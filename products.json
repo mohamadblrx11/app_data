@@ -19,28 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "جلبانة مجمدة",
-        "Description": "أحجام مختلفة",
-        "Variations": [
-          {
-            "MarketName": "مجمدة",
-            "SizeName": "كيس 1 كغ",
-            "Price": 0,
-            "Unit": "كيس",
-            "ImagePath": "peas.png",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "مجمدة",
-            "SizeName": "300 غ",
-            "Price": 220,
-            "Unit": "كيس",
-            "ImagePath": "peas.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "رشتة",
         "Description": "00 غ",
         "Variations": [
