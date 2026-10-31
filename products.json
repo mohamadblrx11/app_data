@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "شحم سنام",
-        "Description": "كلغ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "1 كغ",
-            "Price": 0,
-            "Unit": "كغ",
-            "ImagePath": "fat.png",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "جلبانة مجمدة",
         "Description": "أحجام مختلفة",
         "Variations": [
