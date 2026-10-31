@@ -77,22 +77,7 @@
   {
     "CategoryName": "متنوعات (أخرى)",
     "Icon": "\uD83D\uDCE6",
-    "Items": [
-      {
-        "Name": "مصابيح LED",
-        "Description": "15 واط",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حبة",
-            "Price": 205,
-            "Unit": "حبة",
-            "ImagePath": "bulb.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "مستلزمات التعبئة",
