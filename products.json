@@ -93,28 +93,6 @@
         ]
       },
       {
-        "Name": "خميرة الخبز",
-        "Description": "125 غ / 500 غ",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "125 غ",
-            "Price": 155,
-            "Unit": "كيس",
-            "ImagePath": "yeast.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "500 غ",
-            "Price": 395,
-            "Unit": "كيس",
-            "ImagePath": "yeast.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مايزينة",
         "Description": "700 غ",
         "Variations": [
