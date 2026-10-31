@@ -41,44 +41,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "شعيرية إندومي",
-        "Description": "دجاج / خضار / جبن / كاري",
-        "Variations": [
-          {
-            "MarketName": "دجاج",
-            "SizeName": "70 غ",
-            "Price": 45,
-            "Unit": "كيس",
-            "ImagePath": "indomie.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "خضار",
-            "SizeName": "70 غ",
-            "Price": 45,
-            "Unit": "كيس",
-            "ImagePath": "indomie.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "جبن",
-            "SizeName": "70 غ",
-            "Price": 45,
-            "Unit": "كيس",
-            "ImagePath": "indomie.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاري",
-            "SizeName": "70 غ",
-            "Price": 45,
-            "Unit": "كيس",
-            "ImagePath": "indomie.png",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
