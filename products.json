@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "الشلاطة",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حزمة",
-            "Price": 150,
-            "Unit": "حزمة",
-            "ImagePath": "lettuce.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "النعناع",
         "Description": "أعشاب",
         "Variations": [
