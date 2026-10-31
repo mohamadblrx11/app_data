@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "القرعة",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 90,
-            "Unit": "كغ",
-            "ImagePath": "pumpkin.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "البطيخ الأصفر",
         "Description": "فواكه",
         "Variations": [
