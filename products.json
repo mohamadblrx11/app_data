@@ -1,7 +1,7 @@
 [
   {
     "CategoryName": "ملابس اطفال",
-    "Icon": "\uD83D\uDC7C",
+    "Icon": "👼",
     "Items": [
       {
         "Name": "جوكينق دافئ للاطفال ",
@@ -49,7 +49,323 @@
   },
   {
     "CategoryName": "اواني منزلية",
-    "Icon": "\uD83C\uDF7D",
-    "Items": []
+    "Icon": "🍽️",
+    "Items": [
+      {
+        "Name": "كوب ماء 06قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 01", "Price": 350, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "كوب ماء مزخرف 06قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 02", "Price": 350, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "كوب ماء 3 قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 03", "Price": 350, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "كوب شاي لون ذهبي 6 قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 04", "Price": 950, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "إبريق اينوكس 0.35ل",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 05", "Price": 980, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "إبريق اينوكس 0.75ل",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 06", "Price": 1550, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "طقم شاي كامل 12 قطعة",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 07", "Price": 9200, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "وعاء زجاجي متعدد الاستعمال",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 08", "Price": 640, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "سكرية زجاجية",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 09", "Price": 195, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "سكرية 3 قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 10", "Price": 9500, "Unit": "طقم", "ImagePath": "", "IsAvailable": false }
+        ]
+      },
+      {
+        "Name": "صحن عميق صغير",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 11", "Price": 185, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن عميق متوسط",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 12", "Price": 200, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن عميق كبير",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 13", "Price": 320, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن متوسط عميق نسبيا",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 14", "Price": 185, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن صغير عميق نسبيا",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 15", "Price": 185, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن متوسط مسطح",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 16", "Price": 185, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن مسطح صغير",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 17", "Price": 185, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن زجاجي مقاس28",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 18", "Price": 980, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن متوسط مقاس 20",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 19", "Price": 95, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن عادي مقاس 22",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 20", "Price": 125, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن سلطة عميق اينوكس",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 21", "Price": 550, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "ملعقة صغيرة لون ذهبي 12ق",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 22", "Price": 280, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صينية اينوكس 30.5سم",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 23", "Price": 395, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صينية اينوكس 35.5سم",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 24", "Price": 480, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "سلة خبز",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 25", "Price": 580, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "سلة خبز خشب مرن",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 26", "Price": 380, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "طاجين اينوكس ممتاز 3قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 27", "Price": 6900, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "تبالة/ملاحة اينوكس",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 28", "Price": 125, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "تبالة/ملاحة زجاجية ذهبية",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 29", "Price": 190, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "علبة كريستال نصف لتر",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 30", "Price": 280, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "طراشين قطعتين مقاس 90×60",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 31", "Price": 335, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "حاملة طراشين ورق زجاجية",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 32", "Price": 280, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "حامل فواكه زجاجية",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 33", "Price": 260, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "حامل حلويات لون ذهبي نخلة",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 34", "Price": 640, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "فرشاة وملعقة صنع حلويات",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 35", "Price": 190, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "لوح تقطيع بلاستيك",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 36", "Price": 390, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "لوح تقطيع بلاستيك30×45",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 37", "Price": 2750, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "معلاق مطبخ فردي",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 38", "Price": 0, "Unit": "قطعة", "ImagePath": "", "IsAvailable": false }
+        ]
+      },
+      {
+        "Name": "معلاق مطبخ لون ذهبي",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 39", "Price": 190, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "معلاق متعدد الاستعمال لون ذهبي",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 40", "Price": 450, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "سجادة مطبخ 3 قطع",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 41", "Price": 870, "Unit": "طقم", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "بخارة كهربية",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 42", "Price": 1450, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "صحن عميق متوسط نسبيا",
+        "Description": "أواني منزلية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "ب 43", "Price": 185, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "خدمات تغليف الهدايا",
+        "Description": "خدمات إضافية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "تغليف", "Price": 270, "Unit": "خدمة", "ImagePath": "", "IsAvailable": true }
+        ]
+      },
+      {
+        "Name": "مستحقات التوصيل والتحصيل",
+        "Description": "خدمات إضافية",
+        "Variations": [
+          { "MarketName": "عام", "SizeName": "توصيل", "Price": 120, "Unit": "خدمة", "ImagePath": "", "IsAvailable": true }
+        ]
+      }
+    ]
   }
 ]
