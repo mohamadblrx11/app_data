@@ -226,44 +226,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "زيتون",
-        "Description": "أنواع مختلفة",
-        "Variations": [
-          {
-            "MarketName": "أسود",
-            "SizeName": "100 غ",
-            "Price": 55,
-            "Unit": "علبة",
-            "ImagePath": "olive_black.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بدون نوى",
-            "SizeName": "100 غ",
-            "Price": 55,
-            "Unit": "علبة",
-            "ImagePath": "olive_green.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بالعلف",
-            "SizeName": "100 غ",
-            "Price": 55,
-            "Unit": "علبة",
-            "ImagePath": "olive_green.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بنفسجي",
-            "SizeName": "100 غ",
-            "Price": 55,
-            "Unit": "علبة",
-            "ImagePath": "olive_purple.png",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
