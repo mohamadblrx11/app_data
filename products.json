@@ -18,20 +18,6 @@
         ]
       },
       {
-        "Name": "الفلفل الحار",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 140,
-            "Unit": "كغ",
-            "ImagePath": "chili.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الدنجال",
         "Description": "خضر",
         "Variations": [
