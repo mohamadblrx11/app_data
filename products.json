@@ -97,52 +97,6 @@
         ]
       },
       {
-        "Name": "فرينة",
-        "Description": "سفينة / سوسيمي / البركة",
-        "Variations": [
-          {
-            "MarketName": "سفينة",
-            "SizeName": "1 كغ",
-            "Price": 75,
-            "Unit": "كغ",
-            "ImagePath": "flour.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سفينة",
-            "SizeName": "كيس 5 كغ",
-            "Price": 335,
-            "Unit": "كيس",
-            "ImagePath": "flour.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سفينة",
-            "SizeName": "كيس 10 كغ",
-            "Price": 600,
-            "Unit": "كيس",
-            "ImagePath": "flour.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سوسيمي",
-            "SizeName": "1 كغ",
-            "Price": 75,
-            "Unit": "كغ",
-            "ImagePath": "flour.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "البركة",
-            "SizeName": "1 كغ",
-            "Price": 75,
-            "Unit": "كغ",
-            "ImagePath": "flour.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "حمص مرحي",
         "Description": "بقوليات",
         "Variations": [
