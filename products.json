@@ -116,20 +116,6 @@
         ]
       },
       {
-        "Name": "المعدنوس",
-        "Description": "أعشاب",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حزمة",
-            "Price": 30,
-            "Unit": "حزمة",
-            "ImagePath": "parsley.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "النعناع",
         "Description": "أعشاب",
         "Variations": [
