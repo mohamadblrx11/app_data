@@ -47,22 +47,7 @@
   {
     "CategoryName": "المستلزمات الشخصية",
     "Icon": "\uD83E\uDDF4",
-    "Items": [
-      {
-        "Name": "قداحة شخصية",
-        "Description": "متنوعات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "قطعة",
-            "Price": 25,
-            "Unit": "قطعة",
-            "ImagePath": "lighter.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "الحفاظات",
