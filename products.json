@@ -79,36 +79,6 @@
     "Icon": "\uD83D\uDCE6",
     "Items": [
       {
-        "Name": "جمبو ماكسي",
-        "Description": "أكياس صغيرة / 77غ / مكعبات",
-        "Variations": [
-          {
-            "MarketName": "أكياس صغيرة",
-            "SizeName": "كيس",
-            "Price": 10,
-            "Unit": "كيس",
-            "ImagePath": "jumbo.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "77 غ",
-            "SizeName": "كيس",
-            "Price": 90,
-            "Unit": "كيس",
-            "ImagePath": "jumbo.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مكعبات",
-            "SizeName": "كيس",
-            "Price": 15,
-            "Unit": "كيس",
-            "ImagePath": "jumbo.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "فلون نوارة",
         "Description": "شوكو / فانيلا / كراميل / فراولة",
         "Variations": [
