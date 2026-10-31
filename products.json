@@ -137,44 +137,6 @@
         ]
       },
       {
-        "Name": "غسول أواني",
-        "Description": "ازيس بريل - تست",
-        "Variations": [
-          {
-            "MarketName": "ازيس بريل",
-            "SizeName": "650 مل",
-            "Price": 175,
-            "Unit": "قارورة",
-            "ImagePath": "dish_soap.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ازيس بريل",
-            "SizeName": "1.25 لتر",
-            "Price": 295,
-            "Unit": "قارورة",
-            "ImagePath": "dish_soap.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تست",
-            "SizeName": "650 مل",
-            "Price": 175,
-            "Unit": "قارورة",
-            "ImagePath": "dish_soap.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تست",
-            "SizeName": "1.25 لتر",
-            "Price": 295,
-            "Unit": "قارورة",
-            "ImagePath": "dish_soap.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جافيل",
         "Description": "قارورة / دلو",
         "Variations": [
