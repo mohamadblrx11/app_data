@@ -85,15 +85,23 @@
         ]
       },
       {
-        "Name": "ماء الزهر",
-        "Description": "مقطر",
+        "Name": "الخل",
+        "Description": "أنواع الخل",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "قارورة",
-            "Price": 60,
+            "MarketName": "أنوار",
+            "SizeName": "أحمر",
+            "Price": 80,
             "Unit": "قارورة",
-            "ImagePath": "rosewater.png",
+            "ImagePath": "vinegar.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "أنوار",
+            "SizeName": "أبيض",
+            "Price": 80,
+            "Unit": "قارورة",
+            "ImagePath": "vinegar.png",
             "IsAvailable": true
           }
         ]
