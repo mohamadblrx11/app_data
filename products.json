@@ -62,22 +62,7 @@
   {
     "CategoryName": "مستلزمات المطبخ",
     "Icon": "\uD83C\uDF7D️",
-    "Items": [
-      {
-        "Name": "لفات ورقية صحية",
-        "Description": "للحمام",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "لفة",
-            "Price": 105,
-            "Unit": "لفة",
-            "ImagePath": "toilet_paper.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "الأدوات المدرسية",
