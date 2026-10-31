@@ -86,20 +86,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "عصير أميلا",
-        "Description": "أكياس",
-        "Variations": [
-          {
-            "MarketName": "أميلا",
-            "SizeName": "كيس",
-            "Price": 40,
-            "Unit": "كيس",
-            "ImagePath": "juice.png",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
