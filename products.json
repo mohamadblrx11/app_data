@@ -39,52 +39,6 @@
     "Icon": "\uD83C\uDF6B",
     "Items": [
       {
-        "Name": "حلويات",
-        "Description": "الشامية / الحلقوم",
-        "Variations": [
-          {
-            "MarketName": "شامية",
-            "SizeName": "100 غ",
-            "Price": 65,
-            "Unit": "كيس",
-            "ImagePath": "sweets.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "شامية",
-            "SizeName": "200 غ",
-            "Price": 185,
-            "Unit": "علبة",
-            "ImagePath": "sweets.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "شامية",
-            "SizeName": "800 غ",
-            "Price": 550,
-            "Unit": "علبة",
-            "ImagePath": "sweets.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "حلقوم",
-            "SizeName": "200 غ",
-            "Price": 100,
-            "Unit": "علبة",
-            "ImagePath": "sweets.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "حلقوم",
-            "SizeName": "400 غ",
-            "Price": 145,
-            "Unit": "علبة",
-            "ImagePath": "sweets.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شيبس",
         "Description": "أحجام مختلفة",
         "Variations": [
