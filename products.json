@@ -63,20 +63,6 @@
         ]
       },
       {
-        "Name": "عطر",
-        "Description": "عادي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "قارورة",
-            "Price": 300,
-            "Unit": "قارورة",
-            "ImagePath": "perfume.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "صابون جلدي",
         "Description": "معطر",
         "Variations": [
