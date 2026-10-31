@@ -107,28 +107,6 @@
         ]
       },
       {
-        "Name": "زبدة",
-        "Description": "ستار / غيرها",
-        "Variations": [
-          {
-            "MarketName": "ستار",
-            "SizeName": "200 غ",
-            "Price": 155,
-            "Unit": "علبة",
-            "ImagePath": "butter.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أخرى",
-            "SizeName": "200 غ",
-            "Price": 155,
-            "Unit": "علبة",
-            "ImagePath": "butter.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مرغرين",
         "Description": "لابل / صول / فلوريال",
         "Variations": [
