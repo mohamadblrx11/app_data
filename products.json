@@ -37,54 +37,7 @@
   {
     "CategoryName": "المكسرات والحلويات",
     "Icon": "\uD83C\uDF6B",
-    "Items": [
-      {
-        "Name": "شكولاطة",
-        "Description": "عادية / ماكسن / أوبتيلا",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "10 دج",
-            "Price": 10,
-            "Unit": "حبة",
-            "ImagePath": "chocolate.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "لوحة عادية",
-            "SizeName": "90 غ",
-            "Price": 90,
-            "Unit": "حبة",
-            "ImagePath": "chocolate.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "لوحة ماكسن",
-            "SizeName": "170 غ",
-            "Price": 170,
-            "Unit": "حبة",
-            "ImagePath": "chocolate.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مسحوق",
-            "SizeName": "300 غ",
-            "Price": 225,
-            "Unit": "علبة",
-            "ImagePath": "chocolate_powder.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مسحوق",
-            "SizeName": "500 غ",
-            "Price": 260,
-            "Unit": "علبة",
-            "ImagePath": "chocolate_powder.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "المثلجات",
