@@ -43,20 +43,6 @@
         ]
       },
       {
-        "Name": "الفويلة",
-        "Description": "بقوليات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 300,
-            "Unit": "كغ",
-            "ImagePath": "beans.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الأرز",
         "Description": "أبيض أو مفور",
         "Variations": [
