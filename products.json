@@ -57,30 +57,7 @@
   {
     "CategoryName": "التنظيف والصيانة",
     "Icon": "\uD83E\uDDF9",
-    "Items": [
-      {
-        "Name": "فرطوار",
-        "Description": "ماسح الأرض",
-        "Variations": [
-          {
-            "MarketName": "عادي",
-            "SizeName": "قطعة",
-            "Price": 65,
-            "Unit": "قطعة",
-            "ImagePath": "mop.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ممتاز",
-            "SizeName": "قطعة",
-            "Price": 140,
-            "Unit": "قطعة",
-            "ImagePath": "mop.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "مستلزمات المطبخ",
