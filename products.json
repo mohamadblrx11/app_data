@@ -107,36 +107,6 @@
         ]
       },
       {
-        "Name": "شاي معلب",
-        "Description": "ماركات مختلفة",
-        "Variations": [
-          {
-            "MarketName": "فردوس",
-            "SizeName": "250 غ",
-            "Price": 345,
-            "Unit": "علبة",
-            "ImagePath": "tea.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أحمد",
-            "SizeName": "250 غ",
-            "Price": 345,
-            "Unit": "علبة",
-            "ImagePath": "tea.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "البراد",
-            "SizeName": "250 غ",
-            "Price": 345,
-            "Unit": "علبة",
-            "ImagePath": "tea.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "قهوة محمصة مرحية",
         "Description": "ميزان",
         "Variations": [
