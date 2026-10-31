@@ -494,7 +494,7 @@
             "SizeName": "عادي",
             "Price": 0,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290867316094834.png",
             "IsAvailable": false
           },
           {
@@ -524,7 +524,7 @@
             "SizeName": "3 قطع",
             "Price": 870,
             "Unit": "طقم",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290868235470552.png",
             "IsAvailable": true
           }
         ]
