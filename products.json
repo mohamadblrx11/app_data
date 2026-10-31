@@ -38,20 +38,6 @@
         ]
       },
       {
-        "Name": "الرب",
-        "Description": "عصير",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1/2 لتر",
-            "Price": 250,
-            "Unit": "قارورة",
-            "ImagePath": "juice.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "دهان (سمن) الماعز",
         "Description": "طبيعي",
         "Variations": [
