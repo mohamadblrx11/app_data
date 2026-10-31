@@ -84,20 +84,6 @@
     "Icon": "\uD83D\uDECD️",
     "Items": [
       {
-        "Name": "أكياس الخبز",
-        "Description": "رزمة 100 كيس",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "100 كيس",
-            "Price": 150,
-            "Unit": "رزمة",
-            "ImagePath": "bread_bags.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "أكياس سوداء",
         "Description": "3 كغ رزمة 80 كيس",
         "Variations": [
