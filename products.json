@@ -64,36 +64,6 @@
     "Icon": "\uD83C\uDF7D️",
     "Items": [
       {
-        "Name": "مربع غسل الأواني",
-        "Description": "عادي / مخدة / بونجة",
-        "Variations": [
-          {
-            "MarketName": "عادي",
-            "SizeName": "حبة",
-            "Price": 10,
-            "Unit": "حبة",
-            "ImagePath": "sponge.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مخدة",
-            "SizeName": "حبة",
-            "Price": 45,
-            "Unit": "حبة",
-            "ImagePath": "sponge.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بونجة",
-            "SizeName": "حبة",
-            "Price": 100,
-            "Unit": "حبة",
-            "ImagePath": "sponge.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "ورق الطهي",
         "Description": "أدوات",
         "Variations": [
