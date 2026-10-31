@@ -67,22 +67,7 @@
   {
     "CategoryName": "الأدوات المدرسية",
     "Icon": "✏️",
-    "Items": [
-      {
-        "Name": "سيالة",
-        "Description": "اللون والنوع",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "قطعة",
-            "Price": 35,
-            "Unit": "قطعة",
-            "ImagePath": "pen.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "الأجهزة الكهرومنزلية",
