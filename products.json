@@ -24,44 +24,6 @@
     "Icon": "\uD83C\uDF3F",
     "Items": [
       {
-        "Name": "زيت الزيتون",
-        "Description": "حر / بكر",
-        "Variations": [
-          {
-            "MarketName": "حر تقليدي",
-            "SizeName": "1/2 لتر",
-            "Price": 490,
-            "Unit": "قارورة",
-            "ImagePath": "olive_oil.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "حر عصري",
-            "SizeName": "1/2 لتر",
-            "Price": 425,
-            "Unit": "قارورة",
-            "ImagePath": "olive_oil.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بكر غصن الزيتون",
-            "SizeName": "37 سل",
-            "Price": 490,
-            "Unit": "قارورة",
-            "ImagePath": "olive_oil.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بكر غصن الزيتون",
-            "SizeName": "1/2 لتر",
-            "Price": 650,
-            "Unit": "قارورة",
-            "ImagePath": "olive_oil.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "خل التفاح",
         "Description": "طبيعي",
         "Variations": [
