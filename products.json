@@ -72,22 +72,7 @@
   {
     "CategoryName": "الأجهزة الكهرومنزلية",
     "Icon": "\uD83D\uDCFA",
-    "Items": [
-      {
-        "Name": "مكيف 12 ",
-        "Description": "حدد النوعية",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "12000 BTU",
-            "Price": 78500,
-            "Unit": "جهاز",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "متنوعات (أخرى)",
