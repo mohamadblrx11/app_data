@@ -22,22 +22,7 @@
   {
     "CategoryName": "العشاب والتوابل",
     "Icon": "\uD83C\uDF3F",
-    "Items": [
-      {
-        "Name": "دهان (سمن) الماعز",
-        "Description": "طبيعي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "250 غ",
-            "Price": 1200,
-            "Unit": "علبة",
-            "ImagePath": "ghee.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "البقوليات والعجائن",
