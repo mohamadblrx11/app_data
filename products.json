@@ -24,20 +24,6 @@
     "Icon": "\uD83C\uDF3F",
     "Items": [
       {
-        "Name": "ماء الورد",
-        "Description": "مقطر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "قارورة",
-            "Price": 65,
-            "Unit": "قارورة",
-            "ImagePath": "rosewater.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "دهان (سمن) الماعز",
         "Description": "طبيعي",
         "Variations": [
