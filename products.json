@@ -54,68 +54,6 @@
     "Icon": "\uD83D\uDC76",
     "Items": [
       {
-        "Name": "حفاظات",
-        "Description": "أوان / النفساء / كان بيبي / دادا",
-        "Variations": [
-          {
-            "MarketName": "أوان",
-            "SizeName": "عبوة",
-            "Price": 85,
-            "Unit": "عبوة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "النفساء",
-            "SizeName": "عبوة",
-            "Price": 195,
-            "Unit": "عبوة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كان بيبي",
-            "SizeName": "1-5",
-            "Price": 250,
-            "Unit": "علبة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كان بيبي",
-            "SizeName": "6",
-            "Price": 350,
-            "Unit": "علبة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بيمبيز",
-            "SizeName": "4-6",
-            "Price": 1140,
-            "Unit": "محفظة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "دادا",
-            "SizeName": "2-3",
-            "Price": 430,
-            "Unit": "محفظة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "دادا",
-            "SizeName": "4-5-6",
-            "Price": 485,
-            "Unit": "محفظة",
-            "ImagePath": "diapers.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جوكينق دافئ للأطفال",
         "Description": "ملابس أطفال شتوية",
         "Variations": [
