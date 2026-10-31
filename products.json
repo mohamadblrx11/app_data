@@ -79,20 +79,6 @@
     "Icon": "\uD83D\uDCE6",
     "Items": [
       {
-        "Name": "بطاريات ساعة الحائط",
-        "Description": "ثنائية",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حبتين",
-            "Price": 25,
-            "Unit": "علبة",
-            "ImagePath": "battery.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مصابيح LED",
         "Description": "15 واط",
         "Variations": [
