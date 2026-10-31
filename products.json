@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "التمر المنقر",
-        "Description": "نوعية جيدة",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 195,
-            "Unit": "كغ",
-            "ImagePath": "dates.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "تمر البطانة",
         "Description": "بطانة غرس / غيره",
         "Variations": [
