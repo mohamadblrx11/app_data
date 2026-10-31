@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "البطيخ الأصفر",
-        "Description": "فواكه",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حبة",
-            "Price": 100,
-            "Unit": "حبة",
-            "ImagePath": "melon.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الشلاطة",
         "Description": "خضر",
         "Variations": [
