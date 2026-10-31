@@ -42,54 +42,7 @@
   {
     "CategoryName": "المثلجات",
     "Icon": "\uD83C\uDF66",
-    "Items": [
-      {
-        "Name": "مثلجات",
-        "Description": "أشكال مختلفة",
-        "Variations": [
-          {
-            "MarketName": "الفلاش",
-            "SizeName": "حبة",
-            "Price": 5,
-            "Unit": "حبة",
-            "ImagePath": "ice_cream.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بريما ميني",
-            "SizeName": "حبة",
-            "Price": 35,
-            "Unit": "حبة",
-            "ImagePath": "ice_cream.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بريما سيبرام",
-            "SizeName": "حبة",
-            "Price": 60,
-            "Unit": "حبة",
-            "ImagePath": "ice_cream.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "علبة 900 مل",
-            "Price": 255,
-            "Unit": "علبة",
-            "ImagePath": "ice_cream.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "علبة 1.2 لتر",
-            "Price": 270,
-            "Unit": "علبة",
-            "ImagePath": "ice_cream.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "المستلزمات الشخصية",
