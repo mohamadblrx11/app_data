@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "أجنحة دجاج",
-        "Description": "كلغ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "1 كغ",
-            "Price": 250,
-            "Unit": "كغ",
-            "ImagePath": "chicken_wings.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جناح وكتف داند",
         "Description": "كلغ",
         "Variations": [
