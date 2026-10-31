@@ -80,28 +80,6 @@
         ]
       },
       {
-        "Name": "مشروب رامي",
-        "Description": "رامي",
-        "Variations": [
-          {
-            "MarketName": "رامي",
-            "SizeName": "1.25 لتر",
-            "Price": 135,
-            "Unit": "قارورة",
-            "ImagePath": "rami.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "رامي",
-            "SizeName": "2 لتر",
-            "Price": 185,
-            "Unit": "قارورة",
-            "ImagePath": "rami.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مشروب معلب",
         "Description": "دايلي / نقاوس / صومي",
         "Variations": [
