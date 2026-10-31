@@ -366,7 +366,7 @@
             "SizeName": "قياسي",
             "Price": 125,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290864438161310.png",
             "IsAvailable": true
           },
           {
@@ -374,7 +374,7 @@
             "SizeName": "قياسي",
             "Price": 190,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290864565628469.png",
             "IsAvailable": true
           }
         ]
