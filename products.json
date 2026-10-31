@@ -55,36 +55,6 @@
         ]
       },
       {
-        "Name": "زيت المائدة إيليو",
-        "Description": "زيت طبخ",
-        "Variations": [
-          {
-            "MarketName": "إيليو",
-            "SizeName": "1 لتر",
-            "Price": 125,
-            "Unit": "لتر",
-            "ImagePath": "oil1l.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "إيليو",
-            "SizeName": "2 لتر",
-            "Price": 250,
-            "Unit": "لتر",
-            "ImagePath": "oil2l.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "إيليو",
-            "SizeName": "5 لتر",
-            "Price": 635,
-            "Unit": "لتر",
-            "ImagePath": "oil5l.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الخل",
         "Description": "أنواع الخل",
         "Variations": [
