@@ -248,20 +248,6 @@
         "Variations": [
           { "MarketName": "عام", "SizeName": "قياسي", "Price": 1450, "Unit": "قطعة", "ImagePath": "", "IsAvailable": true }
         ]
-      },
-      {
-        "Name": "خدمات تغليف الهدايا",
-        "Description": "خدمات إضافية",
-        "Variations": [
-          { "MarketName": "عام", "SizeName": "تغليف", "Price": 270, "Unit": "خدمة", "ImagePath": "", "IsAvailable": true }
-        ]
-      },
-      {
-        "Name": "مستحقات التوصيل والتحصيل",
-        "Description": "خدمات إضافية",
-        "Variations": [
-          { "MarketName": "عام", "SizeName": "توصيل", "Price": 120, "Unit": "خدمة", "ImagePath": "", "IsAvailable": true }
-        ]
       }
     ]
   }
