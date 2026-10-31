@@ -84,20 +84,6 @@
     "Icon": "\uD83D\uDECD️",
     "Items": [
       {
-        "Name": "أكياس بيضاء",
-        "Description": "5 كلغ رزمة 40 كيس",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "40 كيس",
-            "Price": 60,
-            "Unit": "رزمة",
-            "ImagePath": "white_bags.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "أكياس 10 كلغ",
         "Description": "رزمة 25 كيس",
         "Variations": [
