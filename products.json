@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "بيض أحمر",
-        "Description": "بلاكة",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "بلاكة",
-            "Price": 610,
-            "Unit": "بلاكة",
-            "ImagePath": "eggs.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "دجاج",
         "Description": "كلغ",
         "Variations": [
