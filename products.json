@@ -79,20 +79,6 @@
     "Icon": "\uD83D\uDCE6",
     "Items": [
       {
-        "Name": "سكر فاني",
-        "Description": "نوارة / غيره",
-        "Variations": [
-          {
-            "MarketName": "نوارة",
-            "SizeName": "كيس",
-            "Price": 5,
-            "Unit": "كيس",
-            "ImagePath": "vanilla.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "خميرة كيميائية",
         "Description": "نوارة / غيرها",
         "Variations": [
