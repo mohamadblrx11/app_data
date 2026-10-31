@@ -43,20 +43,6 @@
         ]
       },
       {
-        "Name": "عجائن ومعكرونة",
-        "Description": "مقرون / محمصة / تليتلي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "500 غ",
-            "Price": 85,
-            "Unit": "كيس",
-            "ImagePath": "pasta.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شعيرية إندومي",
         "Description": "دجاج / خضار / جبن / كاري",
         "Variations": [
