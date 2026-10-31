@@ -531,36 +531,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "قهوة خضراء",
-        "Description": "أنواع",
-        "Variations": [
-          {
-            "MarketName": "روبيستا",
-            "SizeName": "1 كغ",
-            "Price": 1390,
-            "Unit": "كغ",
-            "ImagePath": "coffee_beans.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أربيكا",
-            "SizeName": "1 كغ",
-            "Price": 1390,
-            "Unit": "كغ",
-            "ImagePath": "coffee_beans.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بوخاري",
-            "SizeName": "1 كغ",
-            "Price": 1390,
-            "Unit": "كغ",
-            "ImagePath": "coffee_beans.png",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
