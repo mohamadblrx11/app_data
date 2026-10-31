@@ -3572,14 +3572,6 @@
         "Description": "ملابس كاملة للاطفال شتوية ",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
             "MarketName": "ملابس ",
             "SizeName": "من 4 اسنوات الئ 8 سنوات ",
             "Price": 1780,
