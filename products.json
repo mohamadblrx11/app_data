@@ -29,6 +29,20 @@
     "Icon": "\uD83C\uDF3E",
     "Items": [
       {
+        "Name": "العدس",
+        "Description": "بقوليات",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1 كغ",
+            "Price": 265,
+            "Unit": "كغ",
+            "ImagePath": "lentils.png",
+            "IsAvailable": true
+          }
+        ]
+      },
+      {
         "Name": "الفول",
         "Description": "مقشر أو عادي",
         "Variations": [
@@ -60,28 +74,6 @@
             "Price": 300,
             "Unit": "كغ",
             "ImagePath": "beans.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
-        "Name": "الدشيشة",
-        "Description": "مفلقة أو رقيقة",
-        "Variations": [
-          {
-            "MarketName": "مفلقة",
-            "SizeName": "1 كغ",
-            "Price": 120,
-            "Unit": "كغ",
-            "ImagePath": "bulgur.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "رقيقة",
-            "SizeName": "1 كغ",
-            "Price": 120,
-            "Unit": "كغ",
-            "ImagePath": "bulgur.png",
             "IsAvailable": true
           }
         ]
