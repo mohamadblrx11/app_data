@@ -79,20 +79,6 @@
     "Icon": "\uD83D\uDCE6",
     "Items": [
       {
-        "Name": "مايزينة",
-        "Description": "700 غ",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "700 غ",
-            "Price": 145,
-            "Unit": "كيس",
-            "ImagePath": "starch.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "بطاريات ساعة الحائط",
         "Description": "ثنائية",
         "Variations": [
