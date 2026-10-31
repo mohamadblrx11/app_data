@@ -24,28 +24,6 @@
     "Icon": "\uD83C\uDF3F",
     "Items": [
       {
-        "Name": "خل التفاح",
-        "Description": "طبيعي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حجم صغير",
-            "Price": 150,
-            "Unit": "قارورة",
-            "ImagePath": "apple_cider.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "حجم كبير",
-            "Price": 300,
-            "Unit": "قارورة",
-            "ImagePath": "apple_cider.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "ماء الورد",
         "Description": "مقطر",
         "Variations": [
