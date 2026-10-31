@@ -36,52 +36,6 @@
         ]
       },
       {
-        "Name": "ياؤورت",
-        "Description": "إياب / جنينة / ياقو / ديالنا",
-        "Variations": [
-          {
-            "MarketName": "إياب",
-            "SizeName": "1 كغ",
-            "Price": 165,
-            "Unit": "قارورة",
-            "ImagePath": "yogurt.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "جنينة",
-            "SizeName": "1 كغ",
-            "Price": 165,
-            "Unit": "قارورة",
-            "ImagePath": "yogurt.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ياقو",
-            "SizeName": "1/2 لتر",
-            "Price": 80,
-            "Unit": "قارورة",
-            "ImagePath": "yogurt.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ياقو",
-            "SizeName": "170 غ",
-            "Price": 40,
-            "Unit": "قارورة",
-            "ImagePath": "yogurt.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ديالنا",
-            "SizeName": "100 غ",
-            "Price": 30,
-            "Unit": "علبة",
-            "ImagePath": "yogurt.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جبن علب",
         "Description": "بربر / شيزي / كاوبل",
         "Variations": [
