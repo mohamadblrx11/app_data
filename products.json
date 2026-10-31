@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "بيض بلدي عرب",
-        "Description": "بلاكة",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "بلاكة",
-            "Price": 900,
-            "Unit": "بلاكة",
-            "ImagePath": "eggs.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "بيض أبيض",
         "Description": "بلاكة",
         "Variations": [
