@@ -43,28 +43,6 @@
         ]
       },
       {
-        "Name": "الفول",
-        "Description": "مقشر أو عادي",
-        "Variations": [
-          {
-            "MarketName": "مقشر",
-            "SizeName": "1 كغ",
-            "Price": 300,
-            "Unit": "كغ",
-            "ImagePath": "fava_beans.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عادي",
-            "SizeName": "1 كغ",
-            "Price": 300,
-            "Unit": "كغ",
-            "ImagePath": "fava_beans.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الفويلة",
         "Description": "بقوليات",
         "Variations": [
