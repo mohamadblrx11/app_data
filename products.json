@@ -9,28 +9,6 @@
     "Icon": "\uD83E\uDD6B",
     "Items": [
       {
-        "Name": "الخل",
-        "Description": "أنواع الخل",
-        "Variations": [
-          {
-            "MarketName": "أنوار",
-            "SizeName": "أحمر",
-            "Price": 80,
-            "Unit": "قارورة",
-            "ImagePath": "vinegar.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أنوار",
-            "SizeName": "أبيض",
-            "Price": 80,
-            "Unit": "قارورة",
-            "ImagePath": "vinegar.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مرغرين",
         "Description": "لابل / صول / فلوريال",
         "Variations": [
