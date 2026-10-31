@@ -4,28 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "تمر البطانة",
-        "Description": "بطانة غرس / غيره",
-        "Variations": [
-          {
-            "MarketName": "بطانة غرس",
-            "SizeName": "1 كغ",
-            "Price": 180,
-            "Unit": "كغ",
-            "ImagePath": "dates.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "غيرها",
-            "SizeName": "1 كغ",
-            "Price": 180,
-            "Unit": "كغ",
-            "ImagePath": "dates.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "البصل",
         "Description": "خضر",
         "Variations": [
