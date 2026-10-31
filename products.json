@@ -43,60 +43,6 @@
         ]
       },
       {
-        "Name": "سميد",
-        "Description": "علامات وأحجام",
-        "Variations": [
-          {
-            "MarketName": "سفينة",
-            "SizeName": "كيس 10 كغ",
-            "Price": 425,
-            "Unit": "كيس",
-            "ImagePath": "semolina.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سفينة",
-            "SizeName": "كيس 25 كغ",
-            "Price": 1050,
-            "Unit": "كيس",
-            "ImagePath": "semolina.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الأغواط",
-            "SizeName": "كيس 10 كغ",
-            "Price": 425,
-            "Unit": "كيس",
-            "ImagePath": "semolina.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الأغواط",
-            "SizeName": "كيس 25 كغ",
-            "Price": 1050,
-            "Unit": "كيس",
-            "ImagePath": "semolina.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الصرصو",
-            "SizeName": "كيس 10 كغ",
-            "Price": 425,
-            "Unit": "كيس",
-            "ImagePath": "semolina.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الصرصو",
-            "SizeName": "كيس 25 كغ",
-            "Price": 1050,
-            "Unit": "كيس",
-            "ImagePath": "semolina.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "حمص مرحي",
         "Description": "بقوليات",
         "Variations": [
