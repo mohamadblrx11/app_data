@@ -29,20 +29,6 @@
     "Icon": "\uD83C\uDF3E",
     "Items": [
       {
-        "Name": "اللوبيا البيضاء",
-        "Description": "بقوليات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 305,
-            "Unit": "كغ",
-            "ImagePath": "beans.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "العدس",
         "Description": "بقوليات",
         "Variations": [
