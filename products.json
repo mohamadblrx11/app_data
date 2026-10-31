@@ -64,28 +64,6 @@
     "Icon": "\uD83C\uDF7D️",
     "Items": [
       {
-        "Name": "ورق الألومنيوم",
-        "Description": "أدوات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "5 متر",
-            "Price": 145,
-            "Unit": "لفة",
-            "ImagePath": "foil.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "10 متر",
-            "Price": 250,
-            "Unit": "لفة",
-            "ImagePath": "foil.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مناديل اليدين",
         "Description": "بيضاء / مطبوعة",
         "Variations": [
