@@ -3566,6 +3566,29 @@
   {
     "CategoryName": "ملابس اطفال",
     "Icon": "\uD83D\uDC7C",
-    "Items": []
+    "Items": [
+      {
+        "Name": "جوكينق دافئ للاطفال ",
+        "Description": "ملابس كاملة للاطفال شتوية ",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "من 4 اسنوات الئ 8 سنوات ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   }
 ]
