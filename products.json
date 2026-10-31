@@ -176,7 +176,7 @@
             "SizeName": "صغير",
             "Price": 185,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290856962539845.png",
             "IsAvailable": true
           },
           {
@@ -184,7 +184,7 @@
             "SizeName": "متوسط",
             "Price": 200,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290857135378672.png",
             "IsAvailable": true
           },
           {
@@ -192,7 +192,7 @@
             "SizeName": "كبير",
             "Price": 320,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290857452003704.png",
             "IsAvailable": true
           },
           {
@@ -200,7 +200,7 @@
             "SizeName": "متوسط عميق",
             "Price": 185,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290858290902307.png",
             "IsAvailable": true
           },
           {
@@ -208,7 +208,7 @@
             "SizeName": "صغير عميق",
             "Price": 185,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290859725119776.png",
             "IsAvailable": true
           }
         ]
