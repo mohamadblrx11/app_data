@@ -49,20 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "مزيل عرق",
-        "Description": "عادي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "علبة",
-            "Price": 180,
-            "Unit": "علبة",
-            "ImagePath": "deodorant.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "صابون جلدي",
         "Description": "معطر",
         "Variations": [
