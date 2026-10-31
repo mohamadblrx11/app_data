@@ -79,44 +79,6 @@
         ]
       },
       {
-        "Name": "كسكس",
-        "Description": "سفينة / البركة / النخلة",
-        "Variations": [
-          {
-            "MarketName": "سفينة",
-            "SizeName": "متوسط 1 كغ",
-            "Price": 160,
-            "Unit": "كغ",
-            "ImagePath": "couscous.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سفينة",
-            "SizeName": "رقيق 1 كغ",
-            "Price": 160,
-            "Unit": "كغ",
-            "ImagePath": "couscous.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "البركة",
-            "SizeName": "متوسط 1 كغ",
-            "Price": 150,
-            "Unit": "كغ",
-            "ImagePath": "couscous.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "النخلة",
-            "SizeName": "متوسط 1 كغ",
-            "Price": 140,
-            "Unit": "كغ",
-            "ImagePath": "couscous.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "سميد",
         "Description": "علامات وأحجام",
         "Variations": [
