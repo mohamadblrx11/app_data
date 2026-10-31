@@ -64,20 +64,6 @@
     "Icon": "\uD83C\uDF7D️",
     "Items": [
       {
-        "Name": "قداحة مطبخ",
-        "Description": "أدوات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "قطعة",
-            "Price": 95,
-            "Unit": "قطعة",
-            "ImagePath": "kitchen_lighter.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مربع غسل الأواني",
         "Description": "عادي / مخدة / بونجة",
         "Variations": [
