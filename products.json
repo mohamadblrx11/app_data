@@ -34,52 +34,6 @@
     "Icon": "\uD83E\uDD64",
     "Items": [
       {
-        "Name": "مشروب أمازون",
-        "Description": "طاقة / فيشي / غازي",
-        "Variations": [
-          {
-            "MarketName": "طاقة",
-            "SizeName": "33 سل",
-            "Price": 55,
-            "Unit": "قارورة",
-            "ImagePath": "amazon.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "فيشي",
-            "SizeName": "33 سل",
-            "Price": 45,
-            "Unit": "قارورة",
-            "ImagePath": "amazon.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "غازي",
-            "SizeName": "1 لتر",
-            "Price": 100,
-            "Unit": "قارورة",
-            "ImagePath": "amazon.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "غازي",
-            "SizeName": "2 لتر",
-            "Price": 175,
-            "Unit": "قارورة",
-            "ImagePath": "amazon.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "صودا",
-            "SizeName": "2 لتر",
-            "Price": 95,
-            "Unit": "قارورة",
-            "ImagePath": "amazon.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مشروب معلب",
         "Description": "دايلي / نقاوس / صومي",
         "Variations": [
