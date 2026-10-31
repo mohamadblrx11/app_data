@@ -3580,6 +3580,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جاكيت و بودي وسروال اخضر ",
+        "Description": "كاكيت شتوي و بودي وسروال ",
+        "Variations": [
+          {
+            "MarketName": "ملابس ",
+            "SizeName": "من 4 الي 8 سنوات ",
+            "Price": 1050,
+            "Unit": "1",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
