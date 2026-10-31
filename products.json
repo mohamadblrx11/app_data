@@ -77,36 +77,6 @@
         ]
       },
       {
-        "Name": "هريسة",
-        "Description": "كاب أو غيرها",
-        "Variations": [
-          {
-            "MarketName": "كاب",
-            "SizeName": "160 غ",
-            "Price": 70,
-            "Unit": "علبة",
-            "ImagePath": "harissa.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاب",
-            "SizeName": "400 غ",
-            "Price": 145,
-            "Unit": "علبة",
-            "ImagePath": "harissa.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أخرى",
-            "SizeName": "400 غ",
-            "Price": 145,
-            "Unit": "علبة",
-            "ImagePath": "harissa.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مرغرين",
         "Description": "لابل / صول / فلوريال",
         "Variations": [
