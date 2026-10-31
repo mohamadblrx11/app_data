@@ -330,7 +330,7 @@
             "SizeName": "عادية",
             "Price": 580,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290863443136067.png",
             "IsAvailable": true
           },
           {
@@ -338,7 +338,7 @@
             "SizeName": "قياسي",
             "Price": 380,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290863623801189.png",
             "IsAvailable": true
           }
         ]
