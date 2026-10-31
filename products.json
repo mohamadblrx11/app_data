@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "النعناع",
-        "Description": "أعشاب",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حزمة",
-            "Price": 30,
-            "Unit": "حزمة",
-            "ImagePath": "mint.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "فلفل مرقد",
         "Description": "مخللات",
         "Variations": [
