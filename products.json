@@ -32,20 +32,6 @@
         ]
       },
       {
-        "Name": "الخيار",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 90,
-            "Unit": "كغ",
-            "ImagePath": "cucumber.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الكورجيت",
         "Description": "خضر",
         "Variations": [
