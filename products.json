@@ -39,44 +39,6 @@
     "Icon": "\uD83C\uDF6B",
     "Items": [
       {
-        "Name": "شيبس",
-        "Description": "أحجام مختلفة",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "5 دج",
-            "Price": 5,
-            "Unit": "كيس",
-            "ImagePath": "chips.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "10 دج",
-            "Price": 10,
-            "Unit": "كيس",
-            "ImagePath": "chips.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "20 دج",
-            "Price": 20,
-            "Unit": "كيس",
-            "ImagePath": "chips.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "ميزان 50 غ",
-            "Price": 50,
-            "Unit": "كيس",
-            "ImagePath": "chips.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شكولاطة",
         "Description": "عادية / ماكسن / أوبتيلا",
         "Variations": [
