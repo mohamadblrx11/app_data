@@ -82,44 +82,6 @@
         ]
       },
       {
-        "Name": "جبن علب",
-        "Description": "بربر / شيزي / كاوبل",
-        "Variations": [
-          {
-            "MarketName": "بربر",
-            "SizeName": "8 قطع",
-            "Price": 100,
-            "Unit": "علبة",
-            "ImagePath": "cheese.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بربر",
-            "SizeName": "16 قطعة",
-            "Price": 185,
-            "Unit": "علبة",
-            "ImagePath": "cheese.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "شيزي",
-            "SizeName": "24 قطعة",
-            "Price": 275,
-            "Unit": "علبة",
-            "ImagePath": "cheese.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاوبل",
-            "SizeName": "32 قطعة",
-            "Price": 285,
-            "Unit": "علبة",
-            "ImagePath": "cheese.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مايونيز",
         "Description": "نوعية جيدة",
         "Variations": [
