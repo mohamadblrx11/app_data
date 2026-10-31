@@ -14,44 +14,6 @@
     "Icon": "\uD83E\uDDC0",
     "Items": [
       {
-        "Name": "حليب",
-        "Description": "كانديا / صومام / ميلكوسبراي",
-        "Variations": [
-          {
-            "MarketName": "كانديا",
-            "SizeName": "1 لتر",
-            "Price": 125,
-            "Unit": "علبة",
-            "ImagePath": "milk.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كانديا",
-            "SizeName": "1/2 لتر",
-            "Price": 75,
-            "Unit": "علبة",
-            "ImagePath": "milk.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ميلكوسبراي",
-            "SizeName": "500 غ",
-            "Price": 465,
-            "Unit": "علبة",
-            "ImagePath": "milk_powder.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "لويا",
-            "SizeName": "500 غ",
-            "Price": 550,
-            "Unit": "علبة",
-            "ImagePath": "milk_powder.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "لبن ورايب",
         "Description": "الصومام",
         "Variations": [
