@@ -502,7 +502,7 @@
             "SizeName": "قياسي",
             "Price": 190,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290871117333440.png",
             "IsAvailable": true
           },
           {
@@ -510,7 +510,7 @@
             "SizeName": "لون ذهبي",
             "Price": 450,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290871288855941.png",
             "IsAvailable": true
           }
         ]
