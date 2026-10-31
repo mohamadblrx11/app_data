@@ -79,20 +79,6 @@
     "Icon": "\uD83D\uDCE6",
     "Items": [
       {
-        "Name": "فلون نوارة",
-        "Description": "شوكو / فانيلا / كراميل / فراولة",
-        "Variations": [
-          {
-            "MarketName": "نوارة",
-            "SizeName": "علبة صغيرة",
-            "Price": 35,
-            "Unit": "علبة",
-            "ImagePath": "flanc.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "سكر فاني",
         "Description": "نوارة / غيره",
         "Variations": [
