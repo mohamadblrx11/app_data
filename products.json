@@ -34,52 +34,6 @@
     "Icon": "\uD83E\uDD64",
     "Items": [
       {
-        "Name": "ماء معدني",
-        "Description": "صومام / القولية / طوجي",
-        "Variations": [
-          {
-            "MarketName": "صومام",
-            "SizeName": "33 سل",
-            "Price": 20,
-            "Unit": "قارورة",
-            "ImagePath": "water.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "صومام",
-            "SizeName": "1.5 لتر",
-            "Price": 35,
-            "Unit": "قارورة",
-            "ImagePath": "water.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "القولية",
-            "SizeName": "1.5 لتر",
-            "Price": 40,
-            "Unit": "قارورة",
-            "ImagePath": "water.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "طوجي",
-            "SizeName": "5 لتر",
-            "Price": 90,
-            "Unit": "قارورة",
-            "ImagePath": "water.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "فيشي",
-            "SizeName": "33 سل",
-            "Price": 30,
-            "Unit": "قارورة",
-            "ImagePath": "water.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مشروب غازي",
         "Description": "زعيم / شريعة / حمود",
         "Variations": [
