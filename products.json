@@ -26,20 +26,6 @@
         ]
       },
       {
-        "Name": "البطاطا",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 95,
-            "Unit": "كغ",
-            "ImagePath": "potato.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "البصل",
         "Description": "خضر",
         "Variations": [
