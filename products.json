@@ -49,28 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "مناديل شخصية",
-        "Description": "للجيب / مطهرة",
-        "Variations": [
-          {
-            "MarketName": "للجيب",
-            "SizeName": "علبة",
-            "Price": 15,
-            "Unit": "علبة",
-            "ImagePath": "tissues.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مطهرة",
-            "SizeName": "عبوة",
-            "Price": 100,
-            "Unit": "عبوة",
-            "ImagePath": "tissues.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "فازلين",
         "Description": "عناية",
         "Variations": [
