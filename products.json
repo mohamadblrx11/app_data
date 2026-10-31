@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "كانزة داند",
-        "Description": "كلغ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "1 كغ",
-            "Price": 150,
-            "Unit": "كغ",
-            "ImagePath": "meat.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "سكالوب",
         "Description": "كلغ",
         "Variations": [
