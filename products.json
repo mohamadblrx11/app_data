@@ -49,20 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "صبغة الشعر",
-        "Description": "لوريات",
-        "Variations": [
-          {
-            "MarketName": "لوريات",
-            "SizeName": "علبة",
-            "Price": 135,
-            "Unit": "علبة",
-            "ImagePath": "hair_dye.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "أوكسيدون",
         "Description": "20-30",
         "Variations": [
