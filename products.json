@@ -145,44 +145,6 @@
         ]
       },
       {
-        "Name": "العسيلة",
-        "Description": "المرجان / وريدة",
-        "Variations": [
-          {
-            "MarketName": "المرجان",
-            "SizeName": "رطل",
-            "Price": 110,
-            "Unit": "رطل",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "وريدة",
-            "SizeName": "رطل",
-            "Price": 110,
-            "Unit": "رطل",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "المرجان",
-            "SizeName": "كيلو",
-            "Price": 190,
-            "Unit": "كغ",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "وريدة",
-            "SizeName": "كيلو",
-            "Price": 190,
-            "Unit": "كغ",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "زبدة",
         "Description": "ستار / غيرها",
         "Variations": [
