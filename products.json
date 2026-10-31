@@ -107,44 +107,6 @@
         ]
       },
       {
-        "Name": "المربى",
-        "Description": "مشمش / تين",
-        "Variations": [
-          {
-            "MarketName": "تريستار",
-            "SizeName": "مشمش 340 غ",
-            "Price": 170,
-            "Unit": "علبة",
-            "ImagePath": "jam.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تريستار",
-            "SizeName": "تين 340 غ",
-            "Price": 170,
-            "Unit": "علبة",
-            "ImagePath": "jam.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تريستار",
-            "SizeName": "مشمش 500 غ",
-            "Price": 150,
-            "Unit": "علبة",
-            "ImagePath": "jam.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تريستار",
-            "SizeName": "تين 500 غ",
-            "Price": 150,
-            "Unit": "علبة",
-            "ImagePath": "jam.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "زبدة",
         "Description": "ستار / غيرها",
         "Variations": [
