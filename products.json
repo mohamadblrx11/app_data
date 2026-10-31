@@ -137,28 +137,6 @@
         ]
       },
       {
-        "Name": "جافيل",
-        "Description": "قارورة / دلو",
-        "Variations": [
-          {
-            "MarketName": "ناصح",
-            "SizeName": "قارورة 720 مل",
-            "Price": 60,
-            "Unit": "قارورة",
-            "ImagePath": "bleach.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ناصح",
-            "SizeName": "دلو 5 لتر",
-            "Price": 235,
-            "Unit": "دلو",
-            "ImagePath": "bleach.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "فرطوار",
         "Description": "ماسح الأرض",
         "Variations": [
