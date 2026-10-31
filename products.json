@@ -82,22 +82,7 @@
   {
     "CategoryName": "مستلزمات التعبئة",
     "Icon": "\uD83D\uDECD️",
-    "Items": [
-      {
-        "Name": "كؤوس الكرتون",
-        "Description": "للمشروبات الساخنة",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "16 سل * 45",
-            "Price": 110,
-            "Unit": "كيس",
-            "ImagePath": "paper_cups.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "خدمات وشحن",
