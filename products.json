@@ -1,7 +1,7 @@
 [
   {
     "CategoryName": "ملابس اطفال",
-    "Icon": "\uD83D\uDC7C",
+    "Icon": "👼",
     "Items": [
       {
         "Name": "جوكينق دافئ للاطفال",
@@ -49,7 +49,7 @@
   },
   {
     "CategoryName": "اواني منزلية",
-    "Icon": "\uD83C\uDF7D️",
+    "Icon": "🍽️",
     "Items": [
       {
         "Name": "كوب ماء",
@@ -163,7 +163,7 @@
             "Price": 9500,
             "Unit": "طقم",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290856314050399.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
@@ -495,7 +495,7 @@
             "Price": 0,
             "Unit": "قطعة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290867316094834.png",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "لون ذهبي",
