@@ -84,20 +84,6 @@
     "Icon": "\uD83D\uDECD️",
     "Items": [
       {
-        "Name": "أكياس القمامة",
-        "Description": "حدد المقاس",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "رزمة",
-            "Price": 25,
-            "Unit": "رزمة",
-            "ImagePath": "trash_bags.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "كؤوس بلاستيك",
         "Description": "للماء والمشروبات الباردة",
         "Variations": [
