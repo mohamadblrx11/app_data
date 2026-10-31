@@ -7,38 +7,7 @@
   {
     "CategoryName": "المواد الغذائية",
     "Icon": "\uD83E\uDD6B",
-    "Items": [
-      {
-        "Name": "مرغرين",
-        "Description": "لابل / صول / فلوريال",
-        "Variations": [
-          {
-            "MarketName": "لابل",
-            "SizeName": "250 غ",
-            "Price": 115,
-            "Unit": "علبة",
-            "ImagePath": "margarine.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "صول",
-            "SizeName": "250 غ",
-            "Price": 115,
-            "Unit": "علبة",
-            "ImagePath": "margarine.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "فلوريال",
-            "SizeName": "250 غ",
-            "Price": 115,
-            "Unit": "علبة",
-            "ImagePath": "margarine.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "الحليب ومشتقاته",
