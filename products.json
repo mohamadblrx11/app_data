@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "البصل",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 50,
-            "Unit": "كغ",
-            "ImagePath": "onion.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الجزر",
         "Description": "خضر",
         "Variations": [
