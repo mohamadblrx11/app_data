@@ -52,20 +52,6 @@
         ]
       },
       {
-        "Name": "حليب الناقة",
-        "Description": "طبيعي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 لتر",
-            "Price": 120,
-            "Unit": "لتر",
-            "ImagePath": "camel_milk.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "بهارات",
         "Description": "توابل",
         "Variations": [
