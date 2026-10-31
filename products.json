@@ -52,22 +52,7 @@
   {
     "CategoryName": "الحفاظات",
     "Icon": "\uD83D\uDC76",
-    "Items": [
-      {
-        "Name": "طقم 100% قطن جاكيت و بودي و سروال",
-        "Description": "ملابس أطفال قطنية",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "مقاس واحد",
-            "Price": 1050,
-            "Unit": "طقم",
-            "ImagePath": "baby_clothes.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "التنظيف والصيانة",
