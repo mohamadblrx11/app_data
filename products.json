@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "سكالوب",
-        "Description": "كلغ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "1 كغ",
-            "Price": 990,
-            "Unit": "كغ",
-            "ImagePath": "meat.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "لحم نعجة",
         "Description": "كلغ",
         "Variations": [
