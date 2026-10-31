@@ -14,28 +14,6 @@
     "Icon": "\uD83E\uDDC0",
     "Items": [
       {
-        "Name": "لبن ورايب",
-        "Description": "الصومام",
-        "Variations": [
-          {
-            "MarketName": "الصومام",
-            "SizeName": "لبن 1 لتر",
-            "Price": 145,
-            "Unit": "قارورة",
-            "ImagePath": "lben.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الصومام",
-            "SizeName": "رايب 1 لتر",
-            "Price": 145,
-            "Unit": "قارورة",
-            "ImagePath": "raib.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جبن علب",
         "Description": "بربر / شيزي / كاوبل",
         "Variations": [
