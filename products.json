@@ -49,20 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "صابون جلدي",
-        "Description": "معطر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حبة",
-            "Price": 60,
-            "Unit": "حبة",
-            "ImagePath": "soap.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شامبو",
         "Description": "فينوس",
         "Variations": [
