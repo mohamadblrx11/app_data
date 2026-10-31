@@ -104,7 +104,7 @@
             "SizeName": "0.35 لتر",
             "Price": 980,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290854831875808.png",
             "IsAvailable": true
           },
           {
@@ -112,7 +112,7 @@
             "SizeName": "0.75 لتر",
             "Price": 1550,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290855043546399.png",
             "IsAvailable": true
           }
         ]
