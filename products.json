@@ -105,20 +105,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "قهوة محمصة مرحية",
-        "Description": "ميزان",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 1390,
-            "Unit": "كغ",
-            "ImagePath": "coffee.png",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
