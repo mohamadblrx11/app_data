@@ -24,52 +24,6 @@
     "Icon": "\uD83C\uDF3F",
     "Items": [
       {
-        "Name": "العسل",
-        "Description": "طبيعي",
-        "Variations": [
-          {
-            "MarketName": "سدر",
-            "SizeName": "250 غ",
-            "Price": 1550,
-            "Unit": "علبة",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "شوكيات",
-            "SizeName": "250 غ",
-            "Price": 900,
-            "Unit": "علبة",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "برتقال",
-            "SizeName": "250 غ",
-            "Price": 900,
-            "Unit": "علبة",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "متعدد الأزهار",
-            "SizeName": "250 غ",
-            "Price": 900,
-            "Unit": "علبة",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أكاسيا",
-            "SizeName": "250 غ",
-            "Price": 1650,
-            "Unit": "علبة",
-            "ImagePath": "honey.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "زيت الزيتون",
         "Description": "حر / بكر",
         "Variations": [
