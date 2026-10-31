@@ -107,52 +107,6 @@
         ]
       },
       {
-        "Name": "طماطم معلبة",
-        "Description": "أنواع مختلفة",
-        "Variations": [
-          {
-            "MarketName": "كاب",
-            "SizeName": "160 غ",
-            "Price": 60,
-            "Unit": "علبة",
-            "ImagePath": "tomato.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاب",
-            "SizeName": "400 غ",
-            "Price": 185,
-            "Unit": "علبة",
-            "ImagePath": "tomato.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاب",
-            "SizeName": "800 غ",
-            "Price": 305,
-            "Unit": "علبة",
-            "ImagePath": "tomato.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الحارة",
-            "SizeName": "400 غ",
-            "Price": 185,
-            "Unit": "علبة",
-            "ImagePath": "tomato.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "جمبو",
-            "SizeName": "800 غ",
-            "Price": 305,
-            "Unit": "علبة",
-            "ImagePath": "tomato.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "هريسة",
         "Description": "كاب أو غيرها",
         "Variations": [
