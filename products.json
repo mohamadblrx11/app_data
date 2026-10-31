@@ -57,20 +57,6 @@
         ]
       },
       {
-        "Name": "المردود",
-        "Description": "بقوليات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 120,
-            "Unit": "كغ",
-            "ImagePath": "bulgur.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الأرز",
         "Description": "أبيض أو مفور",
         "Variations": [
