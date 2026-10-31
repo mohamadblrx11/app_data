@@ -39,60 +39,6 @@
     "Icon": "\uD83C\uDF6B",
     "Items": [
       {
-        "Name": "مكسرات",
-        "Description": "كاوكاو / لوز / كاجو",
-        "Variations": [
-          {
-            "MarketName": "كاوكاو مملح",
-            "SizeName": "100 غ",
-            "Price": 60,
-            "Unit": "كيس",
-            "ImagePath": "nuts.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاوكاو مجمر",
-            "SizeName": "100 غ",
-            "Price": 75,
-            "Unit": "كيس",
-            "ImagePath": "nuts.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "لوز",
-            "SizeName": "50 غ",
-            "Price": 150,
-            "Unit": "كيس",
-            "ImagePath": "nuts.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "كاجو",
-            "SizeName": "50 غ",
-            "Price": 150,
-            "Unit": "كيس",
-            "ImagePath": "nuts.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بيسطاش",
-            "SizeName": "50 غ",
-            "Price": 150,
-            "Unit": "كيس",
-            "ImagePath": "nuts.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "متنوعة",
-            "SizeName": "50 غ",
-            "Price": 100,
-            "Unit": "كيس",
-            "ImagePath": "nuts.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مادلين",
         "Description": "الشروق / تومي",
         "Variations": [
