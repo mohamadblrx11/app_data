@@ -9,52 +9,6 @@
     "Icon": "\uD83E\uDD6B",
     "Items": [
       {
-        "Name": "السكر",
-        "Description": "كلغ معلب",
-        "Variations": [
-          {
-            "MarketName": "سكور",
-            "SizeName": "1 كغ",
-            "Price": 95,
-            "Unit": "كغ",
-            "ImagePath": "suger1kg.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سكور",
-            "SizeName": "2 كغ",
-            "Price": 190,
-            "Unit": "كغ",
-            "ImagePath": "suger2kg.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سكور",
-            "SizeName": "5 كغ",
-            "Price": 475,
-            "Unit": "كغ",
-            "ImagePath": "suger5kg.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سكور",
-            "SizeName": "10 كغ",
-            "Price": 950,
-            "Unit": "كغ",
-            "ImagePath": "suger10kg.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سكور",
-            "SizeName": "25 كغ",
-            "Price": 2375,
-            "Unit": "كغ",
-            "ImagePath": "suger25kg.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الخل",
         "Description": "أنواع الخل",
         "Variations": [
