@@ -167,28 +167,6 @@
         ]
       },
       {
-        "Name": "شاي ميزان",
-        "Description": "عادي / ممتاز",
-        "Variations": [
-          {
-            "MarketName": "عادي",
-            "SizeName": "100 غ",
-            "Price": 130,
-            "Unit": "كيس",
-            "ImagePath": "tea.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ممتاز",
-            "SizeName": "100 غ",
-            "Price": 160,
-            "Unit": "كيس",
-            "ImagePath": "tea.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "قهوة محمصة مرحية",
         "Description": "ميزان",
         "Variations": [
