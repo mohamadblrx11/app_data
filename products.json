@@ -159,44 +159,6 @@
         ]
       },
       {
-        "Name": "التونة",
-        "Description": "ماركات مختلفة",
-        "Variations": [
-          {
-            "MarketName": "عادية",
-            "SizeName": "بالزيت",
-            "Price": 60,
-            "Unit": "علبة",
-            "ImagePath": "tuna.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عادية",
-            "SizeName": "بالطماطم",
-            "Price": 60,
-            "Unit": "علبة",
-            "ImagePath": "tuna.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ريكامار",
-            "SizeName": "بالزيت",
-            "Price": 105,
-            "Unit": "علبة",
-            "ImagePath": "tuna.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "ريكامار",
-            "SizeName": "بالطماطم",
-            "Price": 105,
-            "Unit": "علبة",
-            "ImagePath": "tuna.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شاي معلب",
         "Description": "ماركات مختلفة",
         "Variations": [
