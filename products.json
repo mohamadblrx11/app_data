@@ -17,22 +17,7 @@
   {
     "CategoryName": "قصابة",
     "Icon": "\uD83E\uDD69",
-    "Items": [
-      {
-        "Name": "رشتة",
-        "Description": "00 غ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "00 غ",
-            "Price": 0,
-            "Unit": "كيس",
-            "ImagePath": "pasta.png",
-            "IsAvailable": false
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "العشاب والتوابل",
