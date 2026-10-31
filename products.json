@@ -258,7 +258,7 @@
             "SizeName": "مقاس 20",
             "Price": 95,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290861713385926.png",
             "IsAvailable": true
           },
           {
@@ -266,7 +266,7 @@
             "SizeName": "مقاس 22",
             "Price": 125,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290861882943007.png",
             "IsAvailable": true
           }
         ]
