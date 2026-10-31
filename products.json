@@ -19,20 +19,6 @@
     "Icon": "\uD83E\uDD69",
     "Items": [
       {
-        "Name": "كبدة دجاج صافية",
-        "Description": "كلغ",
-        "Variations": [
-          {
-            "MarketName": "محلي",
-            "SizeName": "1 كغ",
-            "Price": 990,
-            "Unit": "كغ",
-            "ImagePath": "liver.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "أجنحة دجاج",
         "Description": "كلغ",
         "Variations": [
