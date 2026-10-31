@@ -39,44 +39,6 @@
     "Icon": "\uD83C\uDF6B",
     "Items": [
       {
-        "Name": "بسكويت",
-        "Description": "بودوار / تانغو / بيمو",
-        "Variations": [
-          {
-            "MarketName": "بودوار",
-            "SizeName": "170-200 غ",
-            "Price": 125,
-            "Unit": "علبة",
-            "ImagePath": "biscuit.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تانغو",
-            "SizeName": "علبة",
-            "Price": 120,
-            "Unit": "علبة",
-            "ImagePath": "biscuit.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بيمو",
-            "SizeName": "قاليت",
-            "Price": 120,
-            "Unit": "علبة",
-            "ImagePath": "biscuit.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "جاف فطور",
-            "SizeName": "كيس",
-            "Price": 50,
-            "Unit": "كيس",
-            "ImagePath": "biscuit.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "حلويات",
         "Description": "الشامية / الحلقوم",
         "Variations": [
