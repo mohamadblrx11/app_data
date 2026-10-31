@@ -32,62 +32,7 @@
   {
     "CategoryName": "المشروبات",
     "Icon": "\uD83E\uDD64",
-    "Items": [
-      {
-        "Name": "مشروب معلب",
-        "Description": "دايلي / نقاوس / صومي",
-        "Variations": [
-          {
-            "MarketName": "دايلي",
-            "SizeName": "125 مل",
-            "Price": 10,
-            "Unit": "علبة",
-            "ImagePath": "canned_drink.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "دايلي",
-            "SizeName": "20 سل",
-            "Price": 25,
-            "Unit": "علبة",
-            "ImagePath": "canned_drink.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "دايلي",
-            "SizeName": "1 لتر",
-            "Price": 75,
-            "Unit": "علبة",
-            "ImagePath": "canned_drink.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "نقاوس",
-            "SizeName": "1 لتر",
-            "Price": 105,
-            "Unit": "علبة",
-            "ImagePath": "canned_drink.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "صومي",
-            "SizeName": "حليب 20 سل",
-            "Price": 45,
-            "Unit": "علبة",
-            "ImagePath": "canned_drink.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "صومي",
-            "SizeName": "شوكولاتة 20 سل",
-            "Price": 10,
-            "Unit": "علبة",
-            "ImagePath": "canned_drink.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "المكسرات والحلويات",
