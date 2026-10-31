@@ -84,20 +84,6 @@
     "Icon": "\uD83D\uDECD️",
     "Items": [
       {
-        "Name": "أكياس التجميد",
-        "Description": "رزمة 80 كيس",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "80 كيس",
-            "Price": 55,
-            "Unit": "رزمة",
-            "ImagePath": "freezer_bags.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "أكياس الخبز",
         "Description": "رزمة 100 كيس",
         "Variations": [
