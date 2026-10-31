@@ -74,20 +74,6 @@
     "Icon": "\uD83D\uDCFA",
     "Items": [
       {
-        "Name": "تلفاز 43 بوصة",
-        "Description": "سامسونج ذكي جوجل",
-        "Variations": [
-          {
-            "MarketName": "سامسونج",
-            "SizeName": "43 بوصة",
-            "Price": 45000,
-            "Unit": "جهاز",
-            "ImagePath": "tv.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مكيف 12 ",
         "Description": "حدد النوعية",
         "Variations": [
