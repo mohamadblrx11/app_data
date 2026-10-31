@@ -49,28 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "شامبو",
-        "Description": "فينوس",
-        "Variations": [
-          {
-            "MarketName": "فينوس",
-            "SizeName": "2في1",
-            "Price": 120,
-            "Unit": "قارورة",
-            "ImagePath": "shampoo.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "فينوس",
-            "SizeName": "3في1",
-            "Price": 120,
-            "Unit": "قارورة",
-            "ImagePath": "shampoo.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "قداحة شخصية",
         "Description": "متنوعات",
         "Variations": [
