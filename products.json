@@ -49,20 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "أوكسيدون",
-        "Description": "20-30",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "قارورة",
-            "Price": 50,
-            "Unit": "قارورة",
-            "ImagePath": "oxidant.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مزيل عرق",
         "Description": "عادي",
         "Variations": [
