@@ -59,20 +59,6 @@
     "Icon": "\uD83E\uDDF9",
     "Items": [
       {
-        "Name": "مبيد حشرات",
-        "Description": "كازا / ساميتوكس",
-        "Variations": [
-          {
-            "MarketName": "كازا",
-            "SizeName": "300 مل",
-            "Price": 155,
-            "Unit": "بخاخة",
-            "ImagePath": "insecticide.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "صابون مسحوق",
         "Description": "ازيس / تست / أومو",
         "Variations": [
