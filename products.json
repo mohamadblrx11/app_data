@@ -93,20 +93,6 @@
         ]
       },
       {
-        "Name": "مصابيح عادية",
-        "Description": "60 - 75 وات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "حبة",
-            "Price": 55,
-            "Unit": "حبة",
-            "ImagePath": "bulb.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مصابيح LED",
         "Description": "15 واط",
         "Variations": [
