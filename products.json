@@ -159,28 +159,6 @@
         ]
       },
       {
-        "Name": "سردين",
-        "Description": "بالزيت / بالطماطم",
-        "Variations": [
-          {
-            "MarketName": "فيفا",
-            "SizeName": "بالزيت",
-            "Price": 100,
-            "Unit": "علبة",
-            "ImagePath": "sardine.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "فيفا",
-            "SizeName": "بالطماطم",
-            "Price": 100,
-            "Unit": "علبة",
-            "ImagePath": "sardine.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "التونة",
         "Description": "ماركات مختلفة",
         "Variations": [
