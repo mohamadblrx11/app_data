@@ -489,36 +489,6 @@
         ]
       },
       {
-        "Name": "قهوة معلبة",
-        "Description": "ماركات مختلفة",
-        "Variations": [
-          {
-            "MarketName": "1001",
-            "SizeName": "250 غ",
-            "Price": 395,
-            "Unit": "علبة",
-            "ImagePath": "coffee.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أروما",
-            "SizeName": "250 غ",
-            "Price": 395,
-            "Unit": "علبة",
-            "ImagePath": "coffee.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "فاميكو",
-            "SizeName": "250 غ",
-            "Price": 395,
-            "Unit": "علبة",
-            "ImagePath": "coffee.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "قهوة محمصة مرحية",
         "Description": "ميزان",
         "Variations": [
