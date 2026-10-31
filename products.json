@@ -54,20 +54,6 @@
     "Icon": "\uD83D\uDC76",
     "Items": [
       {
-        "Name": "جوكينق دافئ للأطفال",
-        "Description": "ملابس أطفال شتوية",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "مقاس واحد",
-            "Price": 1700,
-            "Unit": "قطعة",
-            "ImagePath": "baby_clothes.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "بطانية مواليد شتوية",
         "Description": "بطاطين مواليد",
         "Variations": [
