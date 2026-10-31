@@ -43,20 +43,6 @@
         ]
       },
       {
-        "Name": "حمص مرحي",
-        "Description": "بقوليات",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 150,
-            "Unit": "كغ",
-            "ImagePath": "chickpeas.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "عجائن ومعكرونة",
         "Description": "مقرون / محمصة / تليتلي",
         "Variations": [
