@@ -84,20 +84,6 @@
     "Icon": "\uD83D\uDECD️",
     "Items": [
       {
-        "Name": "أكياس سوداء",
-        "Description": "3 كغ رزمة 80 كيس",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "80 كيس",
-            "Price": 90,
-            "Unit": "رزمة",
-            "ImagePath": "black_bags.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "أكياس بيضاء",
         "Description": "5 كلغ رزمة 40 كيس",
         "Variations": [
