@@ -40,20 +40,6 @@
         ]
       },
       {
-        "Name": "الطماطم",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 60,
-            "Unit": "كغ",
-            "ImagePath": "tomato_fresh.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "الجزر",
         "Description": "خضر",
         "Variations": [
