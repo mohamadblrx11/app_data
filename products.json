@@ -54,28 +54,6 @@
     "Icon": "\uD83D\uDC76",
     "Items": [
       {
-        "Name": "بطانية مواليد شتوية",
-        "Description": "بطاطين مواليد",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "شتوي",
-            "Price": 900,
-            "Unit": "قطعة",
-            "ImagePath": "baby_blanket.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "فاخر",
-            "Price": 990,
-            "Unit": "قطعة",
-            "ImagePath": "baby_blanket.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "طقم 100% قطن جاكيت و بودي و سروال",
         "Description": "ملابس أطفال قطنية",
         "Variations": [
