@@ -49,20 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "فازلين",
-        "Description": "عناية",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "علبة",
-            "Price": 65,
-            "Unit": "علبة",
-            "ImagePath": "vaseline.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مزيل الشعر",
         "Description": "آل سان / الغالية",
         "Variations": [
