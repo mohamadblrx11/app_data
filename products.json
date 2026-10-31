@@ -93,20 +93,6 @@
         ]
       },
       {
-        "Name": "سكر ناعم",
-        "Description": "700 غ",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "700 غ",
-            "Price": 130,
-            "Unit": "كيس",
-            "ImagePath": "sugar_powder.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "سكر فاني",
         "Description": "نوارة / غيره",
         "Variations": [
