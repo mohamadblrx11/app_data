@@ -4,20 +4,6 @@
     "Icon": "\uD83E\uDD66",
     "Items": [
       {
-        "Name": "الكورجيت",
-        "Description": "خضر",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 90,
-            "Unit": "كغ",
-            "ImagePath": "zucchini.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "اللوبيا الخضراء",
         "Description": "خضر",
         "Variations": [
