@@ -472,7 +472,7 @@
             "SizeName": "عادي",
             "Price": 390,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290866846107626.png",
             "IsAvailable": true
           },
           {
@@ -480,7 +480,7 @@
             "SizeName": "30×45",
             "Price": 2750,
             "Unit": "قطعة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290866955447607.png",
             "IsAvailable": true
           }
         ]
