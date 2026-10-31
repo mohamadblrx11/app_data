@@ -49,28 +49,6 @@
     "Icon": "\uD83E\uDDF4",
     "Items": [
       {
-        "Name": "مزيل الشعر",
-        "Description": "آل سان / الغالية",
-        "Variations": [
-          {
-            "MarketName": "آل سان",
-            "SizeName": "علبة",
-            "Price": 100,
-            "Unit": "علبة",
-            "ImagePath": "hair_remover.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الغالية",
-            "SizeName": "علبة",
-            "Price": 45,
-            "Unit": "علبة",
-            "ImagePath": "hair_remover.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "صبغة الشعر",
         "Description": "لوريات",
         "Variations": [
