@@ -39,36 +39,6 @@
     "Icon": "\uD83C\uDF6B",
     "Items": [
       {
-        "Name": "مادلين",
-        "Description": "الشروق / تومي",
-        "Variations": [
-          {
-            "MarketName": "الشروق",
-            "SizeName": "8 قطع",
-            "Price": 50,
-            "Unit": "علبة",
-            "ImagePath": "madeleine.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تومي",
-            "SizeName": "8 قطع",
-            "Price": 80,
-            "Unit": "علبة",
-            "ImagePath": "madeleine.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "الشروق",
-            "SizeName": "14 قطعة",
-            "Price": 120,
-            "Unit": "علبة",
-            "ImagePath": "madeleine.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "بسكويت",
         "Description": "بودوار / تانغو / بيمو",
         "Variations": [
