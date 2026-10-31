@@ -107,20 +107,6 @@
         ]
       },
       {
-        "Name": "ملح الطعام",
-        "Description": "كلغ معلب",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1 كغ",
-            "Price": 25,
-            "Unit": "كغ",
-            "ImagePath": "salt.png",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "طماطم معلبة",
         "Description": "أنواع مختلفة",
         "Variations": [
