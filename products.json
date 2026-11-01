@@ -562,6 +562,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "زيت الزيتون حر ",
+        "Description": "زيت الزيتون حر  1L",
+        "Variations": [
+          {
+            "MarketName": "حر",
+            "SizeName": "1L",
+            "Price": 1280,
+            "Unit": "زجاجة",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639291428368738609.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
