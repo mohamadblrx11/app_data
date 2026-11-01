@@ -548,6 +548,21 @@
   {
     "CategoryName": "عسل و زيت الزيتون",
     "Icon": "\uD83C\uDF6F\uD83E\uDED2",
-    "Items": []
+    "Items": [
+      {
+        "Name": "عسل سدر",
+        "Description": "عسل صدر",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "عسل سدر 250 غ",
+            "Price": 1450,
+            "Unit": "علبة",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639291427039456879.png",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   }
 ]
