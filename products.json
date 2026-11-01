@@ -1,7 +1,7 @@
 [
   {
     "CategoryName": "ملابس اطفال",
-    "Icon": "👼",
+    "Icon": "\uD83D\uDC7C",
     "Items": [
       {
         "Name": "جوكينق دافئ للاطفال",
@@ -49,7 +49,7 @@
   },
   {
     "CategoryName": "اواني منزلية",
-    "Icon": "🍽️",
+    "Icon": "\uD83C\uDF7D️",
     "Items": [
       {
         "Name": "كوب ماء",
@@ -242,7 +242,7 @@
           {
             "MarketName": "عام",
             "SizeName": "مقاس 28",
-            "Price": 980,
+            "Price": 680,
             "Unit": "قطعة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290860806803761.png",
             "IsAvailable": true
