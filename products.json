@@ -666,6 +666,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "رولي",
+        "Description": "رولي",
+        "Variations": [
+          {
+            "MarketName": "حلويات ",
+            "SizeName": "حلويات ",
+            "Price": 50,
+            "Unit": "1",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292171118706044.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
