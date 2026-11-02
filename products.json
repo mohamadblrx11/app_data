@@ -638,6 +638,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "طارت كاوكاو",
+        "Description": "طارت كاوكاو",
+        "Variations": [
+          {
+            "MarketName": "حلويات ",
+            "SizeName": "حلويات ",
+            "Price": 60,
+            "Unit": "1",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292170230281953.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
