@@ -582,6 +582,21 @@
   {
     "CategoryName": "حلويات و مثلجات",
     "Icon": "\uD83C\uDF6B",
-    "Items": []
+    "Items": [
+      {
+        "Name": "ملفاي",
+        "Description": "ملفاي عادي",
+        "Variations": [
+          {
+            "MarketName": "حلويات",
+            "SizeName": "ملفاي",
+            "Price": 45,
+            "Unit": "1",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292167429811599.png",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   }
 ]
