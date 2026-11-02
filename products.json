@@ -680,6 +680,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "تارتولات فروي",
+        "Description": "تارتولات فروي",
+        "Variations": [
+          {
+            "MarketName": "حلويات ",
+            "SizeName": "حلويات ",
+            "Price": 60,
+            "Unit": "1",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292171471577972.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
