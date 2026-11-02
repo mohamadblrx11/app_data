@@ -596,6 +596,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ملفاي شوكو",
+        "Description": "ملفاي شوكو",
+        "Variations": [
+          {
+            "MarketName": "حلويات",
+            "SizeName": "",
+            "Price": 45,
+            "Unit": "1",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292168077538101.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
