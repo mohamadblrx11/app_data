@@ -700,6 +700,21 @@
   {
     "CategoryName": "سوبيراتكم",
     "Icon": "\uD83D\uDC40",
-    "Items": []
+    "Items": [
+      {
+        "Name": "بيض",
+        "Description": "بلاكة",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "بلاكة",
+            "Price": 590,
+            "Unit": "بلاكة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   }
 ]
