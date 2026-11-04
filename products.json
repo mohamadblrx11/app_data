@@ -720,7 +720,22 @@
   {
     "CategoryName": "قصابة",
     "Icon": "\uD83E\uDD69",
-    "Items": []
+    "Items": [
+      {
+        "Name": "بيض",
+        "Description": "بلاكة",
+        "Variations": [
+          {
+            "MarketName": "بلاكة",
+            "SizeName": "جديد",
+            "Price": 550,
+            "Unit": "بلاكة",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639293847201041378.png",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "خضر وفواكه",
