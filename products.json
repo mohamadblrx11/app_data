@@ -721,5 +721,10 @@
     "CategoryName": "قصابة",
     "Icon": "\uD83E\uDD69",
     "Items": []
+  },
+  {
+    "CategoryName": "خضر وفواكه",
+    "Icon": "\uD83D\uDECD️",
+    "Items": []
   }
 ]
