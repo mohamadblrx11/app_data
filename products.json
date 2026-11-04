@@ -787,6 +787,21 @@
   {
     "CategoryName": "خدمات التوصيل",
     "Icon": "\uD83D\uDE80",
-    "Items": []
+    "Items": [
+      {
+        "Name": "دراجة",
+        "Description": null,
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   }
 ]
