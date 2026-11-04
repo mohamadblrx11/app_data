@@ -720,7 +720,22 @@
   {
     "CategoryName": "قصابة",
     "Icon": "\uD83E\uDD69",
-    "Items": []
+    "Items": [
+      {
+        "Name": "دجاج",
+        "Description": "محلي",
+        "Variations": [
+          {
+            "MarketName": "ميزان",
+            "SizeName": "جديد",
+            "Price": 450,
+            "Unit": "كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639293843867209161.png",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "خضر وفواكه",
