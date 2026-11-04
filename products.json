@@ -731,5 +731,10 @@
     "CategoryName": "خضر وفواكه",
     "Icon": "\uD83D\uDECD️",
     "Items": []
+  },
+  {
+    "CategoryName": "خدمات التوصيل",
+    "Icon": "\uD83D\uDE80",
+    "Items": []
   }
 ]
