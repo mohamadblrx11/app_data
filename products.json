@@ -716,5 +716,10 @@
         ]
       }
     ]
+  },
+  {
+    "CategoryName": "قصابة",
+    "Icon": "\uD83E\uDD69",
+    "Items": []
   }
 ]
