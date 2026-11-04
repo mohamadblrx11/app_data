@@ -725,26 +725,6 @@
   {
     "CategoryName": "خضر وفواكه",
     "Icon": "\uD83D\uDECD️",
-    "Items": [
-      {
-        "Name": "دجاج",
-        "Description": "محلي",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "جديد",
-            "Price": 450,
-            "Unit": "كغ",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639293840523655307.png",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
-  },
-  {
-    "CategoryName": "خضر وفواكه",
-    "Icon": "\uD83D\uDECD️",
     "Items": []
   },
   {
