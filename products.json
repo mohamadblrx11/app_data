@@ -1230,6 +1230,62 @@
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "16 قطعة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "24 قطعة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "24 قطعة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "32 قطعة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "32 قطعة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "1.8 كغ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "220 غ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
