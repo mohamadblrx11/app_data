@@ -1028,6 +1028,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "حمص مرحي (كران)",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
