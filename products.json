@@ -60,6 +60,14 @@
             "Unit": "طقم",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "لون وردي",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
