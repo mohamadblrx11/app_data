@@ -2334,10 +2334,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "متوسط",
             "SizeName": "ربط",
             "Price": 0,
-            "Unit": "",
+            "Unit": "ربطة",
             "ImagePath": "",
             "IsAvailable": true
           }
