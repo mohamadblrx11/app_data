@@ -1912,6 +1912,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "صانيبو",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "الأمير",
+            "SizeName": "650 مل",
+            "Price": 0,
+            "Unit": "قارورة عادية",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
