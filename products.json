@@ -1554,10 +1554,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "جمبو",
             "SizeName": "800 غ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
