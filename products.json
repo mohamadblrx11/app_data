@@ -1848,6 +1848,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "صابون طرف",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "مرسيليا",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
