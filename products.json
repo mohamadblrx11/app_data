@@ -1592,10 +1592,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "500 غ",
+            "MarketName": "أوزيا",
+            "SizeName": "500 غ مفور",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
