@@ -2030,6 +2030,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مشروبات غير غازية",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "دايلي جوي",
+            "SizeName": "125 مل",
+            "Price": 10,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
