@@ -1056,8 +1056,8 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "10 كغ متوسط",
+            "MarketName": "متوسط",
+            "SizeName": "10 كغ",
             "Price": 0,
             "Unit": "كيس",
             "ImagePath": "",
