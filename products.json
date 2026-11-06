@@ -2052,10 +2052,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "دايلي",
             "SizeName": "1 ل",
-            "Price": 0,
-            "Unit": "",
+            "Price": 75,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
