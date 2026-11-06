@@ -854,6 +854,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ماء الزهر",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "الأنوار",
+            "SizeName": "حجم جديد",
+            "Price": 70,
+            "Unit": "قارورة 650مل",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295652256067986.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
