@@ -2227,7 +2227,22 @@
   {
     "CategoryName": "خدمات التوصيل",
     "Icon": "\uD83D\uDE80",
-    "Items": []
+    "Items": [
+      {
+        "Name": "توصيل السلة",
+        "Description": "عام",
+        "Variations": [
+          {
+            "MarketName": "رافيطيمتك لدارك",
+            "SizeName": "حجم معقول",
+            "Price": 250,
+            "Unit": "سلة الطلبية",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "خدمات متنوعة (قيد الإنشاء)",
