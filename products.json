@@ -1646,6 +1646,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لوبيا",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "ميزان بيضاء",
+            "Price": 0,
+            "Unit": "كلغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
