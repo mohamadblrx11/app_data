@@ -2244,13 +2244,29 @@
       },
       {
         "Name": "توصيل عام",
-        "Description": "البطاقة ** على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Description": "المنشور ** على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
             "MarketName": "الخدمة 01",
             "SizeName": "دراجة نارية 25 كلم من المنطقة العلمية طريق المطار غرداية",
             "Price": 350,
             "Unit": "06000000000",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "سيارة 25 كلم من المنطقة العلمية غرداية ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "سيارة بضائع 50 كلم من المنطقة العلمية غرداية",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
