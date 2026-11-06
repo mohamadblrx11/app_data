@@ -2287,10 +2287,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الخدمة 01",
             "SizeName": "حافلة 29 مقعد 50 كلم من المنطقة العلمية غرداية ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 4000,
+            "Unit": "060000000000",
             "ImagePath": "",
             "IsAvailable": true
           }
