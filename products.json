@@ -938,6 +938,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "خميرة حلويات (قاطو)",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "نوارة",
+            "SizeName": "10غ",
+            "Price": 10,
+            "Unit": "كيس صغير",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
