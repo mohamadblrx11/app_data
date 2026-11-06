@@ -2258,6 +2258,38 @@
             "MarketName": "",
             "SizeName": "سيارة بضائع 50 كلم من المنطقة العلمية غرداية",
             "Price": 0,
+            "Unit": "07000000000",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "شاحنة بضائع فركون 50 كلم من المنطقة العلمية غرداية ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "شاحنة بضائع 3.5 طن من المنطقة العلمية غرداية ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "سيارة أجرة 50 كلم من المنطقة العلمية غرداية ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "حافلة 29 مقعد 50 كلم من المنطقة العلمية غرداية ",
+            "Price": 0,
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
