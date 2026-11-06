@@ -1478,6 +1478,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سردين",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "طماطم",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
