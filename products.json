@@ -798,6 +798,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "قازوز",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "أروى",
+            "SizeName": "حجم جديد",
+            "Price": 95,
+            "Unit": "قارورة 2 ل / فاردو",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
