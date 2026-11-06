@@ -826,6 +826,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "قازوز",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "زعيم",
+            "SizeName": "حجم جديد",
+            "Price": 95,
+            "Unit": "قارورة 2 ل / فاردو",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295645986144298.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
