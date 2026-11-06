@@ -2356,6 +2356,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بدنجان (دنجال)",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "جودة أولى (01)",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295984911310090.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
