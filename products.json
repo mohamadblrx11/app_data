@@ -882,6 +882,20 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "مايزينة (نشا)",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "المرجان",
+            "SizeName": "700غ",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
