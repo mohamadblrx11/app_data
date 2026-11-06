@@ -2139,14 +2139,6 @@
           },
           {
             "MarketName": "تويسكو",
-            "SizeName": "300 غ",
-            "Price": 0,
-            "Unit": "علبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تويسكو",
             "SizeName": "500 غ",
             "Price": 0,
             "Unit": "علبة",
