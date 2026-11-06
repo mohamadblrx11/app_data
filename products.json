@@ -1004,10 +1004,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "سفينة",
             "SizeName": "5 كغ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
