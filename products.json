@@ -2154,6 +2154,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ورق المطبخ",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "طهي",
+            "SizeName": "5 م",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
