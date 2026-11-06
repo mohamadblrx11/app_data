@@ -1608,10 +1608,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "أوزيا",
             "SizeName": "500 غ معلب أبيض",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
