@@ -1986,6 +1986,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مادلين",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "الشروق",
+            "SizeName": "8 قطع",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
