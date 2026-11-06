@@ -1735,9 +1735,9 @@
           },
           {
             "MarketName": "",
-            "SizeName": "25 كغ",
+            "SizeName": "",
             "Price": 0,
-            "Unit": "كيس",
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
