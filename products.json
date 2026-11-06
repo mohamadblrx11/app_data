@@ -1440,10 +1440,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "البراد",
             "SizeName": "250 غ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
