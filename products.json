@@ -2370,6 +2370,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "حلوة",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "جودة أولى-01-",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295986253529256.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
