@@ -770,6 +770,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ماء معدني",
+        "Description": "صور المنتجات على فيسبوك \"البانقا Elbenga\"",
+        "Variations": [
+          {
+            "MarketName": "سلسبيل",
+            "SizeName": "حجم جديد",
+            "Price": 45,
+            "Unit": "قارورة/فاردو",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
