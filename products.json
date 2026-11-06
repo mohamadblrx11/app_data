@@ -1072,6 +1072,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "عسيلة",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "الدب",
+            "SizeName": "500 غ",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
