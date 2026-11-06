@@ -1616,6 +1616,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "عدس",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "500 غ معلب",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
