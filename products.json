@@ -880,6 +880,14 @@
             "Unit": "ميزان",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295786242045287.png",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "غنمي",
+            "SizeName": "5كغ",
+            "Price": 100,
+            "Unit": "عبوة 5كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295788309940376.png",
+            "IsAvailable": true
           }
         ]
       }
