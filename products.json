@@ -1948,6 +1948,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "صابون مسحوق للغسيل",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "تست",
+            "SizeName": "300 غ",
+            "Price": 0,
+            "Unit": "كيس",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
