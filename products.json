@@ -2060,6 +2060,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شكولاطة بأنواعها",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "شوكومي",
+            "SizeName": "بالحليب",
+            "Price": 105,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
