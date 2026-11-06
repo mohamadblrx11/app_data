@@ -1500,6 +1500,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "طماطم مصبرة (معلبة)",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "الحارة",
+            "SizeName": "400 غ",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
