@@ -1380,6 +1380,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "قهوة مرحية",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "1001",
+            "SizeName": "250 غ",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
