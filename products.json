@@ -756,6 +756,28 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ماء معدني",
+        "Description": "صور المنتجات على فيسبوك \"البانقا Elbenga\"",
+        "Variations": [
+          {
+            "MarketName": "الحضنة",
+            "SizeName": "5 ل",
+            "Price": 45,
+            "Unit": "5 ل",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295573160754518.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "5 ل",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
