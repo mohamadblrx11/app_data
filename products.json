@@ -1890,6 +1890,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "غسول أواني",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "ازيس",
+            "SizeName": "بريل 650 مل",
+            "Price": 0,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
