@@ -1623,9 +1623,9 @@
         "Variations": [
           {
             "MarketName": "",
-            "SizeName": "500 غ معلب",
+            "SizeName": "ميزان",
             "Price": 0,
-            "Unit": "عبوة",
+            "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
           }
