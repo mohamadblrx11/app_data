@@ -868,6 +868,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "تجريب",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "دوارة",
+            "SizeName": "1كغ",
+            "Price": 70,
+            "Unit": "ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
