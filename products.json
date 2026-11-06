@@ -1418,6 +1418,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شاي",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "فردوس1",
+            "SizeName": "250 غ",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
