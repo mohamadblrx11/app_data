@@ -1110,6 +1110,36 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مربى",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "500غ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "1 كغ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
