@@ -952,6 +952,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "خميرة خبز",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "النسر Aigle",
+            "SizeName": "125غ",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
