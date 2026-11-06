@@ -2384,6 +2384,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "حار",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "جودة أولى\"01\"",
+            "SizeName": "قرن غزال أخضر",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295987854350309.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
