@@ -2044,10 +2044,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "دايلي",
             "SizeName": "20 سل",
-            "Price": 0,
-            "Unit": "",
+            "Price": 25,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
