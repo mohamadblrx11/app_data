@@ -924,6 +924,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سكر فاني",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "الوردة الذهبية",
+            "SizeName": "10غ",
+            "Price": 5,
+            "Unit": "كيس صغير",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
