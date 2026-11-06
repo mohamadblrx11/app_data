@@ -2000,10 +2000,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الشروق",
             "SizeName": "حجم عائلي",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
