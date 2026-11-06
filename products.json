@@ -990,6 +990,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "فرينة",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "سفينة",
+            "SizeName": "1 كغ",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
