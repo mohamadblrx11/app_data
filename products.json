@@ -2122,14 +2122,6 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "أوبتيلا",
-            "SizeName": "350 غ",
-            "Price": 0,
-            "Unit": "علبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
             "MarketName": "تويسكو",
             "SizeName": "300 غ",
             "Price": 0,
@@ -2142,6 +2134,14 @@
             "SizeName": "500 غ",
             "Price": 0,
             "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "للطلي",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
