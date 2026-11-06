@@ -2008,6 +2008,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "قاطو",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "تاتغو",
+            "SizeName": "عادي",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
