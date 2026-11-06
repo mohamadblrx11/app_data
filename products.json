@@ -1562,6 +1562,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "أرز",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "ميزان مفور",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
