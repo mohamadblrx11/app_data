@@ -1712,6 +1712,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كسكس (طعام)",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "سفينة",
+            "SizeName": "متوسط كلغ معلب",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
