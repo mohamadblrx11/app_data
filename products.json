@@ -742,6 +742,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ملح الطعام",
+        "Description": "كلغ معلب",
+        "Variations": [
+          {
+            "MarketName": "لوطاية",
+            "SizeName": "حجم جديد",
+            "Price": 45,
+            "Unit": "كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295569675403539.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
