@@ -1698,6 +1698,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "حمص",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كلغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
