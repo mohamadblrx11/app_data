@@ -864,7 +864,7 @@
         ]
       },
       {
-        "Name": "قازوز",
+        "Name": "المشروبات الغازية (صودا)",
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
@@ -876,11 +876,11 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "زعيم برتقال",
             "SizeName": "2 ل",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
+            "Price": 95,
+            "Unit": "قارورة / فاردو 6",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295973567802489.png",
             "IsAvailable": true
           }
         ]
