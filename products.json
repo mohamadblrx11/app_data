@@ -1684,6 +1684,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جلبانة يابسة",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "مكسرة",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كلغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
