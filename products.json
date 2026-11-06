@@ -2130,10 +2130,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "مسحوق",
+            "MarketName": "تويسكو",
+            "SizeName": "300 غ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
