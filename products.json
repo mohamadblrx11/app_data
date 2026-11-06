@@ -1834,6 +1834,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "صابون جلد",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
