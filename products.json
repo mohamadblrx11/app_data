@@ -2342,6 +2342,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "طماطم",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "أول اختيار",
+            "SizeName": "01",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295982810424393.png",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
