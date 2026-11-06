@@ -1102,10 +1102,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "المرجان",
             "SizeName": "1 كغ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
