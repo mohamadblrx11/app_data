@@ -1394,10 +1394,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الثقة",
             "SizeName": "250 غ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
