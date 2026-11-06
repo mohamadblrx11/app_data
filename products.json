@@ -2263,10 +2263,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الخدمة 01",
             "SizeName": "شاحنة بضائع فركون 50 كلم من المنطقة العلمية غرداية ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 2500,
+            "Unit": "00000000000",
             "ImagePath": "",
             "IsAvailable": true
           },
