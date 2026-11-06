@@ -868,6 +868,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ماء الورد",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
