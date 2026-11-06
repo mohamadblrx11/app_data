@@ -2168,10 +2168,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "طهي",
+            "MarketName": "الوفاء",
+            "SizeName": "10 م",
             "Price": 0,
-            "Unit": "",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           },
