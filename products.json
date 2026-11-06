@@ -2271,10 +2271,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الخدمة 01",
             "SizeName": "شاحنة بضائع 3.5 طن من المنطقة العلمية غرداية ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 3000,
+            "Unit": "06000000000",
             "ImagePath": "",
             "IsAvailable": true
           },
