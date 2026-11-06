@@ -2279,10 +2279,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الخدمة 01",
             "SizeName": "سيارة أجرة 50 كلم من المنطقة العلمية غرداية ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 1200,
+            "Unit": "060000000000",
             "ImagePath": "",
             "IsAvailable": true
           },
