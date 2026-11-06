@@ -72,12 +72,12 @@
         ]
       },
       {
-        "Name": "بطانية مواليد جميع الالوان",
-        "Description": "بطانية شتوية للمولود الجديد",
+        "Name": "بطانية مولود جديد (للرضيع)",
+        "Description": "المنشور 19 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
-            "MarketName": "ملابس اطفال",
-            "SizeName": "بطانية شتوية للمولود الجديد",
+            "MarketName": "غطاء للمولود الجديد (الرضيع)",
+            "SizeName": "لون أزرق",
             "Price": 1000,
             "Unit": "قطعة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290452417215035.png",
