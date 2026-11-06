@@ -1064,10 +1064,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "متوسط",
             "SizeName": "25 كغ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كيس",
             "ImagePath": "",
             "IsAvailable": true
           }
