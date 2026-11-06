@@ -784,6 +784,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "قازوز",
+        "Description": "صور المنتجات على الفيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "أروى",
+            "SizeName": "حجم جديد",
+            "Price": 45,
+            "Unit": "قارورة 1ل /فاردو",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
