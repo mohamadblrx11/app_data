@@ -1926,6 +1926,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جافيل",
+        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Variations": [
+          {
+            "MarketName": "ناصح",
+            "SizeName": "720 مل",
+            "Price": 0,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
