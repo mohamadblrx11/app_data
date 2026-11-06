@@ -2146,10 +2146,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "أوبتيلا",
-            "SizeName": "للطلي",
+            "MarketName": "للطلي أوبتيلا",
+            "SizeName": "350 غ",
             "Price": 0,
-            "Unit": "350 غ",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
