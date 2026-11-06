@@ -1824,18 +1824,12 @@
             "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
-          }
-        ]
-      },
-      {
-        "Name": "شمبوان",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
-        "Variations": [
+          },
           {
-            "MarketName": "فينوس",
-            "SizeName": "2 في 1",
+            "MarketName": "",
+            "SizeName": "3 في 1",
             "Price": 0,
-            "Unit": "قارورة",
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
