@@ -2255,9 +2255,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "الخدمة 01",
             "SizeName": "سيارة بضائع 50 كلم من المنطقة العلمية غرداية",
-            "Price": 0,
+            "Price": 1500,
             "Unit": "07000000000",
             "ImagePath": "",
             "IsAvailable": true
