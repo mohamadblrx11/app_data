@@ -1585,9 +1585,9 @@
           },
           {
             "MarketName": "",
-            "SizeName": "كلغ معلب",
+            "SizeName": "كلغ معلب مفور",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
