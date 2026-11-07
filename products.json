@@ -2497,6 +2497,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بيع",
+        "Description": "المنشورات على فيسبوك: عقاركم",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "سكنات",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   }
