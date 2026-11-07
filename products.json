@@ -2479,5 +2479,10 @@
     "CategoryName": "خدمات متنوعة (قيد الإنشاء)",
     "Icon": "\uD83E\uDDED",
     "Items": []
+  },
+  {
+    "CategoryName": "عقار",
+    "Icon": "\uD83C\uDFDB",
+    "Items": []
   }
 ]
