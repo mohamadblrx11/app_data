@@ -2490,6 +2490,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كابوية",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "اختيار اول",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
