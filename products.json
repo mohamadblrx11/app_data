@@ -2532,10 +2532,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "اختيار أول",
             "SizeName": "ربط",
             "Price": 0,
-            "Unit": "",
+            "Unit": "ربطة",
             "ImagePath": "",
             "IsAvailable": true
           }
