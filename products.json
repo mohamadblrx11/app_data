@@ -2483,6 +2483,21 @@
   {
     "CategoryName": "عقار",
     "Icon": "\uD83C\uDFDB",
-    "Items": []
+    "Items": [
+      {
+        "Name": "إبجار",
+        "Description": "المنشورات على فيسبوك: عقاركم",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   }
 ]
