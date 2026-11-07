@@ -2518,6 +2518,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ثوم",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "خيار أول",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
