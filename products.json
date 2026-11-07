@@ -2448,6 +2448,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لوبيا خضراء",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "خيار اول",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
