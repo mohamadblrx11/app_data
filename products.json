@@ -2476,6 +2476,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ملوخية (قناوية)",
+        "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "اختيار أول",
+            "SizeName": "ميزان",
+            "Price": 0,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
