@@ -1596,10 +1596,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "زيت فتات",
-            "Price": 0,
-            "Unit": "",
+            "Price": 65,
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
