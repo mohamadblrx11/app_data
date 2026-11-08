@@ -1098,9 +1098,9 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "سفينة",
-            "SizeName": "1 كغ",
-            "Price": 0,
+            "MarketName": "عام",
+            "SizeName": "كغ معلب",
+            "Price": 65,
             "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
