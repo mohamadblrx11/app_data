@@ -2184,10 +2184,10 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "شوكومي",
-            "SizeName": "بالحليب",
-            "Price": 105,
-            "Unit": "علبة",
+            "MarketName": "عام",
+            "SizeName": "وحدة",
+            "Price": 10,
+            "Unit": "وحدة",
             "ImagePath": "",
             "IsAvailable": true
           },
