@@ -1569,13 +1569,13 @@
       },
       {
         "Name": "تونة",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "طماطم 70غ",
-            "Price": 0,
-            "Unit": "علبة",
+            "Price": 55,
+            "Unit": "علبة 70غ",
             "ImagePath": "",
             "IsAvailable": true
           },
