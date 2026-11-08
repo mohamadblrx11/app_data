@@ -787,7 +787,7 @@
       },
       {
         "Name": "سكر",
-        "Description": "كلغ معلب",
+        "Description": "لا تبخلوا بمتابعة صفحة البورصة متاجر ومكاتب وشركات ذكية والإعجاب بها مع التعليق",
         "Variations": [
           {
             "MarketName": "سيفيتال",
@@ -795,6 +795,14 @@
             "Price": 95,
             "Unit": "كغ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295568159359828.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "500غ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
             "IsAvailable": true
           }
         ]
