@@ -1291,15 +1291,15 @@
       },
       {
         "Name": "جبن (فرماج)",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
+            "MarketName": "عام",
+            "SizeName": "8 قطع",
             "Price": 0,
-            "Unit": "",
+            "Unit": "علبة 8 قطع",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "بيكون",
