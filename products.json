@@ -1352,10 +1352,10 @@
           {
             "MarketName": "بيكون",
             "SizeName": "24 قطعة",
-            "Price": 0,
+            "Price": 195,
             "Unit": "علبة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "شازي",
