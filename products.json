@@ -926,10 +926,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "زعيم برتقال",
+            "MarketName": "زعيم",
             "SizeName": "2 ل",
             "Price": 95,
-            "Unit": "قارورة / فاردو 6",
+            "Unit": "قارورة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295973567802489.png",
             "IsAvailable": true
           }
