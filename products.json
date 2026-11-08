@@ -1898,10 +1898,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "شوربة شعيرات سفينة",
             "SizeName": "500غ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 80,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
