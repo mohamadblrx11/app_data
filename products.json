@@ -1588,10 +1588,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "طماطم فتات",
-            "Price": 0,
-            "Unit": "",
+            "Price": 65,
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           },
