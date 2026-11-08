@@ -1878,13 +1878,13 @@
         ]
       },
       {
-        "Name": "مقرون",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Name": "عجائن",
+        "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "سفينة",
+            "MarketName": "مقرون سفينة",
             "SizeName": "500 غ",
-            "Price": 0,
+            "Price": 80,
             "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
