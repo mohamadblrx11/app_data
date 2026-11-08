@@ -1658,10 +1658,10 @@
           {
             "MarketName": "عزوز",
             "SizeName": "400 غ",
-            "Price": 0,
+            "Price": 165,
             "Unit": "علبة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "الحارة",
