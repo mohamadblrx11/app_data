@@ -817,13 +817,21 @@
       },
       {
         "Name": "ملح الطعام",
-        "Description": "كلغ معلب",
+        "Description": "لا تبخلوا بمتابعة صفحة البورصة متاجر ومكاتب وشركات ذكية والإعجاب بها مع التعليق",
         "Variations": [
           {
             "MarketName": "عام",
             "SizeName": "حجم جديد",
             "Price": 45,
             "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كغ معلب",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
