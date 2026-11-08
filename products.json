@@ -1813,12 +1813,12 @@
       },
       {
         "Name": "جلبانة يابسة",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
             "MarketName": "مكسرة",
-            "SizeName": "ميزان",
-            "Price": 0,
+            "SizeName": "عام",
+            "Price": 185,
             "Unit": "كلغ",
             "ImagePath": "",
             "IsAvailable": true
