@@ -918,10 +918,10 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "زعيم ذوق أناناس",
+            "MarketName": "زعيم",
             "SizeName": "1 ل",
             "Price": 65,
-            "Unit": "قارورة 1ل / فاردو",
+            "Unit": "قارورة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295616257520418.png",
             "IsAvailable": false
           },
