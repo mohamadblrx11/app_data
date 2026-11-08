@@ -904,10 +904,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "أروى",
             "SizeName": "2 ل",
-            "Price": 0,
-            "Unit": "",
+            "Price": 85,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           }
