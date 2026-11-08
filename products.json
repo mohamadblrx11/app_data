@@ -2050,10 +2050,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "5 ل",
-            "Price": 0,
-            "Unit": "",
+            "Price": 245,
+            "Unit": "دلو",
             "ImagePath": "",
             "IsAvailable": true
           },
