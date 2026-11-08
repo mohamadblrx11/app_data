@@ -1266,10 +1266,10 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "عام",
+            "SizeName": "250غ",
+            "Price": 120,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
