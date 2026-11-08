@@ -1801,7 +1801,7 @@
             "Price": 375,
             "Unit": "كلغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "ميزان",
