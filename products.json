@@ -1086,10 +1086,10 @@
           {
             "MarketName": "صاف",
             "SizeName": "500غ",
-            "Price": 0,
+            "Price": 405,
             "Unit": "عبوة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       },
