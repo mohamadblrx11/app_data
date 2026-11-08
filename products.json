@@ -1296,10 +1296,10 @@
           {
             "MarketName": "عام",
             "SizeName": "8 قطع",
-            "Price": 0,
+            "Price": 100,
             "Unit": "علبة 8 قطع",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "بيكون",
