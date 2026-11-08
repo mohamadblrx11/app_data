@@ -2703,12 +2703,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "كغ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 870,
+            "Unit": "فاردو 10 كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       }
