@@ -759,12 +759,12 @@
     "Items": [
       {
         "Name": "بيض",
-        "Description": "بلاكة",
+        "Description": "لا تبخلوا بمتابعة صفحة البورصة متاجر ومكاتب وشركات ذكية والإعجاب بها مع التعليق",
         "Variations": [
           {
-            "MarketName": "عام",
+            "MarketName": "أحمر",
             "SizeName": "بلاكة",
-            "Price": 590,
+            "Price": 570,
             "Unit": "بلاكة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292936863260349.png",
             "IsAvailable": true
