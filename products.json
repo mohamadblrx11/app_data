@@ -1702,9 +1702,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "ميزان أبيض",
-            "Price": 0,
+            "MarketName": "عام",
+            "SizeName": "أبيض",
+            "Price": 185,
             "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
