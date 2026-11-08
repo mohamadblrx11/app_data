@@ -1398,10 +1398,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "24 قطعة",
-            "Price": 0,
-            "Unit": "",
+            "Price": 195,
+            "Unit": "علبة 24",
             "ImagePath": "",
             "IsAvailable": true
           }
