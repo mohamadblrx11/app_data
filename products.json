@@ -2310,9 +2310,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "الشفاف وفاء",
+            "MarketName": "شفاف",
             "SizeName": "5 م",
-            "Price": 0,
+            "Price": 80,
             "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
