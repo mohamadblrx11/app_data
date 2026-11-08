@@ -1215,13 +1215,13 @@
       },
       {
         "Name": "مربى",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "عام",
+            "SizeName": "500غ",
+            "Price": 135,
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           },
