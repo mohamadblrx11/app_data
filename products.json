@@ -798,12 +798,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "500غ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 42.5,
+            "Unit": "500غ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       },
