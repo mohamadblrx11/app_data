@@ -1924,20 +1924,6 @@
         ]
       },
       {
-        "Name": "محمصة",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
-        "Variations": [
-          {
-            "MarketName": "سفينة",
-            "SizeName": "500 غ",
-            "Price": 0,
-            "Unit": "عبوة",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شمبوان",
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
