@@ -1890,10 +1890,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "سباقيتي سفينة",
             "SizeName": "500غ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 80,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
