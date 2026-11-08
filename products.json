@@ -1830,10 +1830,10 @@
         "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "ميزان",
-            "Price": 0,
-            "Unit": "كلغ",
+            "MarketName": "عام",
+            "SizeName": "500غ",
+            "Price": 220,
+            "Unit": "رطل",
             "ImagePath": "",
             "IsAvailable": true
           }
