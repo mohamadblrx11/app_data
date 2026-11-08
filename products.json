@@ -2042,10 +2042,18 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "ناصح",
+            "MarketName": "عام",
+            "SizeName": "650 مل",
+            "Price": 245,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
             "SizeName": "5 ل",
             "Price": 0,
-            "Unit": "دلو",
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           },
