@@ -2132,9 +2132,9 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "تاتغو",
+            "MarketName": "عام",
             "SizeName": "عادي",
-            "Price": 0,
+            "Price": 10,
             "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
