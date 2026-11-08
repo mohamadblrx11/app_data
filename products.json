@@ -1775,7 +1775,7 @@
       },
       {
         "Name": "لوبيا",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
             "MarketName": "ميزان",
@@ -1802,9 +1802,9 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "كلغ معلب",
-            "Price": 0,
+            "Price": 410,
             "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
