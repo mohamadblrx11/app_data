@@ -1618,9 +1618,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "زيت",
-            "Price": 0,
+            "Price": 155,
             "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
