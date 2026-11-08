@@ -790,12 +790,12 @@
         "Description": "لا تبخلوا بمتابعة صفحة البورصة متاجر ومكاتب وشركات ذكية والإعجاب بها مع التعليق",
         "Variations": [
           {
-            "MarketName": "سيفيتال",
-            "SizeName": "حجم جديد",
-            "Price": 95,
-            "Unit": "كغ",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295568159359828.png",
-            "IsAvailable": false
+            "MarketName": "عام",
+            "SizeName": "كغ معلب",
+            "Price": 85,
+            "Unit": "كغ معلب",
+            "ImagePath": "",
+            "IsAvailable": true
           },
           {
             "MarketName": "عام",
