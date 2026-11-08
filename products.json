@@ -1274,12 +1274,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "لابل",
-            "SizeName": "250 غ",
-            "Price": 0,
+            "MarketName": "عام",
+            "SizeName": "500 غ",
+            "Price": 205,
             "Unit": "عبوة",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "صول",
