@@ -1573,9 +1573,9 @@
         "Variations": [
           {
             "MarketName": "عام",
-            "SizeName": "طماطم 70غ",
-            "Price": 55,
-            "Unit": "علبة 70غ",
+            "SizeName": "طماطم",
+            "Price": 65,
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -1584,6 +1584,22 @@
             "SizeName": "زيت",
             "Price": 65,
             "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "طماطم فتات",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "زيت فتات",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
