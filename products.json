@@ -1868,10 +1868,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "كغ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 135,
+            "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
           }
