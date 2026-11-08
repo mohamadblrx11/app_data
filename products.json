@@ -1757,7 +1757,7 @@
             "Price": 0,
             "Unit": "عبوة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       },
