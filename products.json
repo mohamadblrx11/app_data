@@ -1778,9 +1778,9 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
+            "MarketName": "ميزان",
             "SizeName": "ميزان بيضاء",
-            "Price": 0,
+            "Price": 375,
             "Unit": "كلغ",
             "ImagePath": "",
             "IsAvailable": true
