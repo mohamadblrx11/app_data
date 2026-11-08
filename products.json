@@ -806,10 +806,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "كغ معلب",
-            "Price": 0,
-            "Unit": "",
+            "Price": 85,
+            "Unit": "كغ معلب",
             "ImagePath": "",
             "IsAvailable": true
           }
