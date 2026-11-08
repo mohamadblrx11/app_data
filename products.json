@@ -2689,7 +2689,30 @@
   {
     "CategoryName": "غرداية بالجملة",
     "Icon": "\uD83C\uDF10",
-    "Items": []
+    "Items": [
+      {
+        "Name": "سكر",
+        "Description": "لا تبخلوا بمتابعة صفحة البورصة متاجر ومكاتب وشركات ذكية والإعجاب بها مع التعليق",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "500غ",
+            "Price": 900,
+            "Unit": "فاردوا 20 وحدة",
+            "ImagePath": "",
+            "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "أكل سريع",
