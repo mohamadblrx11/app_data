@@ -1906,10 +1906,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "تليتلي سفينة",
             "SizeName": "500غ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 85,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
