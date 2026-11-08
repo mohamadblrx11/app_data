@@ -882,10 +882,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "عام",
             "SizeName": "1.5 ل",
-            "Price": 0,
-            "Unit": "",
+            "Price": 40,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           }
