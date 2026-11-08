@@ -1580,9 +1580,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "زيت 70غ",
-            "Price": 0,
+            "MarketName": "عام",
+            "SizeName": "زيت",
+            "Price": 65,
             "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
