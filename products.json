@@ -1496,9 +1496,9 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "1001",
+            "MarketName": "عامة",
             "SizeName": "250 غ",
-            "Price": 0,
+            "Price": 250,
             "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
