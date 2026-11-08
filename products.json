@@ -1694,9 +1694,9 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "ميزان مفور",
-            "Price": 0,
+            "MarketName": "عام",
+            "SizeName": "مفور",
+            "Price": 145,
             "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
