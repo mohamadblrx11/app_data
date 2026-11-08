@@ -2695,5 +2695,10 @@
     "CategoryName": "أكل سريع",
     "Icon": "\uD83E\uDD6A\uD83C\uDF57",
     "Items": []
+  },
+  {
+    "CategoryName": "استراحة لمة الأحباب",
+    "Icon": "\uD83E\uDED3",
+    "Items": []
   }
 ]
