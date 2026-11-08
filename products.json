@@ -1188,10 +1188,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "الدب",
+            "MarketName": "عام",
             "SizeName": "1 كغ",
-            "Price": 0,
-            "Unit": "",
+            "Price": 185,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
