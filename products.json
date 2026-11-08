@@ -2711,6 +2711,20 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "ملح",
+        "Description": "لا تبخلوا بمتابعة صفحة البورصة متاجر ومكاتب وشركات ذكية والإعجاب بها مع التعليق",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "كغ معلب",
+            "Price": 360,
+            "Unit": "فاردو 10 كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
