@@ -804,6 +804,14 @@
             "Unit": "500غ",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كغ معلب",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
