@@ -821,9 +821,9 @@
         "Variations": [
           {
             "MarketName": "عام",
-            "SizeName": "حجم جديد",
+            "SizeName": "كغ معلب",
             "Price": 45,
-            "Unit": "كغ",
+            "Unit": "كغ معلب",
             "ImagePath": "",
             "IsAvailable": true
           },
