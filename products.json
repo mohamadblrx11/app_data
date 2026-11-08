@@ -1004,9 +1004,9 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "المرجان",
-            "SizeName": "700غ",
-            "Price": 0,
+            "MarketName": "عام",
+            "SizeName": "عبوة",
+            "Price": 125,
             "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
