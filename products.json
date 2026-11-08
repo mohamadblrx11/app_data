@@ -1786,12 +1786,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "ميزان حمراء",
-            "Price": 0,
+            "MarketName": "ميزان",
+            "SizeName": "حمراء",
+            "Price": 375,
             "Unit": "كلغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
