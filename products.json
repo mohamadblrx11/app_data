@@ -828,11 +828,11 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "لوطاية",
             "SizeName": "كغ معلب",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
+            "Price": 45,
+            "Unit": "كلغ معلب",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639297379241713299.png",
             "IsAvailable": true
           }
         ]
