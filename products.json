@@ -935,14 +935,14 @@
       },
       {
         "Name": "خل",
-        "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
+        "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "ناصح",
-            "SizeName": "حجم جديد",
+            "MarketName": "عام",
+            "SizeName": "قارورة",
             "Price": 95,
-            "Unit": "قارورة 650مل",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295650655282839.png",
+            "Unit": "قارورة",
+            "ImagePath": "",
             "IsAvailable": true
           }
         ]
