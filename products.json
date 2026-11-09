@@ -2845,6 +2845,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سكر",
+        "Description": null,
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "كلغ معلب",
+            "Price": 870,
+            "Unit": "فاردو 10 كلغ معلب",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
