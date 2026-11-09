@@ -3528,10 +3528,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "دجاجة مشوية",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "دجاجة شوية",
+            "SizeName": "ربع دجاجة",
+            "Price": 250,
+            "Unit": "ربع دجاجة",
             "ImagePath": "",
             "IsAvailable": true
           },
