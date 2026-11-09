@@ -2821,14 +2821,6 @@
             "Unit": "حزمة 5 بلاكات",
             "ImagePath": "",
             "IsAvailable": false
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "كغ",
-            "Price": 870,
-            "Unit": "فاردو 10 كغ",
-            "ImagePath": "",
-            "IsAvailable": false
           }
         ]
       },
