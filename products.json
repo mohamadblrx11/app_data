@@ -3680,10 +3680,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "4",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "طبق",
+            "SizeName": "ماريني",
+            "Price": 450,
+            "Unit": "طبق",
             "ImagePath": "",
             "IsAvailable": true
           },
