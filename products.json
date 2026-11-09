@@ -2482,12 +2482,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "ماعز-للحليب",
             "SizeName": "حولية",
             "Price": 0,
-            "Unit": "",
+            "Unit": "عنز",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       }
