@@ -3404,7 +3404,7 @@
       },
       {
         "Name": "الطماطم المعلبة (مصبرة)",
-        "Description": null,
+        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
             "MarketName": "الحارة",
@@ -3415,12 +3415,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "كينقتوم",
             "SizeName": "400غ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كرطونة 24 علبة 400غ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
