@@ -3044,6 +3044,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مستحقات التوصيل والتحصيل",
+        "Description": "أضفها لتصلك مشترياتك في الموعد",
+        "Variations": [
+          {
+            "MarketName": "أساسية",
+            "SizeName": "سلة مشترياتك المطلوبة كاملة",
+            "Price": 250,
+            "Unit": "سلة كاملة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
