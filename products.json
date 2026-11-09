@@ -2474,12 +2474,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "ماعز",
             "SizeName": "معزة",
             "Price": 0,
-            "Unit": "",
+            "Unit": "شاه",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
