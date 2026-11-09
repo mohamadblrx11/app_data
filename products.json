@@ -2857,5 +2857,10 @@
     "CategoryName": "استراحة لمة الأحباب",
     "Icon": "\uD83E\uDED3",
     "Items": []
+  },
+  {
+    "CategoryName": "خدمات تفاوضية",
+    "Icon": "\uD83D\uDD70",
+    "Items": []
   }
 ]
