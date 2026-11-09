@@ -3616,10 +3616,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بيزا",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بيزا",
+            "SizeName": "4 سيزون",
+            "Price": 780,
+            "Unit": "بيزا كلملة",
             "ImagePath": "",
             "IsAvailable": true
           },
