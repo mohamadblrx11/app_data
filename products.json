@@ -2945,20 +2945,6 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
-        "Name": "فراولة",
-        "Description": null,
-        "Variations": [
-          {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
             "IsAvailable": false
           }
         ]
