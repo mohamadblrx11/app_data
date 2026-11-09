@@ -3517,13 +3517,13 @@
     "Items": [
       {
         "Name": "مطعم ومقهى",
-        "Description": "سحابي",
+        "Description": "سحابي / 0675728642 / استقبال الطلبات: 9h00 إلى 11h00 صباحا",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "اضغط هنا لاختيار الوجبات من مأكولات ومشروبات مميزة",
+            "SizeName": "",
+            "Price": 675728642,
+            "Unit": "تفاوضيا عند الطلب على هذا الرقم 0675728642",
             "ImagePath": "",
             "IsAvailable": true
           }
