@@ -2816,9 +2816,9 @@
         "Variations": [
           {
             "MarketName": "عام",
-            "SizeName": "5 بلاكات",
+            "SizeName": "بلاكة",
             "Price": 2600,
-            "Unit": "5 بلاكات",
+            "Unit": "حزمة 5 بلاكات",
             "ImagePath": "",
             "IsAvailable": false
           },
@@ -2841,20 +2841,6 @@
             "SizeName": "كغ معلب",
             "Price": 360,
             "Unit": "فاردو 10 كغ",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
-        "Name": "سكر",
-        "Description": null,
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "كلغ معلب",
-            "Price": 870,
-            "Unit": "فاردو 10 كلغ معلب",
             "ImagePath": "",
             "IsAvailable": true
           }
