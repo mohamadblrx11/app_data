@@ -3016,6 +3016,30 @@
             "Unit": "وزنة 100غ",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "أسود",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "بنفسجي",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "بدون نوى",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
