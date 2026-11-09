@@ -3744,10 +3744,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "عصير",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "عصير معلب",
+            "SizeName": "20 سل",
+            "Price": 25,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
