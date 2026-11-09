@@ -2420,6 +2420,76 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "مواشي العيد والمناسبات",
+        "Description": "زوروا صفحة البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "كبش",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "خروف",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "نعجة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "رخلة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "جذع",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "جدي",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "معزة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "حولية",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
