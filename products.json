@@ -2811,14 +2811,14 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "سكر",
+        "Name": "بيض",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
             "MarketName": "عام",
-            "SizeName": "500غ",
-            "Price": 900,
-            "Unit": "فاردوا 20 وحدة",
+            "SizeName": "5 بلاكات",
+            "Price": 2600,
+            "Unit": "5 بلاكات",
             "ImagePath": "",
             "IsAvailable": false
           },
