@@ -3363,6 +3363,36 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "التونة والسردين",
+        "Description": null,
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "التونة زيت",
+            "Price": 0,
+            "Unit": "ثلاثيات",
+            "ImagePath": "",
+            "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "التونة طماطم",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "سردين زيت",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
