@@ -3525,7 +3525,7 @@
             "Price": 675728642,
             "Unit": "تفاوضيا عند الطلب على هذا الرقم 0675728642",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "دجاجة مشوية على الروتي",
