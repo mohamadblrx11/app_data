@@ -3792,10 +3792,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "1",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "قازوز",
+            "SizeName": "كانيت",
+            "Price": 85,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
