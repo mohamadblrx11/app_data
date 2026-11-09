@@ -3026,12 +3026,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "بنفسجي",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "زيتون بنفسجي",
+            "SizeName": "100غ",
+            "Price": 60,
+            "Unit": "وزنة 100غ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
