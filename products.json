@@ -3022,6 +3022,28 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "زيت الزيتون والعسل الحر",
+        "Description": "طالعوا جديدنا على صفحة البورصة متاجر ومكاتب وشركات ذكية",
+        "Variations": [
+          {
+            "MarketName": "عسل سدر",
+            "SizeName": "250غ",
+            "Price": 1450,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "1 ل",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
