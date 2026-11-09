@@ -3752,10 +3752,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "عصير",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "عصير معلب",
+            "SizeName": "1 ل",
+            "Price": 80,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
