@@ -3648,10 +3648,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "سندويش فربت",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "طبق",
+            "SizeName": "فريت",
+            "Price": 150,
+            "Unit": "طبق",
             "ImagePath": "",
             "IsAvailable": true
           },
