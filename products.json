@@ -3007,15 +3007,15 @@
       },
       {
         "Name": "زيتون كل الأنواع",
-        "Description": null,
+        "Description": "للاطلاع على الجديد زوروا صفحة البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "زيتون كاسي",
+            "SizeName": "100غ",
+            "Price": 60,
+            "Unit": "وزنة 100غ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       }
