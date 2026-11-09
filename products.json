@@ -3544,10 +3544,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "د",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "طاكوس",
+            "SizeName": "ميني",
+            "Price": 200,
+            "Unit": "وحدة",
             "ImagePath": "",
             "IsAvailable": true
           },
