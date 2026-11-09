@@ -3584,9 +3584,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بيزا",
-            "Price": 0,
+            "MarketName": "بيزا",
+            "SizeName": "فيجيتاليان ",
+            "Price": 400,
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
