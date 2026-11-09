@@ -2833,13 +2833,13 @@
         ]
       },
       {
-        "Name": "ملح",
+        "Name": "سكر",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
             "MarketName": "عام",
             "SizeName": "كغ معلب",
-            "Price": 360,
+            "Price": 870,
             "Unit": "فاردو 10 كغ",
             "ImagePath": "",
             "IsAvailable": true
