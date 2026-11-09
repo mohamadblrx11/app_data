@@ -3369,7 +3369,22 @@
   {
     "CategoryName": "أكل سريع",
     "Icon": "\uD83E\uDD6A\uD83C\uDF57",
-    "Items": []
+    "Items": [
+      {
+        "Name": "خدمات التوصيل والتحصيل",
+        "Description": "أضفها لتصلك مشترياتك في الموعد",
+        "Variations": [
+          {
+            "MarketName": "أساسية",
+            "SizeName": "سلة مشترياتك المطلوبة",
+            "Price": 95,
+            "Unit": "سلة مشتريات",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "استراحة لمة الأحباب",
