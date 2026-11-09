@@ -3552,10 +3552,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "ج",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "طاكوس",
+            "SizeName": "وحدة",
+            "Price": 450,
+            "Unit": "وحدة",
             "ImagePath": "",
             "IsAvailable": true
           }
