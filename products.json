@@ -2859,6 +2859,28 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "ماء معدني",
+        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "1.5 ل",
+            "Price": 245,
+            "Unit": "فاردو 6 قارورات",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "0.5 ل",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
