@@ -2925,10 +2925,10 @@
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
-            "MarketName": "عام",
+            "MarketName": "دايلي جوي",
             "SizeName": "125 مل",
             "Price": 0,
-            "Unit": "فاردو 12 قارورة/عبوة",
+            "Unit": "كرطونة 48 قطعة",
             "ImagePath": "",
             "IsAvailable": false
           },
