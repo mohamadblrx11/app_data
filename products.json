@@ -3526,6 +3526,14 @@
             "Unit": "تفاوضيا عند الطلب على هذا الرقم 0675728642",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "دجاجة مشوية",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
