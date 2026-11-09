@@ -2446,8 +2446,8 @@
         "Description": "المنشور 04 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
-            "MarketName": "01",
-            "SizeName": "ميزان",
+            "MarketName": "أحمر",
+            "SizeName": "عادي",
             "Price": 0,
             "Unit": "كغ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639298182361266538.png",
@@ -2458,6 +2458,14 @@
             "SizeName": "ربط",
             "Price": 0,
             "Unit": "ربطة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "جودة",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
