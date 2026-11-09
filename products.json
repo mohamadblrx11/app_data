@@ -2835,6 +2835,14 @@
             "Unit": "فاردو 10 كغ",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "عام",
+            "SizeName": "رطل",
+            "Price": 900,
+            "Unit": "فاردو 20 وحدة 500غ",
+            "ImagePath": "",
+            "IsAvailable": false
           }
         ]
       },
