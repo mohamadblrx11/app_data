@@ -3664,10 +3664,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "2",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "طبق",
+            "SizeName": "فريت أوملات",
+            "Price": 200,
+            "Unit": "طبق",
             "ImagePath": "",
             "IsAvailable": true
           },
