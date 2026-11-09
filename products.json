@@ -2840,15 +2840,15 @@
       },
       {
         "Name": "ملح",
-        "Description": null,
+        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "عام",
+            "SizeName": "كلغ معلب",
+            "Price": 360,
+            "Unit": "فاردو",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       }
