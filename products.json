@@ -3624,10 +3624,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بيزا",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بيزا",
+            "SizeName": "دومي ميغا",
+            "Price": 1180,
+            "Unit": "بيزا كاملة",
             "ImagePath": "",
             "IsAvailable": true
           },
