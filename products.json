@@ -2620,8 +2620,8 @@
             "SizeName": "ميزان",
             "Price": 0,
             "Unit": "كغ",
-            "ImagePath": "",
-            "IsAvailable": true
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639298181151127610.png",
+            "IsAvailable": false
           }
         ]
       },
