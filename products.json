@@ -3760,10 +3760,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "قازوز سيلكنو",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "قازوز",
+            "SizeName": "1 ل",
+            "Price": 55,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           },
