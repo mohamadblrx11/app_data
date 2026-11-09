@@ -3768,10 +3768,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "قازوز",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "قازوز",
+            "SizeName": "2 ل",
+            "Price": 95,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           },
