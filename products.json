@@ -3489,6 +3489,20 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "الكركوتي الرقمي",
+        "Description": null,
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
