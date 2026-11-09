@@ -2839,13 +2839,13 @@
       },
       {
         "Name": "تمور",
-        "Description": null,
+        "Description": "صور سلعنا على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
+            "MarketName": "دقلة",
+            "SizeName": "كغ",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كلغ",
             "ImagePath": "",
             "IsAvailable": true
           }
