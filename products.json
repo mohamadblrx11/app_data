@@ -2426,10 +2426,10 @@
         "Description": "زوروا صفحة البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
-            "MarketName": "",
+            "MarketName": "ثني",
             "SizeName": "كبش",
             "Price": 0,
-            "Unit": "",
+            "Unit": "شاة",
             "ImagePath": "",
             "IsAvailable": false
           },
