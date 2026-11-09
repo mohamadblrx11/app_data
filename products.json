@@ -3534,6 +3534,30 @@
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "سوفلي",
+            "SizeName": "سوفلي",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "د",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "ج",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
