@@ -2752,6 +2752,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شلاطة",
+        "Description": null,
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": false
+          }
+        ]
       }
     ]
   },
