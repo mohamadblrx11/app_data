@@ -3632,10 +3632,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بيزا",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بيزا",
+            "SizeName": "ميغا",
+            "Price": 1750,
+            "Unit": "بيزا كلملة",
             "ImagePath": "",
             "IsAvailable": true
           },
