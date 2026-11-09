@@ -3608,9 +3608,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بيزا",
-            "Price": 0,
+            "MarketName": "بيزا",
+            "SizeName": "3 فرماج",
+            "Price": 680,
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
