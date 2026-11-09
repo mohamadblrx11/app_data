@@ -3640,10 +3640,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "طبق",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "طبق",
+            "SizeName": "فريت",
+            "Price": 115,
+            "Unit": "سندويتش",
             "ImagePath": "",
             "IsAvailable": true
           },
