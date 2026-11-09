@@ -2740,20 +2740,6 @@
         ]
       },
       {
-        "Name": "مستحقات التوصيل",
-        "Description": "أضفها لتصلك مشتريات في الموعد",
-        "Variations": [
-          {
-            "MarketName": "أساسية",
-            "SizeName": "توصيل سلة المشتريات",
-            "Price": 250,
-            "Unit": "سلة",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "شلاطة",
         "Description": null,
         "Variations": [
