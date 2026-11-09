@@ -2903,6 +2903,20 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "مشروبات غير غازية",
+        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
+        "Variations": [
+          {
+            "MarketName": "عام",
+            "SizeName": "33 سل",
+            "Price": 0,
+            "Unit": "فاردو 12 قارورة/عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
