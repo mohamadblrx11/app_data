@@ -3560,10 +3560,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بيزا مرغريتا",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بيزا",
+            "SizeName": "مرغريتا",
+            "Price": 280,
+            "Unit": "بيزا كاملة",
             "ImagePath": "",
             "IsAvailable": true
           },
