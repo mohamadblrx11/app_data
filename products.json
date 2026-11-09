@@ -2862,5 +2862,10 @@
     "CategoryName": "خدمات تفاوضية",
     "Icon": "\uD83D\uDD70",
     "Items": []
+  },
+  {
+    "CategoryName": "خدمات VIP",
+    "Icon": "\uD83E\uDEC6\uD83D\uDC4D",
+    "Items": []
   }
 ]
