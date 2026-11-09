@@ -2950,11 +2950,11 @@
           },
           {
             "MarketName": "",
-            "SizeName": "1.5 ل",
+            "SizeName": "1.25 ل",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
