@@ -3696,10 +3696,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "طبق",
+            "MarketName": "سندويتش",
             "SizeName": "ليزابا",
-            "Price": 450,
-            "Unit": "طبق",
+            "Price": 300,
+            "Unit": "سندويتش",
             "ImagePath": "",
             "IsAvailable": true
           },
