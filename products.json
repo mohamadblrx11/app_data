@@ -3656,10 +3656,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "طبق",
-            "SizeName": "فريت",
+            "MarketName": "سندويتش",
+            "SizeName": "فريت أوملات",
             "Price": 150,
-            "Unit": "طبق",
+            "Unit": "سندويتش",
             "ImagePath": "",
             "IsAvailable": true
           },
