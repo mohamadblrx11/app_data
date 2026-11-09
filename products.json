@@ -3379,7 +3379,22 @@
   {
     "CategoryName": "خدمات تفاوضية",
     "Icon": "\uD83D\uDD70",
-    "Items": []
+    "Items": [
+      {
+        "Name": "مطعم ومقهى",
+        "Description": "سحابي",
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "خدمات VIP",
