@@ -3589,7 +3589,7 @@
             "Price": 400,
             "Unit": "بيزا كاملة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "بيزا",
