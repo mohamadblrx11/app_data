@@ -2564,12 +2564,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
+            "MarketName": "خدمات الحظيرة",
             "SizeName": "نعجة",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
