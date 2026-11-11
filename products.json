@@ -1862,10 +1862,10 @@
           {
             "MarketName": "",
             "SizeName": "ميزان",
-            "Price": 0,
+            "Price": 230,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "",
