@@ -2772,12 +2772,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "ليزابا",
+            "MarketName": "لحم",
+            "SizeName": "خروف",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
@@ -2966,6 +2966,14 @@
           {
             "MarketName": "",
             "SizeName": "ليزابا",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "لحم بقري",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
