@@ -2504,6 +2504,20 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "التوصيل والتحصيل",
+        "Description": "تفاوضي على 0562333265",
+        "Variations": [
+          {
+            "MarketName": "التوصيل تفاوضي",
+            "SizeName": "0562333265",
+            "Price": 562333265,
+            "Unit": "تفاوضيا",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
