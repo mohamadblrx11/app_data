@@ -2540,8 +2540,8 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "كبش",
-            "SizeName": "مواشي الأضحية والمناسبات",
+            "MarketName": "مواشي الأضحية والمناسبات",
+            "SizeName": "كبش",
             "Price": 0,
             "Unit": "شاة",
             "ImagePath": "",
