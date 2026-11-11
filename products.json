@@ -3998,13 +3998,13 @@
       },
       {
         "Name": "مستلزمات التعبئة",
-        "Description": null,
+        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
+            "MarketName": "حدد الصنف",
+            "SizeName": "حدد الحجم والعلامة والجودة",
             "Price": 0,
-            "Unit": "",
+            "Unit": "حزمة 20 رزمة 40 كيس",
             "ImagePath": "",
             "IsAvailable": true
           }
