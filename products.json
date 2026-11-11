@@ -1930,10 +1930,10 @@
           {
             "MarketName": "مكسرة",
             "SizeName": "عام",
-            "Price": 185,
+            "Price": 205,
             "Unit": "كلغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
