@@ -3995,6 +3995,20 @@
             "IsAvailable": false
           }
         ]
+      },
+      {
+        "Name": "مستلزمات التعبئة",
+        "Description": null,
+        "Variations": [
+          {
+            "MarketName": "",
+            "SizeName": "حجم جديد",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
