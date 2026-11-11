@@ -2620,12 +2620,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "بيض",
+            "MarketName": "أبيض",
+            "SizeName": "بلدي (عرب)",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
