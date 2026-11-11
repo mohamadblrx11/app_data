@@ -792,12 +792,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "بلدي ",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بلدي (عرب)",
+            "SizeName": "بلاكة",
+            "Price": 980,
+            "Unit": "بلاكة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       },
