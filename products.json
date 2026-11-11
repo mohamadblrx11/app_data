@@ -2530,6 +2530,22 @@
             "Unit": "للاتصال والتواصل",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "التوصيل",
+            "SizeName": "تفاوضي",
+            "Price": 562333265,
+            "Unit": "تفاوضيا حسب المنطقة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "شاة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
