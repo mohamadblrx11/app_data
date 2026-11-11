@@ -2620,7 +2620,7 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "أبيض",
+            "MarketName": "بيض",
             "SizeName": "بلدي (عرب)",
             "Price": 0,
             "Unit": "",
@@ -2678,6 +2678,14 @@
           {
             "MarketName": "",
             "SizeName": "جلبانة",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "رشتة",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
