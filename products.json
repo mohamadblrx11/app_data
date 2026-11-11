@@ -2668,12 +2668,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "جلبانة",
+            "MarketName": "رشتة",
+            "SizeName": "رشتة",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
