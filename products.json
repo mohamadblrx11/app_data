@@ -2804,12 +2804,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "سكالوب",
+            "MarketName": "لحم",
+            "SizeName": "بقري",
             "Price": 0,
-            "Unit": "",
+            "Unit": "نصف رطل (250غ)",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
@@ -2998,6 +2998,22 @@
           {
             "MarketName": "",
             "SizeName": "جنحة وكتف داند",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "سكالوب",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "سكالوب",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
