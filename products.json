@@ -2788,12 +2788,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "كويس",
+            "MarketName": "لحم",
+            "SizeName": "مخلول",
             "Price": 0,
-            "Unit": "",
+            "Unit": "نصف رطل(250غ)",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
@@ -2982,6 +2982,14 @@
           {
             "MarketName": "",
             "SizeName": "دجاج",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كويس",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
