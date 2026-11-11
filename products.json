@@ -778,9 +778,25 @@
           {
             "MarketName": "أحمر",
             "SizeName": "بلاكة",
-            "Price": 570,
+            "Price": 550,
             "Unit": "بلاكة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639292936863260349.png",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "أبيض",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "بلدي ",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
             "IsAvailable": true
           }
         ]
