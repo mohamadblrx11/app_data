@@ -2700,8 +2700,8 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "خالتي",
-            "SizeName": "ديول",
+            "MarketName": "ديول",
+            "SizeName": "خالتي",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
