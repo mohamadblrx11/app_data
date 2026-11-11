@@ -2676,12 +2676,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "جلبانة",
+            "MarketName": "شخشوخة",
+            "SizeName": "شخشوخة",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
