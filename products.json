@@ -2628,12 +2628,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "دجاج",
+            "MarketName": "بيض",
+            "SizeName": "أبيض",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "بيض",
