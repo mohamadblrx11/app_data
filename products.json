@@ -3026,6 +3026,22 @@
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كويس دجاج",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كويس داند",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
