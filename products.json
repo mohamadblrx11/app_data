@@ -2690,6 +2690,14 @@
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "ديول",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
