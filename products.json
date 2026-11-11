@@ -2692,8 +2692,8 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "العائلة",
-            "SizeName": "ديول",
+            "MarketName": "ديول",
+            "SizeName": "العائلة",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
@@ -3014,6 +3014,14 @@
           {
             "MarketName": "",
             "SizeName": "سكالوب",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "كانزة",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
