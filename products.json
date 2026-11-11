@@ -2518,6 +2518,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "قصابة البانقا",
+        "Description": "0562333265",
+        "Variations": [
+          {
+            "MarketName": "اضغط هنا لتظهر الأصناف",
+            "SizeName": "اختر من هنا التصنيف المطلوب وأضفه للسلة",
+            "Price": 562333265,
+            "Unit": "للاتصال والتواصل",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
