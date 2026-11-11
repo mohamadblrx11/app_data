@@ -2756,12 +2756,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "كانزة",
+            "MarketName": "لحم",
+            "SizeName": "جدي",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
