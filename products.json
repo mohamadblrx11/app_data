@@ -2660,12 +2660,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "بيض",
+            "MarketName": "جلبانة مجمدة",
+            "SizeName": "كغ معلب",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
