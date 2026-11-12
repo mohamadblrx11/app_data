@@ -4545,5 +4545,10 @@
     "CategoryName": "خدمة القسائم والتعبئات",
     "Icon": "\uD83D\uDCAF\uD83D\uDCAB",
     "Items": []
+  },
+  {
+    "CategoryName": "آثاث",
+    "Icon": "\uD83D\uDDC4",
+    "Items": []
   }
 ]
