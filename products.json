@@ -2522,12 +2522,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "شفرات",
+            "MarketName": "BiC Comfort 2",
+            "SizeName": "شفرات حلاقة استعمال مؤقت",
             "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
+            "Unit": "علبة 5 وحدات",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639301026827595711.png",
+            "IsAvailable": false
           }
         ]
       },
