@@ -2465,7 +2465,7 @@
       },
       {
         "Name": "عطور ومواد التجميل ومستلزمات النظافة الشخصية",
-        "Description": "الطلب يكون 47 ساعة قبل الموعد / اضغط على \" i \" بأعلى يسار التطبيق واطلع على الجديد وصور سلعنا بالغيسبوك",
+        "Description": "الطلب يكون 47 ساعة قبل الموعد",
         "Variations": [
           {
             "MarketName": "اضغط هنا لتحديد الصنف",
@@ -2484,11 +2484,11 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "غسول سائل ملابس",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
+            "MarketName": "جال دوش",
+            "SizeName": " DERMOmed - أرغان",
+            "Price": 95,
+            "Unit": "قارورة 250 مل",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639300789169336070.png",
             "IsAvailable": true
           }
         ]
