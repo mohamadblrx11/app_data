@@ -1042,12 +1042,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "مشروبات غازية (صودا) - زعيم-حمضيات",
-            "SizeName": "2 ل",
-            "Price": 95,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": false
+            "MarketName": "مشروبات غير غازية - دايلي",
+            "SizeName": "20 سل",
+            "Price": 25,
+            "Unit": "عبوة",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639301045404648970.png",
+            "IsAvailable": true
           },
           {
             "MarketName": "مشروبات غازية (صودا) - زعيم أناناس",
@@ -1064,22 +1064,6 @@
             "Unit": "قارورة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639297503633944409.png",
             "IsAvailable": false
-          },
-          {
-            "MarketName": "",
-            "SizeName": "ماء",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "",
-            "SizeName": "ماء",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
           }
         ]
       },
