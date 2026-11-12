@@ -2056,11 +2056,11 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "محمصة سفينة",
+            "MarketName": "محمصة - النخلة",
             "SizeName": "500غ",
-            "Price": 85,
-            "Unit": "",
-            "ImagePath": "",
+            "Price": 75,
+            "Unit": "عبوة 500غ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639301059171671665.png",
             "IsAvailable": true
           }
         ]
