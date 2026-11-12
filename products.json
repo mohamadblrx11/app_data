@@ -2048,11 +2048,11 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "تليتلي سفينة",
+            "MarketName": "تليتلي - النخلة",
             "SizeName": "500غ",
-            "Price": 85,
+            "Price": 75,
             "Unit": "عبوة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639301058145500936.png",
             "IsAvailable": true
           },
           {
