@@ -812,6 +812,14 @@
             "Unit": "بلاكة",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "مستحقات توصيل البيض",
+            "SizeName": "مستحقات توصيل الصنف",
+            "Price": 20,
+            "Unit": "سلة مشتريات من البيض فقط",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
