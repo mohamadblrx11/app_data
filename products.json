@@ -764,6 +764,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مستحقات التوصيل (حلويات فقط)",
+        "Description": "توصيل الصنف",
+        "Variations": [
+          {
+            "MarketName": "مستحقات توصيل الصنف فقط",
+            "SizeName": "سلة مشتريات الصنف",
+            "Price": 90,
+            "Unit": "سلة مشتريات الصنف",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
