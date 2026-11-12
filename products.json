@@ -1030,7 +1030,7 @@
         ]
       },
       {
-        "Name": "المشروبات الغازية (صودا)",
+        "Name": "المشروبات",
         "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
@@ -1042,12 +1042,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "زعيم",
+            "MarketName": "مشروبات غازية (صودا) - زعيم-حمضيات",
             "SizeName": "2 ل",
             "Price": 95,
             "Unit": "قارورة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "زعيم أناناس",
