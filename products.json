@@ -2444,11 +2444,11 @@
         "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "للطهي",
+            "MarketName": "للطهي - لين",
             "SizeName": "5 م",
             "Price": 95,
             "Unit": "علبة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639301046671385001.png",
             "IsAvailable": true
           },
           {
