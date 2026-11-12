@@ -1744,11 +1744,11 @@
         "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "طماطم",
+            "MarketName": "فيفا سردينا - زيت",
+            "SizeName": "زيت",
             "Price": 155,
             "Unit": "علبة",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639301056245997228.png",
             "IsAvailable": true
           },
           {
