@@ -4203,8 +4203,8 @@
           {
             "MarketName": "مستحقات التوصيل والتحصيل للقسم",
             "SizeName": "مستحقات التوصيل والتحصيل",
-            "Price": 50,
-            "Unit": "المطلوب",
+            "Price": 35,
+            "Unit": "للوجبة الواحدة وما يتبعها",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -4213,6 +4213,62 @@
             "SizeName": "سندويش شاورما",
             "Price": 350,
             "Unit": "سندويش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "1",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "2",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "3",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "4",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "5",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "6",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "7",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
