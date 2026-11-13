@@ -4305,10 +4305,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "1",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بيزا مرغريتا",
+            "SizeName": "بيزا مرغريتا",
+            "Price": 280,
+            "Unit": "حبة كاملة",
             "ImagePath": "",
             "IsAvailable": true
           }
