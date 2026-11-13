@@ -4233,10 +4233,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
-            "SizeName": "3",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "عصير صغير معلب",
+            "SizeName": "عصير صغير معلب",
+            "Price": 35,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
