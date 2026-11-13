@@ -4555,10 +4555,10 @@
         "Description": "الطلب يكون 47 ساعة قبل موعد التسليم",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
+            "MarketName": "خزانة بابين",
+            "SizeName": "خزانة بابين 001",
             "Price": 0,
-            "Unit": "",
+            "Unit": "خزانة بابين",
             "ImagePath": "",
             "IsAvailable": true
           },
