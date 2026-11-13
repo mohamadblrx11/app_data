@@ -4566,7 +4566,7 @@
             "MarketName": "خزانة بابين",
             "SizeName": "مستحقات توصيلها",
             "Price": 850,
-            "Unit": "",
+            "Unit": "الخزانة فقط",
             "ImagePath": "",
             "IsAvailable": true
           }
