@@ -4248,13 +4248,13 @@
       },
       {
         "Name": "مستحقات التوصيل والتحصيل",
-        "Description": null,
+        "Description": "عند الطلب من محلات مختلفة",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "مستحقات توصيل سلة متنوعة",
+            "SizeName": "مستحقات التوصيل والتحصيل لسلة كاملة",
+            "Price": 280,
+            "Unit": "سلة مشتريات مختلفة",
             "ImagePath": "",
             "IsAvailable": true
           }
