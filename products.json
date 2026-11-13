@@ -4202,9 +4202,9 @@
           },
           {
             "MarketName": "",
-            "SizeName": "1",
-            "Price": 0,
-            "Unit": "",
+            "SizeName": "مستحقات التوصيل والتحصيل",
+            "Price": 50,
+            "Unit": "المطلوب",
             "ImagePath": "",
             "IsAvailable": true
           },
