@@ -4189,14 +4189,30 @@
     "Icon": "\uD83E\uDD6A\uD83C\uDF57",
     "Items": [
       {
-        "Name": "مستحقات التوصيل والتحصيل",
-        "Description": "أضفها لتصلك مشترياتك في الموعد",
+        "Name": "المطعم الشامي",
+        "Description": "أكلات سورية",
         "Variations": [
           {
             "MarketName": "أساسية",
-            "SizeName": "سلة مشترياتك المطلوبة",
-            "Price": 95,
-            "Unit": "سلة مشتريات",
+            "SizeName": "اضغط هنا لاختيار الأكلة (الوجبة)",
+            "Price": 66585.3898,
+            "Unit": "المطلوب",
+            "ImagePath": "",
+            "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "1",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "2",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
