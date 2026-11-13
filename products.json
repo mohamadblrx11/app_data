@@ -4563,31 +4563,9 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "",
+            "MarketName": "خزانة بابين",
             "SizeName": "مستحقات توصيلها",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
-        "Name": "خزانة بابين",
-        "Description": "الطلب يكون 47 ساعة قبل موعد التسليم",
-        "Variations": [
-          {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "",
-            "SizeName": "مستحقات توصيلها",
-            "Price": 0,
+            "Price": 850,
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
