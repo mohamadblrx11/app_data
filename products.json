@@ -4273,10 +4273,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "سندويش شاورما",
-            "SizeName": "سندويش شاورما",
-            "Price": 350,
-            "Unit": "سندويش",
+            "MarketName": "طراشين (وحدتين)",
+            "SizeName": "طراشين (وحدتين)",
+            "Price": 5,
+            "Unit": "وحدتين",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -4291,6 +4291,14 @@
           {
             "MarketName": "",
             "SizeName": "2",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "3",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
