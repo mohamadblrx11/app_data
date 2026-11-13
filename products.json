@@ -4209,10 +4209,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "سندويش شاورما",
-            "SizeName": "سندويش شاورما",
-            "Price": 350,
-            "Unit": "سندويش",
+            "MarketName": "مستحقات التوصيل والتحصيل للقسم",
+            "SizeName": "مستحقات التوصيل والتحصيل للقسم",
+            "Price": 40,
+            "Unit": "الوجبة وما يتبعها",
             "ImagePath": "",
             "IsAvailable": true
           },
