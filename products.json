@@ -3921,7 +3921,7 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "بيض",
+        "Name": "قصابة دار الخير",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
           {
@@ -3931,6 +3931,14 @@
             "Unit": "حزمة 5 بلاكات",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "دجاج",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
