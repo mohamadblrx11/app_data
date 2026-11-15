@@ -4037,10 +4037,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "دوارة بقري",
-            "SizeName": "دوارة بقري",
+            "MarketName": "كبدة بقري",
+            "SizeName": "كبدة بقري",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": false
           },
