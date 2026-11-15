@@ -4197,8 +4197,8 @@
     "Icon": "\uD83E\uDD6A\uD83C\uDF57",
     "Items": [
       {
-        "Name": "السفير (للميناما والمقبلات والأكل السريع والبيتزا)",
-        "Description": "الطلب: من 00h00 إلى 10h00 ومن 16h00 إلى 18h00",
+        "Name": "الزهواني (للميناما والمقبلات والأكل السريع والبيتزا)",
+        "Description": "الطلب: من 00h00 إلى 10h00 للغذاء ومن 16h00 إلى 18h00 للعشاء",
         "Variations": [
           {
             "MarketName": "اضغط هنا لاختيار الأكلة (الوجبة)",
@@ -4335,6 +4335,14 @@
             "Unit": "ربع دجاجة",
             "ImagePath": "",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "",
+            "SizeName": "1",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
