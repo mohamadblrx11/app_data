@@ -3965,12 +3965,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "3",
+            "MarketName": "دجاج للروتي",
+            "SizeName": "دجاج للروتي",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
