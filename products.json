@@ -4045,10 +4045,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "13",
+            "MarketName": "دوارة بقري",
+            "SizeName": "دوارة بقري",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
           }
