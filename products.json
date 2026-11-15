@@ -3949,12 +3949,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "1",
+            "MarketName": "دجاج خشين",
+            "SizeName": "دجاج خشين",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
