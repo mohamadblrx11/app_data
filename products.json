@@ -4037,12 +4037,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "12",
+            "MarketName": "دوارة بقري",
+            "SizeName": "دوارة بقري",
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
