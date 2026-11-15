@@ -4311,6 +4311,22 @@
             "Unit": "حبة كاملة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "2",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميتاما دجاج",
+            "SizeName": "ميتاما دجاج",
+            "Price": 380,
+            "Unit": "ربع دجاجة",
+            "ImagePath": "",
+            "IsAvailable": false
           }
         ]
       },
