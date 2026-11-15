@@ -4005,12 +4005,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "8",
+            "MarketName": "كبدة دجاج",
+            "SizeName": "كبدة دجاج",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
