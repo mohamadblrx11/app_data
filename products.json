@@ -3997,12 +3997,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "7",
+            "MarketName": "كركاس دجاج",
+            "SizeName": "كركاس دجاج",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
