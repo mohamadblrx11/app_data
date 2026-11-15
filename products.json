@@ -4021,12 +4021,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "10",
+            "MarketName": "لحم بقري أدرار",
+            "SizeName": "لحم بقري أدرار",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
