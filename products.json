@@ -3973,10 +3973,10 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "4",
+            "MarketName": "سكالوب",
+            "SizeName": "سكالوب",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
           },
