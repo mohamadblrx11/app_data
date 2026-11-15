@@ -4029,12 +4029,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "11",
+            "MarketName": "هبرة بقري (برازيل)",
+            "SizeName": "هبرة بقري (برازيل)",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
