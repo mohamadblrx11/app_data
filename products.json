@@ -3933,12 +3933,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "دجاج",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "بيض أبيض",
+            "SizeName": "بيض أبيض",
+            "Price": 2600,
+            "Unit": "حزمة 5 بلاكات",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       },
