@@ -3989,12 +3989,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "",
-            "SizeName": "6",
+            "MarketName": "جنحة ورقبة دجاج",
+            "SizeName": "جنحة ورقبة دجاج",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "",
