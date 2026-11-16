@@ -4053,12 +4053,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "ل",
-            "SizeName": "خروف (بالطلب المباشر على 06)",
+            "MarketName": "لحم خروف (تفاوضيا على 0665853898)",
+            "SizeName": "لحم خروف (تفاوضيا على 0665853898)",
             "Price": 0,
-            "Unit": "",
+            "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           }
         ]
       },
