@@ -3784,6 +3784,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شفلور",
+        "Description": "الطلب 24 سا قبل الموعد / التوزيع يوميا من 9h00 إلى 20h00",
+        "Variations": [
+          {
+            "MarketName": "كغ",
+            "SizeName": "كغ",
+            "Price": 95,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
