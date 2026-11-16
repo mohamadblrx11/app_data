@@ -3509,15 +3509,15 @@
       },
       {
         "Name": "سلق",
-        "Description": null,
+        "Description": "الطلب 24 سا قبل الموعد / التوزيع يوميا من 9h00 إلى 20h00",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "ربطة",
+            "SizeName": "ربطة",
+            "Price": 50,
+            "Unit": "ربطة",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
