@@ -3288,10 +3288,10 @@
           {
             "MarketName": "جودة أولى (01)",
             "SizeName": "ميزان",
-            "Price": 0,
+            "Price": 85,
             "Unit": "كغ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295984911310090.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
