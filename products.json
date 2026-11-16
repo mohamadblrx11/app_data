@@ -4021,12 +4021,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "هبرة بقري (برازيل)",
-            "SizeName": "هبرة بقري (برازيل)",
-            "Price": 1550,
+            "MarketName": "لحم بقري (ادرار)",
+            "SizeName": "لحم بقري (ادرار)",
+            "Price": 0,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "هبرة بقري (برازيل)",
