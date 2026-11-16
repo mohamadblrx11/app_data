@@ -3344,10 +3344,10 @@
           {
             "MarketName": "اختيار أول",
             "SizeName": "ميزان",
-            "Price": 0,
+            "Price": 105,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
