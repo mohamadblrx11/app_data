@@ -3943,10 +3943,10 @@
           {
             "MarketName": "دجاج خشين",
             "SizeName": "دجاج خشين",
-            "Price": 0,
+            "Price": 405,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "دجاج خشين",
@@ -4049,6 +4049,14 @@
             "SizeName": "دوارة بقري",
             "Price": 0,
             "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "",
+            "SizeName": "خروف (بالطلب المباشر على 06)",
+            "Price": 0,
+            "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
           }
