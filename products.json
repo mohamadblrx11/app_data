@@ -3380,10 +3380,10 @@
           {
             "MarketName": "خيار اول",
             "SizeName": "ميزان",
-            "Price": 0,
+            "Price": 220,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
