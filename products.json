@@ -3742,10 +3742,10 @@
           {
             "MarketName": "زيتون بدون نوى",
             "SizeName": "100غ",
-            "Price": 60,
+            "Price": 70,
             "Unit": "وزنة 100غ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
