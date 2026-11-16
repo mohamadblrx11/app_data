@@ -3957,12 +3957,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "دجاج متوسط",
-            "SizeName": "دجاج متوسط",
-            "Price": 0,
+            "MarketName": "دجاج للروتي",
+            "SizeName": "دجاج للروتي",
+            "Price": 405,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "دجاج للروتي",
