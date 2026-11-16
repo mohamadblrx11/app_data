@@ -3467,15 +3467,15 @@
       },
       {
         "Name": "شلاطة",
-        "Description": null,
+        "Description": "الطلب 24 سا قبل الموعد / التوزيع يوميا من 9h00 إلى 20h00",
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "رطل",
+            "SizeName": "رطل",
+            "Price": 70,
+            "Unit": "رطل",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639298247941083056.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
