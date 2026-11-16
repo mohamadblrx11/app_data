@@ -3688,12 +3688,12 @@
         "Description": null,
         "Variations": [
           {
-            "MarketName": "",
-            "SizeName": "حجم جديد",
-            "Price": 0,
-            "Unit": "",
+            "MarketName": "رطل",
+            "SizeName": "رطل",
+            "Price": 145,
+            "Unit": "كغ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639298241907082056.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
