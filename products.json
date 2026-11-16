@@ -3772,14 +3772,14 @@
         ]
       },
       {
-        "Name": "مستحقات التوصيل والتحصيل",
-        "Description": "أضفها لتصلك مشترياتك في الموعد",
+        "Name": "بسباس",
+        "Description": "الطلب يكون 24 ساعة قبل الموعد",
         "Variations": [
           {
-            "MarketName": "أساسية",
-            "SizeName": "سلة مشترياتك المطلوبة كاملة",
-            "Price": 180,
-            "Unit": "سلة كاملة",
+            "MarketName": "كغ",
+            "SizeName": "كغ",
+            "Price": 120,
+            "Unit": "كغ",
             "ImagePath": "",
             "IsAvailable": true
           }
