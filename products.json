@@ -3973,12 +3973,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "سكالوب",
-            "SizeName": "سكالوب",
+            "MarketName": "ليزابا",
+            "SizeName": "ليزابا",
             "Price": 0,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "ليزابا",
