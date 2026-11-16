@@ -4005,12 +4005,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "كبدة دجاج",
-            "SizeName": "كبدة دجاج",
-            "Price": 0,
+            "MarketName": "كانزة",
+            "SizeName": "كانزة",
+            "Price": 100,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "كانزة",
