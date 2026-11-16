@@ -3949,12 +3949,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "دجاج خشين",
-            "SizeName": "دجاج خشين",
-            "Price": 0,
+            "MarketName": "دجاج متوسط",
+            "SizeName": "دجاج متوسط",
+            "Price": 405,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "دجاج متوسط",
