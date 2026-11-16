@@ -3941,11 +3941,11 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "دجاج خشين",
-            "SizeName": "دجاج خشين",
-            "Price": 405,
-            "Unit": "كغ",
-            "ImagePath": "",
+            "MarketName": "بيض أبيض",
+            "SizeName": "بيض أبيض",
+            "Price": 2600,
+            "Unit": "حزمة 5 بلاكات",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639304221233233885.png",
             "IsAvailable": true
           },
           {
