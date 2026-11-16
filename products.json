@@ -3230,10 +3230,10 @@
           {
             "MarketName": "01",
             "SizeName": "اختيار أول",
-            "Price": 0,
+            "Price": 145,
             "Unit": "كغ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295977479245986.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
