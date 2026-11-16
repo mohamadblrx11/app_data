@@ -3965,12 +3965,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "دجاج للروتي",
-            "SizeName": "دجاج للروتي",
-            "Price": 0,
+            "MarketName": "سكالوب",
+            "SizeName": "سكالوب",
+            "Price": 800,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "سكالوب",
