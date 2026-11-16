@@ -3798,6 +3798,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بسباس",
+        "Description": "الطلب 24 سا قبل الموعد / التوزيع يوميا من 9h00 إلى 20h00",
+        "Variations": [
+          {
+            "MarketName": "كغ",
+            "SizeName": "كغ",
+            "Price": 120,
+            "Unit": "كغ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
