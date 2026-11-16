@@ -4013,12 +4013,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "لحم بقري (ادرار)",
-            "SizeName": "لحم بقري (أدرار)",
-            "Price": 0,
+            "MarketName": "كانزة",
+            "SizeName": "كانزة",
+            "Price": 100,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "لحم بقري (ادرار)",
