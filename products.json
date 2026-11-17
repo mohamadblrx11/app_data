@@ -1406,12 +1406,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "صول",
-            "SizeName": "250 غ",
-            "Price": 0,
-            "Unit": "عبوة",
+            "MarketName": "مرغرين صول 250 غ",
+            "SizeName": "مرغرين صول 250 غ",
+            "Price": 105,
+            "Unit": "عبوة 250غ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "لابل",
