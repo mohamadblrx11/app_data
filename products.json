@@ -1248,10 +1248,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "عام",
-            "SizeName": "5 كغ",
+            "MarketName": "فرينة سفينة 5كغ",
+            "SizeName": "فرينة سفينة 5كغ",
             "Price": 335,
-            "Unit": "عبوة",
+            "Unit": "عبوة 5كغ",
             "ImagePath": "",
             "IsAvailable": true
           },
