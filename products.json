@@ -2646,20 +2646,6 @@
         ]
       },
       {
-        "Name": "لحم غنمي",
-        "Description": "جيقو وفيلي نعجة صغيرة",
-        "Variations": [
-          {
-            "MarketName": "وطني",
-            "SizeName": "جديد",
-            "Price": 1850,
-            "Unit": "كغ",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639293850435327242.png",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "دوارة",
         "Description": "غنمي",
         "Variations": [
