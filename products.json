@@ -1240,10 +1240,10 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "سفينة",
-            "SizeName": "كغ معلب",
+            "MarketName": "فرينة سفينة كغ معلب",
+            "SizeName": "فرينة سفينة كغ معلب",
             "Price": 65,
-            "Unit": "عبوة",
+            "Unit": "عبوة كغ معلب",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639300087338203876.png",
             "IsAvailable": true
           },
