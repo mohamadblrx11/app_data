@@ -1259,9 +1259,9 @@
             "MarketName": "سفينة",
             "SizeName": "10 كغ",
             "Price": 335,
-            "Unit": "كيس",
+            "Unit": "كيس 5كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "عام",
