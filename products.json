@@ -1368,11 +1368,11 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "تلواز",
-            "SizeName": "1 كغ مشمش",
+            "MarketName": "مربى 1كغ مشمش تلواز",
+            "SizeName": "مربى 1كغ مشمش تلواز",
             "Price": 0,
-            "Unit": "عبوة",
-            "ImagePath": "",
+            "Unit": "عبوة كغ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305094655371551.png",
             "IsAvailable": false
           }
         ]
