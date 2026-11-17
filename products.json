@@ -1668,12 +1668,12 @@
         "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "250 غ",
+            "MarketName": "شاي ميزان",
+            "SizeName": "شاي ميزان",
             "Price": 0,
-            "Unit": "عبوة",
+            "Unit": "وزنة 200غ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
             "MarketName": "فردوس2",
