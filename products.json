@@ -2592,6 +2592,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مستحقات التوصيل والتحصيل",
+        "Description": "أضفها للسلة لتصلك مشترياتك في الموعد",
+        "Variations": [
+          {
+            "MarketName": "صانيبو 850 مل الأمير عطر بخور",
+            "SizeName": "حجم جديد",
+            "Price": 180,
+            "Unit": "سلة المشتريات المطلوبة كاملة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
