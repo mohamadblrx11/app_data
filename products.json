@@ -1630,10 +1630,10 @@
         "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عامة",
-            "SizeName": "250 غ",
+            "MarketName": "قهوة 1001",
+            "SizeName": "قهوة 1001",
             "Price": 250,
-            "Unit": "عبوة",
+            "Unit": "عبوة 250غ",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -4902,8 +4902,7 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": false
           },
           {
             "MarketName": "TestMarket",
@@ -4911,8 +4910,7 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true,
-            "Stock": 5
+            "IsAvailable": true
           }
         ]
       }
