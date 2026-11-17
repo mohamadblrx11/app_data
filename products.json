@@ -1390,10 +1390,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "صول",
-            "SizeName": "500 غ",
+            "MarketName": "مرغرين 500غ صول",
+            "SizeName": "مرغرين 500غ صول",
             "Price": 205,
-            "Unit": "عبوة",
+            "Unit": "عبوة 500غ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639300088894874234.png",
             "IsAvailable": true
           }
