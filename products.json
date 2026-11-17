@@ -4879,25 +4879,5 @@
         ]
       }
     ]
-  },
-  {
-    "CategoryName": "TestCat2",
-    "Icon": "\uD83D\uDECD️",
-    "Items": [
-      {
-        "Name": "TestItem",
-        "Description": "",
-        "Variations": [
-          {
-            "MarketName": "TestMarket",
-            "SizeName": "1kg",
-            "Price": 123,
-            "Unit": "kg",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
   }
 ]
