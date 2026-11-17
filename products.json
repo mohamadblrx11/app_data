@@ -1382,36 +1382,12 @@
         "Description": "صور سلعنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "250غ",
-            "Price": 120,
-            "Unit": "عبوة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "500 غ",
-            "Price": 205,
-            "Unit": "عبوة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "مرغرين صول 250 غ",
-            "SizeName": "مرغرين صول 250 غ",
-            "Price": 105,
+            "MarketName": "مرغرين 250غ صول",
+            "SizeName": "مرغرين 250غ صول",
+            "Price": 115,
             "Unit": "عبوة 250غ",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305097636642285.png",
             "IsAvailable": true
-          },
-          {
-            "MarketName": "لابل",
-            "SizeName": "500 غ",
-            "Price": 0,
-            "Unit": "عبوة",
-            "ImagePath": "",
-            "IsAvailable": false
           },
           {
             "MarketName": "صول",
