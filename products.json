@@ -1152,11 +1152,11 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "عبوة",
+            "MarketName": "سكر ناعم 700غ المرجان",
+            "SizeName": "سكر ناعم 700غ المرجان",
             "Price": 125,
-            "Unit": "عبوة",
-            "ImagePath": "",
+            "Unit": "عبوة 700غ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305105500270361.png",
             "IsAvailable": true
           }
         ]
