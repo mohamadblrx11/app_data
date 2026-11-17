@@ -1360,19 +1360,11 @@
         "Description": "صور منتجاتنا على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "500غ",
-            "Price": 135,
-            "Unit": "علبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "تلواز",
-            "SizeName": "500غ مشمش",
+            "MarketName": "مربى 500غ مشمش تلواز",
+            "SizeName": "مربى 500غ مشمش تلواز",
             "Price": 145,
-            "Unit": "عبوة",
-            "ImagePath": "",
+            "Unit": "عبوة 500غ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305093783941836.png",
             "IsAvailable": true
           },
           {
