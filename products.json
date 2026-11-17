@@ -1700,12 +1700,12 @@
             "IsAvailable": false
           },
           {
-            "MarketName": "القافلة",
-            "SizeName": "250 غ",
-            "Price": 0,
-            "Unit": "عبوة",
+            "MarketName": "شاي 250غ القافلة1",
+            "SizeName": "شاي 250غ القافلة1",
+            "Price": 375,
+            "Unit": "عبوة 250غ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
