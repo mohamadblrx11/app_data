@@ -4864,15 +4864,15 @@
     "Items": [
       {
         "Name": "خزانة بابين",
-        "Description": "الطلب يكون 47 ساعة قبل موعد التسليم",
+        "Description": "الصورة 001 بفيسبوك التطبيق على رمز \"i\" / اطلب ونتصل بك في أقرب وقت",
         "Variations": [
           {
-            "MarketName": "خزانة بابين",
-            "SizeName": "خزانة بابين 001",
+            "MarketName": "الخدمة 01: 0657407408",
+            "SizeName": "الخدمة 02: 0658499497",
             "Price": 0,
             "Unit": "خزانة بابين",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false
           },
           {
             "MarketName": "خزانة بابين",
