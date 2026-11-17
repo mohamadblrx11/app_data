@@ -4883,6 +4883,39 @@
   {
     "CategoryName": "TestStock",
     "Icon": "\uD83D\uDECD️",
-    "Items": []
+    "Items": [
+      {
+        "Name": "TestItem",
+        "Description": "",
+        "Variations": [
+          {
+            "MarketName": "TestMarket",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "TestMarket",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "TestMarket",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true,
+            "Stock": 5
+          }
+        ]
+      }
+    ]
   }
 ]
