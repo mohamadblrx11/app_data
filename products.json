@@ -1338,10 +1338,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "المرجان",
-            "SizeName": "500غ",
-            "Price": 0,
-            "Unit": "عبوة",
+            "MarketName": "عسيلة 500غ المرجان",
+            "SizeName": "عسيلة 500غ المرجان",
+            "Price": 105,
+            "Unit": "عبوة 500غ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305089791261104.png",
             "IsAvailable": true
           },
