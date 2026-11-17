@@ -1194,11 +1194,11 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "125غ",
+            "MarketName": "خميرة خبز 125 صاف",
+            "SizeName": "خميرة خبز 125 صاف",
             "Price": 145,
-            "Unit": "عبوة",
-            "ImagePath": "",
+            "Unit": "عبوة 125غ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305099491069958.png",
             "IsAvailable": true
           },
           {
