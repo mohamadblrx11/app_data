@@ -1180,11 +1180,11 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "10غ",
+            "MarketName": "خميرة قاطو كميائية 10غ نوارة",
+            "SizeName": "خميرة قاطو كميائية 10غ نوارة",
             "Price": 10,
             "Unit": "كيس صغير",
-            "ImagePath": "",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305107988033821.png",
             "IsAvailable": true
           }
         ]
