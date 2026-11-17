@@ -2646,20 +2646,6 @@
         ]
       },
       {
-        "Name": "دجاج",
-        "Description": "وطني",
-        "Variations": [
-          {
-            "MarketName": "ميزان",
-            "SizeName": "جديد",
-            "Price": 450,
-            "Unit": "كغ",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639293848310186960.png",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "لحم غنمي",
         "Description": "جيقو وفيلي نعجة صغيرة",
         "Variations": [
