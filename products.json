@@ -1166,11 +1166,11 @@
         "Description": "البطاقة ** على فيسبوك: البانقا Elbenga",
         "Variations": [
           {
-            "MarketName": "الوردة الذهبية",
-            "SizeName": "10غ",
+            "MarketName": "سكر فاني 5غ نوارة",
+            "SizeName": "سكر فاني 5غ نوارة",
             "Price": 5,
-            "Unit": "كيس صغير",
-            "ImagePath": "",
+            "Unit": "كيس صغير 5غ",
+            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639305110870555435.png",
             "IsAvailable": true
           }
         ]
