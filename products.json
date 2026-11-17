@@ -2118,6 +2118,14 @@
             "Unit": "عبوة 500غ",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "محمصة 500غ سفينة",
+            "SizeName": "محمصة 500غ سفينة",
+            "Price": 85,
+            "Unit": "عبوة 500غ",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
