@@ -2645,8 +2645,8 @@
         ]
       },
       {
-        "Name": "قصابة البانقا",
-        "Description": "0562333265",
+        "Name": "القصابة المركزية النموذجية",
+        "Description": "اضغط على علامة + لإضافة المطلوب للسلة",
         "Variations": [
           {
             "MarketName": "اضغط هنا لتظهر الأصناف",
@@ -2654,7 +2654,8 @@
             "Price": 562333265,
             "Unit": "للاتصال والتواصل",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "التوصيل",
@@ -2662,7 +2663,8 @@
             "Price": 562333265,
             "Unit": "تفاوضيا حسب المنطقة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "خدمات الحظيرة والأضاحي مع المناسبات",
@@ -2702,7 +2704,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "خدمات الحظيرة والأضاحي مع المناسبات",
@@ -2734,7 +2737,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "خدمات الحظيرة والأضاحي مع المناسبات",
@@ -2942,7 +2946,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2950,7 +2955,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2958,7 +2964,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2966,7 +2973,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2974,7 +2982,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2982,7 +2991,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2990,7 +3000,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -2998,7 +3009,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3006,7 +3018,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3014,7 +3027,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3022,7 +3036,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3030,7 +3045,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3038,7 +3054,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3046,7 +3063,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3054,7 +3072,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3062,7 +3081,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3070,7 +3090,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3078,7 +3099,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3086,7 +3108,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3094,7 +3117,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3102,7 +3126,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3110,7 +3135,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3118,7 +3144,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3126,7 +3153,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3134,7 +3162,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3142,7 +3171,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3150,7 +3180,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3158,7 +3189,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "",
@@ -3166,7 +3198,8 @@
             "Price": 0,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       }
