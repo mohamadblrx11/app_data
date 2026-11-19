@@ -4,36 +4,6 @@
     "Icon": "\uD83C\uDF2E\uD83C\uDF57\uD83C\uDF55\uD83C\uDF70",
     "Items": [
       {
-        "Name": "جوكينق دافئ للاطفال",
-        "Description": "المنشور ** على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
-        "Variations": [
-          {
-            "MarketName": "أميري جودة عالية بخياطة مزدوجة",
-            "SizeName": "4 سنوات",
-            "Price": 1780,
-            "Unit": "بدلة كاملة",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290443708357287.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أميري جودة عالية بخياطة مزدوجة",
-            "SizeName": "6 سنوات",
-            "Price": 1780,
-            "Unit": "بدلة كاملة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "أميري جودة عالية بخياطة مزدوجة",
-            "SizeName": "8 سنوات",
-            "Price": 1780,
-            "Unit": "بدلة كاملة",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "جاكيت و بودي وسروال",
         "Description": "المنشور ** على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
