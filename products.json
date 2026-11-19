@@ -3214,14 +3214,6 @@
             "Unit": "وحدة",
             "ImagePath": "",
             "IsAvailable": true
-          },
-          {
-            "MarketName": "بيض عرب",
-            "SizeName": "بلاكة",
-            "Price": 520,
-            "Unit": "وحدة",
-            "ImagePath": "",
-            "IsAvailable": true
           }
         ]
       }
