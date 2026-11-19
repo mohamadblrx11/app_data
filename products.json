@@ -3202,6 +3202,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بيض بلدي (عرب)",
+        "Description": "بلاكة",
+        "Variations": [
+          {
+            "MarketName": "بيض عرب",
+            "SizeName": "بلاكة",
+            "Price": 520,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
