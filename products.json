@@ -3302,6 +3302,21 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شخشوخة",
+        "Description": "عامة",
+        "Variations": [
+          {
+            "MarketName": "شخشوخة",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "كيش",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
