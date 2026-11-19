@@ -3274,6 +3274,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جلبانة",
+        "Description": "مجمدة",
+        "Variations": [
+          {
+            "MarketName": "جلبانة مجمدة",
+            "SizeName": "400 غ",
+            "Price": 240,
+            "Unit": "كيس",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
