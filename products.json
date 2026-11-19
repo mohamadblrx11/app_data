@@ -17,6 +17,21 @@
             "Stock": 10
           }
         ]
+      },
+      {
+        "Name": "الركن الشامي",
+        "Description": "الشاورما والأكلات السورية والشرقية",
+        "Variations": [
+          {
+            "MarketName": "شاورما",
+            "SizeName": "طبق",
+            "Price": 0,
+            "Unit": "طبق",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
