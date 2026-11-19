@@ -19,14 +19,14 @@
         ]
       },
       {
-        "Name": "الركن الشامي",
-        "Description": "الشاورما والأكلات السورية والشرقية",
+        "Name": "المستلزمات المطلوبة",
+        "Description": "ملاعق/مناديل/علب/غيرها",
         "Variations": [
           {
-            "MarketName": "شاورما",
-            "SizeName": "طبق",
-            "Price": 0,
-            "Unit": "طبق",
+            "MarketName": "علبة حفظ الوجبة",
+            "SizeName": "علبة كرتونية كبيرة",
+            "Price": 50,
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
