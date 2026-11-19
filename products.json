@@ -32,6 +32,21 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "لمة الأحباب",
+        "Description": "مطعم عام",
+        "Variations": [
+          {
+            "MarketName": "سندويتش",
+            "SizeName": "فريت",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
