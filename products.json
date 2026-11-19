@@ -3288,6 +3288,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جلبانة مجمدة",
+        "Description": "كغ عامة",
+        "Variations": [
+          {
+            "MarketName": "جلبانة مجمدة",
+            "SizeName": "كغ",
+            "Price": 570,
+            "Unit": "كيس",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
