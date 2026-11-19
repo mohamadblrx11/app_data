@@ -2,38 +2,7 @@
   {
     "CategoryName": "مطعم (وجبة/سندويتش)",
     "Icon": "\uD83C\uDF2E\uD83C\uDF57\uD83C\uDF55\uD83C\uDF70",
-    "Items": [
-      {
-        "Name": "بطانية مولود جديد (للرضيع)",
-        "Description": "المنشور 19 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
-        "Variations": [
-          {
-            "MarketName": "غطاء للمولود الجديد (الرضيع)",
-            "SizeName": "لون أزرق",
-            "Price": 1000,
-            "Unit": "قطعة",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290452417215035.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "غطاء للمولود الجديد (الرضيع)",
-            "SizeName": "لون بني",
-            "Price": 1000,
-            "Unit": "بطانية (غطاء)",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "غطاء للمولود الجديد (الرضيع)",
-            "SizeName": "لون وردي",
-            "Price": 1000,
-            "Unit": "غطاء (بطانية)",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "اواني منزلية",
