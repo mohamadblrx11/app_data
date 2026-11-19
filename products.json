@@ -3260,6 +3260,20 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "جلبانة",
+        "Description": "مجمدة",
+        "Variations": [
+          {
+            "MarketName": "جلبانة مجمدة",
+            "SizeName": "300غ",
+            "Price": 215,
+            "Unit": "كيس",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
