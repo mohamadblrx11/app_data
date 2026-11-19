@@ -4,44 +4,6 @@
     "Icon": "\uD83C\uDF2E\uD83C\uDF57\uD83C\uDF55\uD83C\uDF70",
     "Items": [
       {
-        "Name": "جاكيت و بودي وسروال",
-        "Description": "المنشور ** على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
-        "Variations": [
-          {
-            "MarketName": "المولود الجديد (الرضيع)",
-            "SizeName": "لون أخضر",
-            "Price": 1050,
-            "Unit": "طقم",
-            "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639290449427024084.png",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "المولود الجديد (الرضيع)",
-            "SizeName": "لون أزرق",
-            "Price": 1050,
-            "Unit": "طقم كامل",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "المولود الجديد (الرضيع)",
-            "SizeName": "لون زيتوني",
-            "Price": 1050,
-            "Unit": "طقم",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "المولود الجديد (الرضيع)",
-            "SizeName": "لون وردي",
-            "Price": 1050,
-            "Unit": "طقم كامل",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "بطانية مولود جديد (للرضيع)",
         "Description": "المنشور 19 على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
