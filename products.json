@@ -2,7 +2,23 @@
   {
     "CategoryName": "مطعم (وجبة/سندويتش)",
     "Icon": "\uD83C\uDF2E\uD83C\uDF57\uD83C\uDF55\uD83C\uDF70",
-    "Items": []
+    "Items": [
+      {
+        "Name": "مستحقات التوصيل والتحصيل",
+        "Description": "أساسية ليصلك طلبك في المكان والزمان المحددين بولاية غرداية",
+        "Variations": [
+          {
+            "MarketName": "أضفها للسلة لتصلك مشترياتك المطلوبة كاملة في الموعد",
+            "SizeName": "سلة مشترباتك المطلوبة",
+            "Price": 50,
+            "Unit": "سلة المشتريات كاملة",
+            "ImagePath": "",
+            "IsAvailable": true,
+            "Stock": 10
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "اواني منزلية",
