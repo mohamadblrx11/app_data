@@ -3216,6 +3216,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بيض احمر",
+        "Description": "بلاكة",
+        "Variations": [
+          {
+            "MarketName": "بيض أحمر",
+            "SizeName": "بلاكة",
+            "Price": 520,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
