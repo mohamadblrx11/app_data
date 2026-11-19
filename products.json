@@ -3332,6 +3332,21 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "ديول سميد صحي",
+        "Description": "عام",
+        "Variations": [
+          {
+            "MarketName": "ديول سميد صحي",
+            "SizeName": "عام",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
