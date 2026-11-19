@@ -3245,6 +3245,21 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بيض السمان",
+        "Description": "وحدة",
+        "Variations": [
+          {
+            "MarketName": "بيض السمان",
+            "SizeName": "وحدة",
+            "Price": 0,
+            "Unit": "وحدة 00 بيضة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
