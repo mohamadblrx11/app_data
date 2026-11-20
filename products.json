@@ -3510,6 +3510,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كاشير",
+        "Description": "باتي فرماج",
+        "Variations": [
+          {
+            "MarketName": "كشير باتي فرماج",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
