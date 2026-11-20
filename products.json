@@ -2635,15 +2635,6 @@
         "Description": "اضغط على علامة + لإضافة المطلوب للسلة",
         "Variations": [
           {
-            "MarketName": "اضغط هنا لتظهر الأصناف",
-            "SizeName": "اختر من هنا التصنيف المطلوب وأضفه للسلة",
-            "Price": 562333265,
-            "Unit": "للاتصال والتواصل",
-            "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
-          },
-          {
             "MarketName": "التوصيل",
             "SizeName": "تفاوضي",
             "Price": 562333265,
