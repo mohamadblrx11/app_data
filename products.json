@@ -121,6 +121,38 @@
             "Unit": "وجبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "لحم مع الشلاطة المتوبلة",
+            "Price": 1600,
+            "Unit": "قطعة كوجبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ماء",
+            "SizeName": "صغير",
+            "Price": 30,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ماء",
+            "SizeName": "كبير",
+            "Price": 50,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "صغير",
+            "Price": 50,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
