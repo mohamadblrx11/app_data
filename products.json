@@ -3330,17 +3330,16 @@
         ]
       },
       {
-        "Name": "ديول سميد صحي",
-        "Description": "عام",
+        "Name": "جمبو دجاج",
+        "Description": "مكعبات",
         "Variations": [
           {
-            "MarketName": "ديول سميد صحي",
-            "SizeName": "عام",
-            "Price": 0,
-            "Unit": "عبوة",
+            "MarketName": "جمبو دجاج",
+            "SizeName": "مكعبات",
+            "Price": 15,
+            "Unit": "مكعب",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       }
