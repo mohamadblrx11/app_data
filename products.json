@@ -153,6 +153,38 @@
             "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "سيلكتو 1ل",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "سافن آب / سبرايت",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "كانيت",
+            "Price": 100,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "2 ل",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
