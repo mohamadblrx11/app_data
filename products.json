@@ -4119,14 +4119,14 @@
         ]
       },
       {
-        "Name": "شحم",
-        "Description": "مرحي",
+        "Name": "التونة المعلبة",
+        "Description": "زيت",
         "Variations": [
           {
-            "MarketName": "شحم مرحي",
-            "SizeName": "نصف رطل",
+            "MarketName": "تونة علب زيت",
+            "SizeName": "70غ",
             "Price": 0,
-            "Unit": "250غ/ميزان",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
