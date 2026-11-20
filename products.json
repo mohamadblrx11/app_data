@@ -3767,6 +3767,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم ماعز",
+        "Description": "عام",
+        "Variations": [
+          {
+            "MarketName": "لحم ماعز",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
