@@ -4047,6 +4047,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "التونة",
+        "Description": "المعلبة",
+        "Variations": [
+          {
+            "MarketName": "تونة معلبة طماطم",
+            "SizeName": "80غ",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
