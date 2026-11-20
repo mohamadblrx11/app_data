@@ -3571,6 +3571,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كركاس",
+        "Description": "دجاج",
+        "Variations": [
+          {
+            "MarketName": "كركاس دجاج",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
