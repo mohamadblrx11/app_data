@@ -4049,14 +4049,14 @@
         ]
       },
       {
-        "Name": "التونة",
-        "Description": "المعلبة",
+        "Name": "سىمك",
+        "Description": "ميزان اللاتشة",
         "Variations": [
           {
-            "MarketName": "تونة معلبة طماطم",
-            "SizeName": "80غ",
+            "MarketName": "سمك ميزان عام",
+            "SizeName": "نصف رطل",
             "Price": 0,
-            "Unit": "علبة",
+            "Unit": "250غ/ميزان",
             "ImagePath": "",
             "IsAvailable": true
           }
