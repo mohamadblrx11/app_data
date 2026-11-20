@@ -376,6 +376,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "الأجبان والألبان",
+        "Description": "التمر والحليب ومشتقاته",
+        "Variations": [
+          {
+            "MarketName": "دقلة",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "250غ ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
