@@ -3342,6 +3342,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جمبو دجاج",
+        "Description": "كيس",
+        "Variations": [
+          {
+            "MarketName": "جمبو دجاج",
+            "SizeName": "كيس",
+            "Price": 10,
+            "Unit": "كيس",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
