@@ -3809,6 +3809,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ستاك",
+        "Description": "غنمي",
+        "Variations": [
+          {
+            "MarketName": "ستاك غنمي",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
