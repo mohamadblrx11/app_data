@@ -3370,6 +3370,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جمبو خروف",
+        "Description": "كيس",
+        "Variations": [
+          {
+            "MarketName": "جمبو خروف",
+            "SizeName": "كيس",
+            "Price": 10,
+            "Unit": "كيس",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
