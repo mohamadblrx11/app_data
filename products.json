@@ -4033,6 +4033,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سمك",
+        "Description": "ميزان",
+        "Variations": [
+          {
+            "MarketName": "سمك اللاتشة",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
