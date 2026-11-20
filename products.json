@@ -97,6 +97,30 @@
             "Unit": "وحدة كاملة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع الشلاطة المتوبلة",
+            "Price": 400,
+            "Unit": "وجبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع الفريت والشلاطة المتوبلة",
+            "Price": 500,
+            "Unit": "وجبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع الأرز والشلاطة المتوبلة",
+            "Price": 550,
+            "Unit": "وجبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
