@@ -3823,6 +3823,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "دوارة غنمي",
+        "Description": "نعجة",
+        "Variations": [
+          {
+            "MarketName": "دوارة نعجة",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
