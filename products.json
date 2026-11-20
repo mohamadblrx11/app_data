@@ -219,6 +219,21 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "الماندي",
+        "Description": "دجاج ولحم وزليف مردوم مع وجبات لذيذة ومتنوعة",
+        "Variations": [
+          {
+            "MarketName": "ماندي",
+            "SizeName": "دجاجة كاملة",
+            "Price": 0,
+            "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
