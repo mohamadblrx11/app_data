@@ -3879,6 +3879,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم",
+        "Description": "بقري",
+        "Variations": [
+          {
+            "MarketName": "لحم بقري",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
