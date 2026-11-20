@@ -3979,14 +3979,14 @@
         ]
       },
       {
-        "Name": "سمك",
-        "Description": "مجمد",
+        "Name": "شحم",
+        "Description": "كلى",
         "Variations": [
           {
-            "MarketName": "سمك مجمد",
-            "SizeName": "كغ",
+            "MarketName": "شحم كلى",
+            "SizeName": "نصف رطل",
             "Price": 0,
-            "Unit": "كغ/ميزان",
+            "Unit": "250غ/ميزان",
             "ImagePath": "",
             "IsAvailable": true
           }
