@@ -405,6 +405,21 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "العام",
+        "Description": "قائمة كل موجودات هذا القسم أسفله من الوجبات للسندويتشات فالحلويات والمشروبات ومستلزمات التعبئة",
+        "Variations": [
+          {
+            "MarketName": "قيد الإنشاء",
+            "SizeName": "قيد الإنشاء",
+            "Price": 0,
+            "Unit": "قيد الانشاء",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
