@@ -3965,14 +3965,14 @@
         ]
       },
       {
-        "Name": "لحم",
-        "Description": "مجمد",
+        "Name": "شحم",
+        "Description": "ردى",
         "Variations": [
           {
-            "MarketName": "لحم مجمد",
-            "SizeName": "كغ",
+            "MarketName": "شحم ردى",
+            "SizeName": "نصف رطل",
             "Price": 0,
-            "Unit": "كلغ/ميزان",
+            "Unit": "250غ/ميزان",
             "ImagePath": "",
             "IsAvailable": true
           }
