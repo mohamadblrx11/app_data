@@ -3440,6 +3440,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ديول حار",
+        "Description": "خالتي",
+        "Variations": [
+          {
+            "MarketName": "ديول خالتي حار",
+            "SizeName": "عبوة",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
