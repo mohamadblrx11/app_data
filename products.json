@@ -3524,6 +3524,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "دجاج",
+        "Description": "وزن الدجاجة من 2كلغ",
+        "Variations": [
+          {
+            "MarketName": "دجاج",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "كغ / ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
