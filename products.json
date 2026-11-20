@@ -4063,14 +4063,14 @@
         ]
       },
       {
-        "Name": "التونة معلبة",
-        "Description": "زيت",
+        "Name": "سردين",
+        "Description": "ميزان",
         "Variations": [
           {
-            "MarketName": "تونة علب زيت",
-            "SizeName": "70غ",
+            "MarketName": "سردين ميزان",
+            "SizeName": "نصف رطل",
             "Price": 0,
-            "Unit": "علبة",
+            "Unit": "250غ/ميزان",
             "ImagePath": "",
             "IsAvailable": true
           }
