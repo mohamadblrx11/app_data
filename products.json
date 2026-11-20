@@ -13,8 +13,8 @@
             "Price": 50,
             "Unit": "سلة المشتريات كاملة",
             "ImagePath": "",
-            "IsAvailable": true,
-            "Stock": 10
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
