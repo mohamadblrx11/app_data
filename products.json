@@ -3309,10 +3309,9 @@
             "MarketName": "شخشوخة",
             "SizeName": "كغ",
             "Price": 0,
-            "Unit": "كيش",
+            "Unit": "كيس",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       },
