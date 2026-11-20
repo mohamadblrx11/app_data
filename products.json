@@ -4117,6 +4117,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شحم",
+        "Description": "مرحي",
+        "Variations": [
+          {
+            "MarketName": "شحم مرحي",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
