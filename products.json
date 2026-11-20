@@ -3781,6 +3781,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم غنمي",
+        "Description": "خروف",
+        "Variations": [
+          {
+            "MarketName": "لحم خروف",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
