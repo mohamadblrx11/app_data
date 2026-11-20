@@ -3697,6 +3697,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كانزة",
+        "Description": "كانزة",
+        "Variations": [
+          {
+            "MarketName": "كانزة",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "كغ / ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
