@@ -69,6 +69,38 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "بيزا كاري",
+            "SizeName": "حبة",
+            "Price": 50,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميني بيزا",
+            "SizeName": "حبة",
+            "Price": 50,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "كوكا",
+            "SizeName": "حبة",
+            "Price": 50,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سوفلي",
+            "SizeName": "حبة",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
