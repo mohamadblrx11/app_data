@@ -3482,6 +3482,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كشير",
+        "Description": "عادي",
+        "Variations": [
+          {
+            "MarketName": "كاشير عادي عام",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500 غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
