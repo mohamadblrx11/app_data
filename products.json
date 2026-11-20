@@ -3993,14 +3993,14 @@
         ]
       },
       {
-        "Name": "سردين",
-        "Description": "ميزان",
+        "Name": "شحم",
+        "Description": "مرحي",
         "Variations": [
           {
-            "MarketName": "سردين",
-            "SizeName": "رطل",
+            "MarketName": "شحم مرحي",
+            "SizeName": "نصف رطل",
             "Price": 0,
-            "Unit": "500غ/ميزان",
+            "Unit": "250غ/ميزان",
             "ImagePath": "",
             "IsAvailable": true
           }
