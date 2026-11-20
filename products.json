@@ -73,6 +73,14 @@
             "Unit": "وحدة كاملة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع السلطة المتوبلة",
+            "Price": 400,
+            "Unit": "وجبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
