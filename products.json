@@ -3991,6 +3991,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سردين",
+        "Description": "عام",
+        "Variations": [
+          {
+            "MarketName": "سردين",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
