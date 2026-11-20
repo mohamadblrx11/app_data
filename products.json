@@ -3893,6 +3893,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "هبرة",
+        "Description": "بقري",
+        "Variations": [
+          {
+            "MarketName": "هبرة بقري",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
