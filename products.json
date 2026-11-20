@@ -217,6 +217,54 @@
             "Unit": "قارورة/عبوة معلبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "حار",
+            "Price": 0,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "حار زيادة (مرقد أو هريسة أو حميص)",
+            "Price": 0,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "زيت زيتون ليمون",
+            "Price": 0,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "برتقال",
+            "Price": 0,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "تفاح",
+            "Price": 0,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "موز",
+            "Price": 0,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
