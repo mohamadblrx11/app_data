@@ -53,17 +53,9 @@
         "Description": "كل أنواع البيتزا",
         "Variations": [
           {
-            "MarketName": "بيزا مرغريتا",
-            "SizeName": "قطعة من 10 قطع",
-            "Price": 0,
-            "Unit": "من أجل بيزا كاملة اكتب 10 بالكمية",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
             "MarketName": "التوصيل",
-            "SizeName": "لباب الدار",
-            "Price": 90,
+            "SizeName": "لعين المكان",
+            "Price": 50,
             "Unit": "المطلوب كاملا",
             "ImagePath": "",
             "IsAvailable": true
