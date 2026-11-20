@@ -3795,6 +3795,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم غنمي",
+        "Description": "نعجة",
+        "Variations": [
+          {
+            "MarketName": "لحم نعجة",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
