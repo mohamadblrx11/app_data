@@ -3963,6 +3963,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم",
+        "Description": "مجمد",
+        "Variations": [
+          {
+            "MarketName": "لحم مجمد",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "كلغ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
