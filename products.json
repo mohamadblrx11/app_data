@@ -125,9 +125,57 @@
             "IsAvailable": true
           },
           {
+            "MarketName": "حار زيادة",
+            "SizeName": "مرقد أو هريسة أو حميص (المتاح)",
+            "Price": 65,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "زيت زيتون",
+            "SizeName": "قارورة صغيرة",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ليمون",
+            "SizeName": "حبة",
+            "Price": 65,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "برتقال",
+            "SizeName": "حبة",
+            "Price": 65,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "تفاح",
+            "SizeName": "حبة",
+            "Price": 100,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "موز",
+            "SizeName": "حبة",
+            "Price": 150,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
             "MarketName": "ماء",
             "SizeName": "صغير",
-            "Price": 30,
+            "Price": 35,
             "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
@@ -145,54 +193,6 @@
             "SizeName": "صغير",
             "Price": 50,
             "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
-            "SizeName": "سيلكتو 1ل",
-            "Price": 100,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
-            "SizeName": "سافن آب / سبرايت",
-            "Price": 100,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
-            "SizeName": "كانيت",
-            "Price": 100,
-            "Unit": "عبوة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
-            "SizeName": "2 ل",
-            "Price": 100,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
-            "SizeName": "1 ل",
-            "Price": 65,
-            "Unit": "قارورة/عبوة معلبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عصير",
-            "SizeName": "1 ل",
-            "Price": 100,
-            "Unit": "قارورة/عبوة معلبة",
             "ImagePath": "",
             "IsAvailable": true
           },
