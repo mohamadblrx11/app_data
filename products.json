@@ -3384,6 +3384,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ديول سميد صحي",
+        "Description": "عبوة",
+        "Variations": [
+          {
+            "MarketName": "ديول سميد صحي",
+            "SizeName": "عبوة",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
