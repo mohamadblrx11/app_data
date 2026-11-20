@@ -67,18 +67,18 @@
         "Description": "دجاج ولحم بالسلطة ووجبات ملحقة",
         "Variations": [
           {
-            "MarketName": "ميناما",
-            "SizeName": "دجاجة كاملة مع سلطة متوبلة",
-            "Price": 1400,
+            "MarketName": "التوصيل",
+            "SizeName": "لياب الدار",
+            "Price": 180,
             "Unit": "وحدة كاملة",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
             "MarketName": "ميناما",
-            "SizeName": "ربع دجاجة مع السلطة المتوبلة",
-            "Price": 400,
-            "Unit": "وجبة",
+            "SizeName": "دجاجة كاملة مع الشلاطة المتوبلة",
+            "Price": 1400,
+            "Unit": "وحدة كاملة",
             "ImagePath": "",
             "IsAvailable": true
           }
