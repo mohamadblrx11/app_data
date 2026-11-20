@@ -3557,6 +3557,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جنحة ورقبة",
+        "Description": "دجاح",
+        "Variations": [
+          {
+            "MarketName": "جنحة ورقبة دجاج",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
