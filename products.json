@@ -197,26 +197,26 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "عصير",
-            "SizeName": "صغير",
-            "Price": 35,
-            "Unit": "قارورة/عبوة معلبة",
+            "MarketName": "قازوز",
+            "SizeName": "سليكتو 1 ل",
+            "Price": 100,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "عصير",
-            "SizeName": "2 ل",
-            "Price": 200,
-            "Unit": "قارورة/عبوة معلبة",
+            "MarketName": "قازوز",
+            "SizeName": "1 ل سافن آب أو سبرايت (المتاح)",
+            "Price": 100,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "عصير",
-            "SizeName": "حار",
-            "Price": 0,
-            "Unit": "قارورة/عبوة معلبة",
+            "MarketName": "قازوز",
+            "SizeName": "كانيت",
+            "Price": 100,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           },
