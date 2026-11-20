@@ -4131,6 +4131,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "دجاح مشوي",
+        "Description": "من أجل دجاجة كاملة حدد 4 بالكمية",
+        "Variations": [
+          {
+            "MarketName": "دجاح مشوي",
+            "SizeName": "ربع دجاجة",
+            "Price": 0,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
