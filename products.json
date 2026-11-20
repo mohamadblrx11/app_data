@@ -234,6 +234,21 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "الركن الشامي",
+        "Description": "الشاورما والأكلات السورية والشرقية المشهورة",
+        "Variations": [
+          {
+            "MarketName": "شاورما",
+            "SizeName": "سندويتش",
+            "Price": 0,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
