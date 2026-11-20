@@ -3907,6 +3907,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ستاك",
+        "Description": "بقري",
+        "Variations": [
+          {
+            "MarketName": "ستاك بقري",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
