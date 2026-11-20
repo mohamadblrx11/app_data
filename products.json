@@ -4005,6 +4005,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سرجين",
+        "Description": "معلب",
+        "Variations": [
+          {
+            "MarketName": "سردين معلب طماطم",
+            "SizeName": "170غ",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
