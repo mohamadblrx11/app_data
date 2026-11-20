@@ -4050,10 +4050,10 @@
       },
       {
         "Name": "سىمك",
-        "Description": "ميزان اللاتشة",
+        "Description": "ميزان عام",
         "Variations": [
           {
-            "MarketName": "سمك ميزان عام",
+            "MarketName": "سمك اللاتشة ميزان",
             "SizeName": "نصف رطل",
             "Price": 0,
             "Unit": "250غ/ميزان",
