@@ -58,7 +58,8 @@
             "Price": 50,
             "Unit": "المطلوب كاملا",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "بيزا مرغريتا",
@@ -66,7 +67,8 @@
             "Price": 0,
             "Unit": "من أجل بيزا كاملة اكتب 10 بالكمية",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
