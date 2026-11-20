@@ -362,6 +362,20 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "البسكويت والشكولاطة",
+        "Description": "كل الأنواع",
+        "Variations": [
+          {
+            "MarketName": "قاطو",
+            "SizeName": "تانغو",
+            "Price": 150,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
