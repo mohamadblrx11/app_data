@@ -3627,6 +3627,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "داند",
+        "Description": "لحم",
+        "Variations": [
+          {
+            "MarketName": "داند",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "كغ/ ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
