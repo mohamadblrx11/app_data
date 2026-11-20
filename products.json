@@ -3356,6 +3356,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جمبو خروف",
+        "Description": "مكعبات",
+        "Variations": [
+          {
+            "MarketName": "جمبو خروف",
+            "SizeName": "مكعبات",
+            "Price": 15,
+            "Unit": "مكعب",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
