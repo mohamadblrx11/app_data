@@ -185,6 +185,30 @@
             "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "1 ل",
+            "Price": 100,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "صغير",
+            "Price": 35,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "2 ل",
+            "Price": 200,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       }
