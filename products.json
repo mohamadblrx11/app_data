@@ -4091,14 +4091,14 @@
         ]
       },
       {
-        "Name": "شحم",
-        "Description": "ردى",
+        "Name": "سردين علب",
+        "Description": "زيت",
         "Variations": [
           {
-            "MarketName": "شحم ردى",
-            "SizeName": "نصف رطل",
+            "MarketName": "سردين زيت معلب",
+            "SizeName": "170غ",
             "Price": 0,
-            "Unit": "250غ/ميزان",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
