@@ -3529,6 +3529,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كويس",
+        "Description": "دجاج",
+        "Variations": [
+          {
+            "MarketName": "كويس دجاج",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
