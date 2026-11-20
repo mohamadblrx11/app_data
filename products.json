@@ -4019,6 +4019,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سردين معلب",
+        "Description": "زيت",
+        "Variations": [
+          {
+            "MarketName": "سردين معلب زيت",
+            "SizeName": "170غ",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
