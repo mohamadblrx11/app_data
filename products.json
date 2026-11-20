@@ -3613,6 +3613,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ليزابا",
+        "Description": "دجاح",
+        "Variations": [
+          {
+            "MarketName": "ليزابا",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
