@@ -4077,14 +4077,14 @@
         ]
       },
       {
-        "Name": "لحم",
-        "Description": "مرحي",
+        "Name": "سردين",
+        "Description": "معلب",
         "Variations": [
           {
-            "MarketName": "لحم مرحي",
-            "SizeName": "نصف رطل",
+            "MarketName": "سردين طماطم معلب",
+            "SizeName": "170غ",
             "Price": 0,
-            "Unit": "250غ/ميزان",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
