@@ -3454,6 +3454,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مرقاز",
+        "Description": "ممتاز",
+        "Variations": [
+          {
+            "MarketName": "مرقاز",
+            "SizeName": "وزنة 100غ",
+            "Price": 0,
+            "Unit": "وزنة 100غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
