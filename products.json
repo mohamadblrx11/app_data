@@ -3496,6 +3496,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كشير باتي",
+        "Description": "حار",
+        "Variations": [
+          {
+            "MarketName": "كاشير باتي حار",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
