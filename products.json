@@ -3213,8 +3213,7 @@
             "Price": 980,
             "Unit": "وحدة",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       },
