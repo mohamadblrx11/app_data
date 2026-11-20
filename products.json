@@ -4145,6 +4145,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "دجاج على الجمر",
+        "Description": "من أجل دجاجة كاملة حدد 4 بالكمية",
+        "Variations": [
+          {
+            "MarketName": "دجاج على الجمر",
+            "SizeName": "ربع دجاجة",
+            "Price": 0,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
