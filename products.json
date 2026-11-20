@@ -391,6 +391,20 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "المشروبات والعصائر",
+        "Description": "كل الأنواع مع الماء والحليب",
+        "Variations": [
+          {
+            "MarketName": "ليتبول",
+            "SizeName": "قارورة فردية",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
