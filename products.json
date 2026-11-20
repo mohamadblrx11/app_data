@@ -3921,6 +3921,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "دوارة",
+        "Description": "بقري",
+        "Variations": [
+          {
+            "MarketName": "دوارة بقري",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
