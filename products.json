@@ -306,6 +306,39 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "الخباز",
+        "Description": "كل أنواع الخبز والمسمن والمحاجب والمغلوقة",
+        "Variations": [
+          {
+            "MarketName": "التوصيل",
+            "SizeName": "لعين المكان",
+            "Price": 50,
+            "Unit": "المطلوب كاملا",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "مغلوقة",
+            "SizeName": "حبة",
+            "Price": 180,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "مغلوقة",
+            "SizeName": "حبة حارة",
+            "Price": 250,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
