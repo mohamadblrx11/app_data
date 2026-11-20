@@ -3585,6 +3585,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كانزة",
+        "Description": "دجاج",
+        "Variations": [
+          {
+            "MarketName": "كانزة",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
