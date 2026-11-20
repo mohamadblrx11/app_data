@@ -3683,6 +3683,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كركاس",
+        "Description": "كركاس",
+        "Variations": [
+          {
+            "MarketName": "كركاس",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
