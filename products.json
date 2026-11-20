@@ -76,7 +76,8 @@
             "Price": 50,
             "Unit": "وحدة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "ميني بيزا",
@@ -84,7 +85,8 @@
             "Price": 50,
             "Unit": "وحدة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "كوكا",
@@ -92,7 +94,8 @@
             "Price": 50,
             "Unit": "وحدة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "سوفلي",
