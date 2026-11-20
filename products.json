@@ -4036,13 +4036,13 @@
       },
       {
         "Name": "سمك",
-        "Description": "ميزان",
+        "Description": "مجمد",
         "Variations": [
           {
-            "MarketName": "سمك اللاتشة",
+            "MarketName": "سمك مجمد",
             "SizeName": "نصف رطل",
             "Price": 0,
-            "Unit": "250غ/ميزان",
+            "Unit": "عبوة 250ع",
             "ImagePath": "",
             "IsAvailable": true
           }
