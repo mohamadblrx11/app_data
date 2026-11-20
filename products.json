@@ -3837,6 +3837,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كبدة",
+        "Description": "غنمي",
+        "Variations": [
+          {
+            "MarketName": "كبدة غنمي",
+            "SizeName": "125غ",
+            "Price": 0,
+            "Unit": "125غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
