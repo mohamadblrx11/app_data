@@ -61,6 +61,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "الميناما",
+        "Description": "دجاج ولحم بالسلطة ووجبات ملحقة",
+        "Variations": [
+          {
+            "MarketName": "ميناما",
+            "SizeName": "دجاجة كاملة مع سلطة متوبلة",
+            "Price": 1400,
+            "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
