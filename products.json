@@ -3669,6 +3669,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "جنحة ورقبة",
+        "Description": "داند",
+        "Variations": [
+          {
+            "MarketName": "جنحة ورقبة داند",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
