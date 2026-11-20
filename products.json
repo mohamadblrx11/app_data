@@ -4061,6 +4061,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "التونة معلبة",
+        "Description": "زيت",
+        "Variations": [
+          {
+            "MarketName": "تونة علب زيت",
+            "SizeName": "70غ",
+            "Price": 0,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
