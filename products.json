@@ -3851,6 +3851,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "زليف",
+        "Description": "غنمي",
+        "Variations": [
+          {
+            "MarketName": "زليف غنمي",
+            "SizeName": "الرأس والأرجل",
+            "Price": 0,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
