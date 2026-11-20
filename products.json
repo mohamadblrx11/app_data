@@ -3255,8 +3255,7 @@
             "Price": 0,
             "Unit": "وحدة 00 بيضة",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       },
