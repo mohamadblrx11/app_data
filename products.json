@@ -3655,6 +3655,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سكالوب",
+        "Description": "داند",
+        "Variations": [
+          {
+            "MarketName": "سكالوب داند",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500غ",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
