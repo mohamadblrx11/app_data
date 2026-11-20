@@ -3412,6 +3412,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ديول حار",
+        "Description": "العائلة",
+        "Variations": [
+          {
+            "MarketName": "ديول العائلة حار",
+            "SizeName": "عبوة",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
