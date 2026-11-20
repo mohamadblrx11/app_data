@@ -187,6 +187,14 @@
             "IsAvailable": true
           },
           {
+            "MarketName": "قازوز",
+            "SizeName": "1 ل",
+            "Price": 65,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
             "MarketName": "عصير",
             "SizeName": "1 ل",
             "Price": 100,
