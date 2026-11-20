@@ -4092,10 +4092,10 @@
       },
       {
         "Name": "شحم",
-        "Description": "كلى",
+        "Description": "ردى",
         "Variations": [
           {
-            "MarketName": "شحم كلى",
+            "MarketName": "شحم ردى",
             "SizeName": "نصف رطل",
             "Price": 0,
             "Unit": "250غ/ميزان",
