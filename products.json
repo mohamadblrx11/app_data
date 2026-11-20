@@ -3711,6 +3711,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "كبدة",
+        "Description": "كبدة",
+        "Variations": [
+          {
+            "MarketName": "كبدة",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ / ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
