@@ -3753,6 +3753,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم ماعز",
+        "Description": "جدي",
+        "Variations": [
+          {
+            "MarketName": "لحم ماعز جدي",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
