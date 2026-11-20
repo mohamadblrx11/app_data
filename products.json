@@ -3949,6 +3949,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "زلبف بقري",
+        "Description": "الرأس والأرجل",
+        "Variations": [
+          {
+            "MarketName": "زليف بقري",
+            "SizeName": "الرأس والأرجل",
+            "Price": 0,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
