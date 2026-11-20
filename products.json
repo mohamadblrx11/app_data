@@ -4105,14 +4105,14 @@
         ]
       },
       {
-        "Name": "شحم",
-        "Description": "كلى",
+        "Name": "التونة",
+        "Description": "المعلبة",
         "Variations": [
           {
-            "MarketName": "شحم كلى",
-            "SizeName": "نصف رطل",
+            "MarketName": "تونة طماطم علب",
+            "SizeName": "70غ",
             "Price": 0,
-            "Unit": "250غ/ميزان",
+            "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
           }
