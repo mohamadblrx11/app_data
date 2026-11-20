@@ -3865,6 +3865,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم",
+        "Description": "مخلول",
+        "Variations": [
+          {
+            "MarketName": "لحم مخلول",
+            "SizeName": "نصف رطل",
+            "Price": 0,
+            "Unit": "250غ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
