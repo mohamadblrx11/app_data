@@ -47,6 +47,20 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "البيزا",
+        "Description": "كل أنواع البيتزا",
+        "Variations": [
+          {
+            "MarketName": "بيزا مرغريتا",
+            "SizeName": "قطعة من 10 قطع",
+            "Price": 0,
+            "Unit": "من أجل بيزا كاملة اكتب 10 بالكمية",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
