@@ -339,6 +339,29 @@
             "Stock": 0
           }
         ]
+      },
+      {
+        "Name": "الحلويات والمقبلات",
+        "Description": "ملفاي وياؤورت وما إلى ذلك",
+        "Variations": [
+          {
+            "MarketName": "ملفاي",
+            "SizeName": "حبة",
+            "Price": 50,
+            "Unit": "واحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ملفاي",
+            "SizeName": "شوكو",
+            "Price": 0,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          }
+        ]
       }
     ]
   },
