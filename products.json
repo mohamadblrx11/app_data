@@ -3426,6 +3426,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ديول",
+        "Description": "خالتي",
+        "Variations": [
+          {
+            "MarketName": "ديول خالتي",
+            "SizeName": "عبوة",
+            "Price": 0,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
