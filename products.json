@@ -3977,6 +3977,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سمك",
+        "Description": "مجمد",
+        "Variations": [
+          {
+            "MarketName": "سمك مجمد",
+            "SizeName": "كغ",
+            "Price": 0,
+            "Unit": "كغ/ميزان",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
