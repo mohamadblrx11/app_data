@@ -3739,6 +3739,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "لحم حصان",
+        "Description": "حصان",
+        "Variations": [
+          {
+            "MarketName": "لحم حصان",
+            "SizeName": "رطل",
+            "Price": 0,
+            "Unit": "500ع",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
