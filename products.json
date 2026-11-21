@@ -4792,7 +4792,8 @@
             "Price": 150,
             "Unit": "حبة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
