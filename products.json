@@ -1340,22 +1340,6 @@
             "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "6 ل",
-            "Price": 115,
-            "Unit": "دلو",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "1.5 ل",
-            "Price": 40,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
           }
         ]
       },
