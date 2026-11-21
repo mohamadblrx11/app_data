@@ -2966,6 +2966,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ميلكوسبراي",
+        "Description": "حليب مجفف علبة 500غ",
+        "Variations": [
+          {
+            "MarketName": "ميلكوسبراي",
+            "SizeName": "500غ",
+            "Price": 495,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
