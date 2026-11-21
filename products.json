@@ -5042,12 +5042,12 @@
       },
       {
         "Name": "تفاح",
-        "Description": null,
+        "Description": "",
         "Variations": [
           {
             "MarketName": "رطل",
             "SizeName": "رطل",
-            "Price": 145,
+            "Price": 200,
             "Unit": "كغ",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639298241907082056.png",
             "IsAvailable": true
