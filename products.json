@@ -4803,10 +4803,11 @@
           {
             "MarketName": "خيار أول",
             "SizeName": "ميزان",
-            "Price": 0,
+            "Price": 950,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "اختيار أول",
