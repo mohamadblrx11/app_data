@@ -5173,6 +5173,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "نعناع",
+        "Description": "ربط",
+        "Variations": [
+          {
+            "MarketName": "نعناع",
+            "SizeName": "ربطة",
+            "Price": 50,
+            "Unit": "ربطة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
