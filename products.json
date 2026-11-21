@@ -2980,6 +2980,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "ميلغرو",
+        "Description": "حليب مجفف علبة 500غ",
+        "Variations": [
+          {
+            "MarketName": "ميلغرو",
+            "SizeName": "500غ",
+            "Price": 520,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
