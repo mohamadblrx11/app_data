@@ -3008,6 +3008,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "بورجو",
+        "Description": "حليب مجفف علبة 500غ",
+        "Variations": [
+          {
+            "MarketName": "بورجو",
+            "SizeName": "500 غ",
+            "Price": 465,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
