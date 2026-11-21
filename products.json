@@ -5075,7 +5075,7 @@
           {
             "MarketName": "زيتون كاسي",
             "SizeName": "100غ زيتون كاسي",
-            "Price": 70,
+            "Price": 50,
             "Unit": "وزنة 100غ",
             "ImagePath": "",
             "IsAvailable": true
@@ -5099,7 +5099,7 @@
           {
             "MarketName": "زيتون بدون نوى",
             "SizeName": "100غ زيتون بلا علف",
-            "Price": 70,
+            "Price": 50,
             "Unit": "وزنة 100غ",
             "ImagePath": "",
             "IsAvailable": true
