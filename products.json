@@ -1296,20 +1296,12 @@
         "Description": "الطلب 47 ساعة قبل موعد التسليم",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "كغ معلب",
-            "Price": 45,
-            "Unit": "كغ معلب",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
             "MarketName": "لوطاية",
             "SizeName": "كغ معلب",
             "Price": 45,
             "Unit": "كلغ معلب",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639297379241713299.png",
-            "IsAvailable": false
+            "IsAvailable": true
           }
         ]
       },
