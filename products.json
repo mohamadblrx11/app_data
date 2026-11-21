@@ -1310,9 +1310,9 @@
         "Description": "صور المنتجات على فيسبوك \"البانقا Elbenga\"",
         "Variations": [
           {
-            "MarketName": "عام",
-            "SizeName": "5 ل",
-            "Price": 115,
+            "MarketName": "ايريس",
+            "SizeName": "6 ل",
+            "Price": 105,
             "Unit": "دلو",
             "ImagePath": "",
             "IsAvailable": true
@@ -1323,23 +1323,23 @@
             "Price": 45,
             "Unit": "قارورة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639295965180780411.png",
-            "IsAvailable": false
+            "IsAvailable": true
           },
           {
-            "MarketName": "أطلس",
-            "SizeName": "6 ل",
-            "Price": 115,
-            "Unit": "دلو",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "أطلس",
+            "MarketName": "أيرس",
             "SizeName": "1.5 ل",
             "Price": 40,
             "Unit": "قارورة",
             "ImagePath": "",
-            "IsAvailable": false
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "صومام",
+            "SizeName": "1.5 ل",
+            "Price": 35,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
           },
           {
             "MarketName": "عام",
