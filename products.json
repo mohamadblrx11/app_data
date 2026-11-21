@@ -5138,7 +5138,8 @@
             "Price": 120,
             "Unit": "كغ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
