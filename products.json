@@ -1231,7 +1231,8 @@
             "Price": 650,
             "Unit": "دلو",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639300084008198158.png",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "أوليور",
@@ -1255,7 +1256,8 @@
             "Price": 650,
             "Unit": "دلو",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639300085739291502.png",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
