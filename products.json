@@ -1400,6 +1400,14 @@
             "Unit": "قارورة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639297503633944409.png",
             "IsAvailable": false
+          },
+          {
+            "MarketName": "فرويتوس حضنة",
+            "SizeName": "1 ل",
+            "Price": 115,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
