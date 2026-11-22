@@ -53,7 +53,7 @@
         "Description": "كل أنواع البيتزا",
         "Variations": [
           {
-            "MarketName": "التوصيل",
+            "MarketName": "الطلب والتوصيل",
             "SizeName": "لعين المكان",
             "Price": 50,
             "Unit": "المطلوب كاملا",
