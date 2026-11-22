@@ -15,6 +15,14 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "الشروط/الطلب عدا الجمعة 00 غذاء عشاء",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "سلة المشتريات كاملة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
