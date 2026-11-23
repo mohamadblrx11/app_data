@@ -31,6 +31,14 @@
             "Unit": "",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "التسليم والتسلم (يوميا عدا الجمعة)",
+            "SizeName": "الغذاء: 14h30-12h00 / العشاء: 21h00-19h00",
+            "Price": 0,
+            "Unit": "",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
