@@ -18,9 +18,9 @@
           },
           {
             "MarketName": "التسليم",
-            "SizeName": "",
+            "SizeName": "الغذاء 14h30-12h00",
             "Price": 0,
-            "Unit": "سلة المشتريات كاملة",
+            "Unit": "العشاء 21h00-19h00",
             "ImagePath": "",
             "IsAvailable": true
           }
