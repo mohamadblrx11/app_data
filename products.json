@@ -5313,7 +5313,8 @@
             "Price": 350,
             "Unit": "06000000000",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "الخدمة 01",
@@ -5321,23 +5322,26 @@
             "Price": 1500,
             "Unit": "07000000000",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "شاحنة بضائع فركون 50 كلم من المنطقة العلمية غرداية ",
+            "SizeName": "شاحنة بضائع فركون 50 كلم من المنطقة العلمية غرداية",
             "Price": 2500,
             "Unit": "00000000000",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "شاحنة بضائع 3.5 طن من المنطقة العلمية غرداية ",
+            "SizeName": "شاحنة بضائع 3.5 طن من المنطقة العلمية غرداية",
             "Price": 3000,
             "Unit": "06000000000",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "الخدمة 01",
