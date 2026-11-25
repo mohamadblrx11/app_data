@@ -4083,7 +4083,8 @@
             "Price": 0,
             "Unit": "500غ",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
