@@ -3681,7 +3681,8 @@
             "Price": 980,
             "Unit": "وحدة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
