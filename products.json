@@ -991,9 +991,9 @@
         "Description": "أضفها لتصلك مشترياتك في الموعد",
         "Variations": [
           {
-            "MarketName": "سدر",
-            "SizeName": "عسل سدر 250 غ",
-            "Price": 1450,
+            "MarketName": "أساسية",
+            "SizeName": "سلة مشتريات المطلوبة كاملة",
+            "Price": 180,
             "Unit": "علبة",
             "ImagePath": "https://cdn.jsdelivr.net/gh/mohamadblrx11/app_data@main/images/img_639291427039456879.png",
             "IsAvailable": true
