@@ -4338,7 +4338,8 @@
             "Price": 0,
             "Unit": "250غ/ميزان",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
