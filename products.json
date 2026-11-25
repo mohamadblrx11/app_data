@@ -4353,7 +4353,8 @@
             "Price": 0,
             "Unit": "125غ/ميزان",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
