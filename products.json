@@ -5290,14 +5290,14 @@
     "Icon": "\uD83D\uDE80",
     "Items": [
       {
-        "Name": "توصيل السلة",
-        "Description": "عام",
+        "Name": "توصيل سلة المشتريات",
+        "Description": "عند الشراء من أقسام مختلفة",
         "Variations": [
           {
-            "MarketName": "رافيطيمتك لدارك",
+            "MarketName": "التوصيل عند الشراء من أقسام مختلفة",
             "SizeName": "حجم معقول",
             "Price": 280,
-            "Unit": "سلة الطلبية",
+            "Unit": "سلة الطلبية كاملة",
             "ImagePath": "",
             "IsAvailable": true
           }
