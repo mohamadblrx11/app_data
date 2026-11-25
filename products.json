@@ -1015,14 +1015,14 @@
         ]
       },
       {
-        "Name": "مستحقات التوصيل والتحصيل",
-        "Description": "أضفها لتصلك مشترياتك في الموعد",
+        "Name": "عسل حر",
+        "Description": "عسل السدر 250غ",
         "Variations": [
           {
-            "MarketName": "أساسية",
-            "SizeName": "سلة مشتريات المطلوبة كاملة",
-            "Price": 250,
-            "Unit": "السلة كاملة",
+            "MarketName": "عسل سدر",
+            "SizeName": "250غ",
+            "Price": 1450,
+            "Unit": "عبوة",
             "ImagePath": "",
             "IsAvailable": true
           }
