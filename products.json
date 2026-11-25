@@ -5290,14 +5290,14 @@
     "Icon": "\uD83D\uDE80",
     "Items": [
       {
-        "Name": "توصيل سلة المشتريات",
-        "Description": "عند الشراء من أقسام مختلفة",
+        "Name": "توصيل السلة",
+        "Description": "عام",
         "Variations": [
           {
-            "MarketName": "التوصيل عند الشراء من أقسام مختلفة",
+            "MarketName": "رافيطيمتك لدارك",
             "SizeName": "حجم معقول",
             "Price": 280,
-            "Unit": "سلة الطلبية كاملة",
+            "Unit": "سلة الطلبية",
             "ImagePath": "",
             "IsAvailable": true
           }
@@ -5305,61 +5305,55 @@
       },
       {
         "Name": "توصيل عام",
-        "Description": "تفاوضي",
+        "Description": "المنشور ** على فيسبوك: البورصة متاجر ومكاتب وشركات ذكية",
         "Variations": [
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "دراجة نارية / 0657477408",
-            "Price": 0,
+            "SizeName": "دراجة نارية 25 كلم من المنطقة العلمية طريق المطار غرداية",
+            "Price": 350,
             "Unit": "06000000000",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
-          },
-          {
-            "MarketName": "الخدمة 02",
-            "SizeName": "سيارة بضائع: 06000000000",
-            "Price": 0.15,
-            "Unit": "07000000000",
-            "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "شاحنة بضائع فركون 50 كلم من المنطقة العلمية غرداية",
+            "SizeName": "سيارة بضائع 50 كلم من المنطقة العلمية غرداية",
+            "Price": 1500,
+            "Unit": "07000000000",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "الخدمة 01",
+            "SizeName": "شاحنة بضائع فركون 50 كلم من المنطقة العلمية غرداية ",
             "Price": 2500,
             "Unit": "00000000000",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "شاحنة بضائع 3.5 طن من المنطقة العلمية غرداية",
+            "SizeName": "شاحنة بضائع 3.5 طن من المنطقة العلمية غرداية ",
             "Price": 3000,
             "Unit": "06000000000",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "سيارة أجرة 50 كلم من المنطقة العلمية غرداية",
+            "SizeName": "سيارة أجرة 50 كلم من المنطقة العلمية غرداية ",
             "Price": 1200,
             "Unit": "060000000000",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "حافلة 29 مقعد 50 كلم من المنطقة العلمية غرداية",
+            "SizeName": "حافلة 29 مقعد 50 كلم من المنطقة العلمية غرداية ",
             "Price": 4000,
             "Unit": "060000000000",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       }
