@@ -3710,7 +3710,8 @@
             "Price": 530,
             "Unit": "وحدة 30 بيضة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
