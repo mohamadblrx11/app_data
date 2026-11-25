@@ -3778,8 +3778,8 @@
         "Variations": [
           {
             "MarketName": "شخشوخة",
-            "SizeName": "كغ",
-            "Price": 0,
+            "SizeName": "عبوة",
+            "Price": 240,
             "Unit": "كيس",
             "ImagePath": "",
             "IsAvailable": true
