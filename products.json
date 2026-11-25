@@ -4368,7 +4368,8 @@
             "Price": 0,
             "Unit": "وحدة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
