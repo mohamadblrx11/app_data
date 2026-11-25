@@ -5345,19 +5345,21 @@
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "سيارة أجرة 50 كلم من المنطقة العلمية غرداية ",
+            "SizeName": "سيارة أجرة 50 كلم من المنطقة العلمية غرداية",
             "Price": 1200,
             "Unit": "060000000000",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "الخدمة 01",
-            "SizeName": "حافلة 29 مقعد 50 كلم من المنطقة العلمية غرداية ",
+            "SizeName": "حافلة 29 مقعد 50 كلم من المنطقة العلمية غرداية",
             "Price": 4000,
             "Unit": "060000000000",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       }
