@@ -4128,7 +4128,8 @@
             "Price": 0,
             "Unit": "كغ/ ميزان",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
