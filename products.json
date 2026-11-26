@@ -5477,6 +5477,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "حافلة 29 مقعد",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "حافلة 29 مقعد",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "حافلة 29 مقعد",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
