@@ -5308,8 +5308,8 @@
         "Description": "تفاوضي",
         "Variations": [
           {
-            "MarketName": "الخدمة 01",
-            "SizeName": "دراجة نارية / 0657477408",
+            "MarketName": "دراجة نارية / 0657477408",
+            "SizeName": "خدمة 01",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
@@ -5317,40 +5317,36 @@
             "Stock": 0
           },
           {
-            "MarketName": "الخدمة 02",
-            "SizeName": "سيارة بضائع: 0665853898",
+            "MarketName": "سيارة بضائع: 0665853898",
+            "SizeName": "الخدمة 02",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
-            "MarketName": "الخدمة 03",
-            "SizeName": "شاحنة بضائع: 0665853898",
+            "MarketName": "شاحنة بضائع: 0665853898",
+            "SizeName": "الخدمة 03",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
-            "MarketName": "الخدمة 04",
-            "SizeName": "شاحنة بضائع 3.5 طن: 0665853898",
+            "MarketName": "شاحنة بضائع 3.5 طن: 0665853898",
+            "SizeName": "الخدمة 04",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
-            "MarketName": "الخدمة 05",
-            "SizeName": "سيارة أجرة: 0665853898",
+            "MarketName": "سيارة أجرة: 0665853898",
+            "SizeName": "الخدمة 05",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "الخدمة 06",
