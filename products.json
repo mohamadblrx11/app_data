@@ -5449,6 +5449,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شاحنة بضائع مفتوحة",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "شاحنة بضائع مفتوحة",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "شاحنة بضائع مفتوحة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
