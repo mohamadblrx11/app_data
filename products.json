@@ -5407,6 +5407,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سيارة بضائع",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "سيارة بضائع مفتوحة",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "سيارة بضائع مفتوحة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
