@@ -5463,6 +5463,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "شاحنة بضائع 3.5طن",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "شاحنة بضائع 3.5 طن",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "شاحنة بضائع 3.5 طن",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
