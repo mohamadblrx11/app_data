@@ -5393,6 +5393,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "دراجة توصيل نارية",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "دراجة توصيل نارية",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "دراجة نارية غرداية",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
