@@ -5379,6 +5379,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سيارة أجرة",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "سيارة أجرة",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "سيارة 4 مقاعد",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
