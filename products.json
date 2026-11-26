@@ -5421,6 +5421,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سيارة بضائع مغلقة فركونات صغيرة",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "سيارة بضائع مغلقة فركونات صغيرة",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "فركونات صغيرة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
