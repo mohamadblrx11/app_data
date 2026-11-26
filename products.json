@@ -5435,6 +5435,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "سيارة بضائع مغلقة فركونات كبيرة",
+        "Description": "تفاوضيا على 0665853898",
+        "Variations": [
+          {
+            "MarketName": "سيارة بضائع مغلقة فركونات كبيرة",
+            "SizeName": "تفاوضيا على 0665853898",
+            "Price": 0,
+            "Unit": "فركونات كبيرة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
