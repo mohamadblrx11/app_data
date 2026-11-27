@@ -5681,20 +5681,6 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "ملح",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "كلغ معلب",
-            "Price": 360,
-            "Unit": "فاردو",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "ماء معدني",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
