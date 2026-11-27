@@ -5470,20 +5470,6 @@
         ]
       },
       {
-        "Name": "حافلة 29 مقعد",
-        "Description": "الحجز  تفاوضي 72 ساعة قبل الموعد",
-        "Variations": [
-          {
-            "MarketName": "حافلة 29 مقعد",
-            "SizeName": "الحجز تفاوضي 72 ساعة قبل الموعد",
-            "Price": 0,
-            "Unit": "حافلة",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "سيارة أجرة حضاري 4 مقاعد",
         "Description": "تفاوضيا على 0665853898",
         "Variations": [
