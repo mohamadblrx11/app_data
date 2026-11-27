@@ -925,9 +925,36 @@
             "Stock": 0
           },
           {
+            "MarketName": "الطلب",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "شروط الطلب",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "التأكيد",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "لإخلاء المسؤولية واجتناب الأخطاء",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "التسليم",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "في الظروف العادية",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
             "MarketName": "مغلوقة",
             "SizeName": "حبة",
-            "Price": 180,
+            "Price": 0,
             "Unit": "واحدة",
             "ImagePath": "",
             "IsAvailable": false,
@@ -936,7 +963,7 @@
           {
             "MarketName": "مغلوقة",
             "SizeName": "حبة حارة",
-            "Price": 250,
+            "Price": 0,
             "Unit": "واحدة",
             "ImagePath": "",
             "IsAvailable": false,
