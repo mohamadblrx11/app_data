@@ -5470,20 +5470,6 @@
         ]
       },
       {
-        "Name": "سيارة أجرة حضاري 4 مقاعد",
-        "Description": "تفاوضيا على 0665853898",
-        "Variations": [
-          {
-            "MarketName": "سيارة أجرة",
-            "SizeName": "تفاوضيا على 0665853898",
-            "Price": 0,
-            "Unit": "سيارة 4 مقاعد",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "دراجة توصيل نارية",
         "Description": "تفاوضيا على 0665853898",
         "Variations": [
