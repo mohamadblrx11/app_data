@@ -132,6 +132,22 @@
             "Unit": "سواك",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "مناديل شخصية",
+            "SizeName": "مناديل شخصية",
+            "Price": 50,
+            "Unit": "مناديل شخصية",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "منديلين لليدين",
+            "SizeName": "طراشين ورق",
+            "Price": 5,
+            "Unit": "طراشين اليدين ورقية",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
