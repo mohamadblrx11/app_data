@@ -242,10 +242,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "ميناما",
+            "MarketName": "تأكيد الطلب على الواتساب 060000000 (يوميا عدا الجمعة)",
             "SizeName": "",
-            "Price": 400,
-            "Unit": "وجبة",
+            "Price": 0,
+            "Unit": "لإخلاء المسؤولية واجتناب الأخطاء",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -438,6 +438,14 @@
             "SizeName": "2 ل",
             "Price": 200,
             "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "",
+            "Price": 400,
+            "Unit": "وجبة",
             "ImagePath": "",
             "IsAvailable": true
           }
