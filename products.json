@@ -274,6 +274,38 @@
             "Unit": "سندوتش",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "طبق",
+            "SizeName": "أرز",
+            "Price": 250,
+            "Unit": "طبق",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "طبق",
+            "SizeName": "أرز بفتات الدجاج",
+            "Price": 350,
+            "Unit": "طبق",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "طبق",
+            "SizeName": "فريت",
+            "Price": 200,
+            "Unit": "طبق",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "طبق",
+            "SizeName": "فريت أملات",
+            "Price": 250,
+            "Unit": "طبق",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
