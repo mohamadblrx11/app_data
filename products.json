@@ -203,18 +203,42 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "بيزا مرغريتا",
-            "SizeName": "قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "MarketName": "بيزا",
+            "SizeName": "مرغريتا قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
             "Price": 30,
             "Unit": "قطعة من 10 قطع",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "بيزا مرغريتا",
-            "SizeName": "بيزا مرغريتا قطعة من 10 قطع ومن أجل بيزا كاملة اكتب 10 بالكمية",
-            "Price": 100,
+            "MarketName": "بيزا",
+            "SizeName": "تونة قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 35,
             "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "بولي قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 40,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "فيجتاليان قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 40,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "فيونداشي قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 60,
+            "Unit": "قطعة",
             "ImagePath": "",
             "IsAvailable": true
           }
