@@ -1084,6 +1084,78 @@
             "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "صغير",
+            "Price": 50,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "كانيت",
+            "Price": 100,
+            "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "سيلكتو 1ل",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "شفاف 1ل",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "2 ل",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "1 ل",
+            "Price": 65,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "صغير",
+            "Price": 35,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "1 ل",
+            "Price": 100,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عصير",
+            "SizeName": "2 ل",
+            "Price": 200,
+            "Unit": "قارورة/عبوة معلبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
