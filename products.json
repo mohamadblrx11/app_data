@@ -5679,22 +5679,7 @@
   {
     "CategoryName": "غرداية بالجملة",
     "Icon": "\uD83C\uDF10",
-    "Items": [
-      {
-        "Name": "مستلزمات التعبئة",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "حدد الصنف",
-            "SizeName": "حدد الحجم والعلامة والجودة",
-            "Price": 0,
-            "Unit": "حزمة 20 رزمة 40 كيس",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "أكل سريع",
