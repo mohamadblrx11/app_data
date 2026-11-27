@@ -5681,36 +5681,6 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "ماء معدني",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "1.5 ل",
-            "Price": 245,
-            "Unit": "فاردو 6 قارورات",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "0.5 ل",
-            "Price": 215,
-            "Unit": "فاردو 12 قارورة 0.5ل",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "5 ل",
-            "Price": 115,
-            "Unit": "فاردوا 6 دلو 5 إلى 6ل",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "مشروبات غازية",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
