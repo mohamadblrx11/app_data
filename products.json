@@ -6408,22 +6408,7 @@
   {
     "CategoryName": "خدمات VIP",
     "Icon": "\uD83E\uDEC6\uD83D\uDC4D",
-    "Items": [
-      {
-        "Name": "مطعم ومقهى عصري رقمي",
-        "Description": "7/7 - 24/24 - 0675728642",
-        "Variations": [
-          {
-            "MarketName": "7/7 - 24/24 - 0675728642",
-            "SizeName": "7/7 - 24/24 - 0675728642",
-            "Price": 675728642,
-            "Unit": "في الخدمة وفق الطلب",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      }
-    ]
+    "Items": []
   },
   {
     "CategoryName": "خدمة القسائم والتعبئات",
