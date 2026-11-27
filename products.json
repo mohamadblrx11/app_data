@@ -13,8 +13,7 @@
             "Price": 90,
             "Unit": "",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "الطلب ببرنامج التطبيق (يوميا عدا الجمعة)",
