@@ -5502,6 +5502,20 @@
             "IsAvailable": true
           }
         ]
+      },
+      {
+        "Name": "مستحقات خدمات التركيب والتجميع",
+        "Description": "آثاث",
+        "Variations": [
+          {
+            "MarketName": "مستحقات خدمات التركيب والتجميع",
+            "SizeName": "آثاث",
+            "Price": 1895,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
       }
     ]
   },
