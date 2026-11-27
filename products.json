@@ -156,10 +156,34 @@
         "Description": "مطعم عام",
         "Variations": [
           {
+            "MarketName": "دجاج مشوي",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 250,
+            "Unit": "ربع دجاجة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
             "MarketName": "دجاج على الجمر",
             "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
             "Price": 300,
             "Unit": "ربع دجاجة على الجمر",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "دجاج ماندي",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 350,
+            "Unit": "ربع دجاجة ماندي",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "دجاج ميناما",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 400,
+            "Unit": "ربع دجاجة ميناما",
             "ImagePath": "",
             "IsAvailable": true
           }
