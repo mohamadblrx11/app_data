@@ -84,6 +84,30 @@
             "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "صحن بلاستيك استعمال واحد",
+            "SizeName": "صحن بلاستيك",
+            "Price": 5,
+            "Unit": "صحن استعمال واحد",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "كأس بلاستيك وكأس كرتون استعمال واحد",
+            "SizeName": "كأسان (للمشروب البارد وآخر للساخن)",
+            "Price": 5,
+            "Unit": "كأسان",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ملعقة كبيرة وصغيرة بلاستيك استعمال واحد",
+            "SizeName": "ملعقتين بلاستيك (كبيرة وصغيرة)",
+            "Price": 5,
+            "Unit": "ملعقتان",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
