@@ -281,6 +281,30 @@
             "Unit": "قطعة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "كاري",
+            "Price": 40,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "ميني",
+            "Price": 40,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "كوكا",
+            "SizeName": "حبة",
+            "Price": 40,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
