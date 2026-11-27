@@ -187,13 +187,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "بيزا كاري",
+            "MarketName": "تأكيد الطلب على الواتساب 060000000 (يوميا عدا الجمعة)",
             "SizeName": "حبة",
-            "Price": 50,
-            "Unit": "وحدة",
+            "Price": 0,
+            "Unit": "لإخلاء المسؤولية واجتناب الأخطاء",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "ميني بيزا",
