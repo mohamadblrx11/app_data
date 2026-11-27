@@ -116,6 +116,22 @@
             "Unit": "وحدة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "عودان لتنظيف الأسنان",
+            "SizeName": "عودان",
+            "Price": 5,
+            "Unit": "عودان",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سواك",
+            "SizeName": "سواك",
+            "Price": 100,
+            "Unit": "سواك",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
