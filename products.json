@@ -5681,28 +5681,6 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "سكر",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "عام",
-            "SizeName": "كغ معلب",
-            "Price": 870,
-            "Unit": "فاردو 10 كغ",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عام",
-            "SizeName": "رطل",
-            "Price": 900,
-            "Unit": "فاردو 20 وحدة 500غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "ملح",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
