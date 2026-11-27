@@ -235,7 +235,7 @@
           },
           {
             "MarketName": "ميناما",
-            "SizeName": "دجاجة كاملة مع الشلاطة المتوبلة",
+            "SizeName": "",
             "Price": 1400,
             "Unit": "وحدة كاملة",
             "ImagePath": "",
@@ -243,7 +243,7 @@
           },
           {
             "MarketName": "ميناما",
-            "SizeName": "ربع دجاجة مع الشلاطة المتوبلة",
+            "SizeName": "",
             "Price": 400,
             "Unit": "وجبة",
             "ImagePath": "",
@@ -267,17 +267,17 @@
           },
           {
             "MarketName": "ميناما",
-            "SizeName": "لحم مع الشلاطة المتوبلة",
-            "Price": 1600,
-            "Unit": "قطعة كوجبة",
+            "SizeName": "دجاجة كاملة مع الشلاطة المتوبلة",
+            "Price": 1400,
+            "Unit": "وحدة كاملة",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "حار زيادة",
-            "SizeName": "مرقد أو هريسة أو حميص (المتاح)",
-            "Price": 65,
-            "Unit": "وحدة",
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع الشلاطة المتوبلة",
+            "Price": 400,
+            "Unit": "وجبة",
             "ImagePath": "",
             "IsAvailable": true
           },
