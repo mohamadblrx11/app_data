@@ -241,6 +241,46 @@
             "Unit": "قطعة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "كوفار قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 60,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "3 فرماح قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 70,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "4 سيزون قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 80,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "دومي ميغا قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 100,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيزا",
+            "SizeName": "ميغا قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 180,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
