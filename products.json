@@ -60,6 +60,14 @@
             "Unit": "وحدة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "علبة بلاستيك بغطاء للشلطة أو الوجبة",
+            "SizeName": "علبة بلاستيك 500غ",
+            "Price": 50,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
