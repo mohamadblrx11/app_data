@@ -5681,60 +5681,6 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "الطماطم المعلبة (مصبرة)",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "الحارة",
-            "SizeName": "400غ",
-            "Price": 0,
-            "Unit": "كرطونة 24 وحدة 400غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "كينقتوم",
-            "SizeName": "400غ",
-            "Price": 0,
-            "Unit": "كرطونة 24 علبة 400غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "جمبو",
-            "SizeName": "400غ",
-            "Price": 0,
-            "Unit": "كرطونة 24 علبة 400غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "الحارة",
-            "SizeName": "800غ",
-            "Price": 0,
-            "Unit": "كرطونة 12 علبة 800غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "كينقتوم",
-            "SizeName": "800غ",
-            "Price": 0,
-            "Unit": "كرطونة 12 علبة 800غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "جمبو",
-            "SizeName": "800غ",
-            "Price": 0,
-            "Unit": "كرطونة 12 علبة 800غ",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "مستلزمات التعبئة",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
