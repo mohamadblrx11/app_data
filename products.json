@@ -872,6 +872,22 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "ماء",
+            "SizeName": "صغير",
+            "Price": 35,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ماء",
+            "SizeName": "كبير",
+            "Price": 50,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
