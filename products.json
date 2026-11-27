@@ -814,12 +814,13 @@
             "Stock": 0
           },
           {
-            "MarketName": "شاورما",
+            "MarketName": "الطلب ببرنامج التطبيق (يوميا عدا الجمعة)",
             "SizeName": "",
             "Price": 0,
-            "Unit": "سندوتش",
+            "Unit": "شروط الطلب",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "شاورما",
