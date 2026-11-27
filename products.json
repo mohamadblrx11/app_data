@@ -727,10 +727,19 @@
         "Description": "دجاج ولحم وزليف مردوم مع وجبات لذيذة ومتنوعة",
         "Variations": [
           {
-            "MarketName": "ماندي",
-            "SizeName": "دجاجة كاملة",
-            "Price": 0,
+            "MarketName": "التوصيل",
+            "SizeName": "لباب الدار",
+            "Price": 180,
             "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "الطلب ببرنامج التطبيق (يوميا عدا الجمعة)",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "شروط الطلب",
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
