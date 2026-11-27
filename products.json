@@ -5308,48 +5308,48 @@
         "Description": "تفاوضي",
         "Variations": [
           {
-            "MarketName": "دراجة نارية / 0657407408",
-            "SizeName": "خدمة 01 تفاوضيا",
+            "MarketName": "حافلة 50 إلى 60 مقعد غرداية / 0665853898",
+            "SizeName": "الخدمة 01 تفاوضيا",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "سيارة بضائع: 0665853898",
-            "SizeName": "الخدمة 02",
+            "MarketName": "حافلة 29 مقعد غرداية / 0665853898",
+            "SizeName": "خدمة 02 تفاوضي",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "شاحنة بضائع: 0665853898",
-            "SizeName": "الخدمة 03",
+            "MarketName": "سيارة 08 مقاعد غرداية / 0665853898",
+            "SizeName": "خدمة 03 تفاوضي",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "شاحنة بضائع 3.5 طن: 0665853898",
-            "SizeName": "الخدمة 04",
+            "MarketName": "سيارة 04 مقاعد غرداية / 0665853898",
+            "SizeName": "خدمة 04 تفاوضي",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "سيارة أجرة: 0665853898",
-            "SizeName": "الخدمة 05",
+            "MarketName": "دراجة نارية غرداية / 0665853898",
+            "SizeName": "خدمة 05 تفاوضي",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "دراجة نارية غرداية / 0657407408",
-            "SizeName": "الخدمة 06",
+            "MarketName": "سيارة بضائع غرداية / 0665853898",
+            "SizeName": "خدمة 06 تفاوضي",
             "Price": 0,
             "Unit": "0665853898",
             "ImagePath": "",
