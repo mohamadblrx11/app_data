@@ -5386,6 +5386,78 @@
             "Unit": "0665853898",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "شاحنة بضائع 10 طن غرداية / 0665853898",
+            "SizeName": "خدمة 11 تفاوصيا",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاحنة بضائع 20 طن غرداية / 0665853898",
+            "SizeName": "خدمة 12 تفاوضيا",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاحنة مواد بناء صغيرة غرداية / 0665853898",
+            "SizeName": "خدمة 13 تفاوضيا",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاحنة مواد بناء متوسطة غرداية / 0665853898",
+            "SizeName": "خدمة 14 تفاوضي",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاحنة مواد بناء كبيرة غرداية / 0665853898",
+            "SizeName": "خدمة 15 تفاوضي",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاحنة مواد بناء ضخمة بمقطورة غرداية / 0665853898",
+            "SizeName": "خدمة 16 تفاوضي",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "جحش ورشة دنبير غرداية / 0665853898",
+            "SizeName": "خدمة 17 تفاوضي",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شارجور غرداية / 0665853898",
+            "SizeName": "خدمة 18 تفاوضي",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "كلارك غرداية / 0665853898",
+            "SizeName": "خدمة 19 تفاوضيا",
+            "Price": 0,
+            "Unit": "0665853898",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
