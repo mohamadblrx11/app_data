@@ -164,10 +164,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "دجاج على الجمر",
+            "MarketName": "الطلب ببرنامج التطبيق (يوميا عدا الجمعة)",
             "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
-            "Price": 300,
-            "Unit": "ربع دجاجة على الجمر",
+            "Price": 0,
+            "Unit": "شروط الطلب",
             "ImagePath": "",
             "IsAvailable": true
           },
