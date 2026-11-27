@@ -51,8 +51,7 @@
             "Price": 50,
             "Unit": "علبة",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       },
