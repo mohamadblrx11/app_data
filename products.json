@@ -226,6 +226,38 @@
             "Unit": "مطرق واحد",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "سندوتش",
+            "SizeName": "دوارة",
+            "Price": 300,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سندوتش",
+            "SizeName": "ليزابا",
+            "Price": 300,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سندوتش",
+            "SizeName": "دجاج",
+            "Price": 300,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بيض مسلوق",
+            "SizeName": "بيضة",
+            "Price": 30,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
