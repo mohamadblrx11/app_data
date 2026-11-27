@@ -305,6 +305,22 @@
             "Unit": "حبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "سوفلي",
+            "SizeName": "حبة",
+            "Price": 80,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بوراك",
+            "SizeName": "حبة",
+            "Price": 70,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
