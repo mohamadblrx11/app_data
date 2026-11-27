@@ -68,6 +68,22 @@
             "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "علبة حلويات ومقبلات",
+            "SizeName": "حسب النوع والحجم المتوفر",
+            "Price": 50,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "علبة مكسرات",
+            "SizeName": "حسب النوع والحجم المطلوب",
+            "Price": 50,
+            "Unit": "علبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
