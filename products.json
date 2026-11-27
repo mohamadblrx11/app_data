@@ -5681,52 +5681,6 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "مشروبات غير غازية",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "دايلي جوي",
-            "SizeName": "125 مل",
-            "Price": 0,
-            "Unit": "كرطونة 48 قطعة",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "دايلي",
-            "SizeName": "20 سل",
-            "Price": 0,
-            "Unit": "كرطونة 30 علبة",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "دايلي",
-            "SizeName": "1 ل",
-            "Price": 0,
-            "Unit": "كرطونة 12 علبة",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "",
-            "SizeName": "1.25 ل",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "",
-            "SizeName": "1 ل",
-            "Price": 0,
-            "Unit": "",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "التونة والسردين",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
