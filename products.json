@@ -251,7 +251,7 @@
           },
           {
             "MarketName": "ميناما",
-            "SizeName": "ربع دجاجة مع الفريت والشلاطة المتوبلة",
+            "SizeName": "",
             "Price": 500,
             "Unit": "وجبة",
             "ImagePath": "",
@@ -282,6 +282,38 @@
             "IsAvailable": true
           },
           {
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع الفريت والشلاطة المتوبلة",
+            "Price": 500,
+            "Unit": "وجبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "ربع دجاجة مع الأرز والشلاطة المتوبلة",
+            "Price": 550,
+            "Unit": "وجبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "ميناما",
+            "SizeName": "لحم مع الشلاطة المتوبلة",
+            "Price": 1600,
+            "Unit": "قطعة كوجبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "حار زيادة",
+            "SizeName": "مرقد أو هريسة أو حميص (المتاح)",
+            "Price": 70,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
             "MarketName": "زيت زيتون",
             "SizeName": "قارورة صغيرة",
             "Price": 100,
@@ -292,16 +324,16 @@
           {
             "MarketName": "ليمون",
             "SizeName": "حبة",
-            "Price": 65,
+            "Price": 70,
             "Unit": "واحدة",
             "ImagePath": "",
             "IsAvailable": true
           },
           {
-            "MarketName": "برتقال",
-            "SizeName": "حبة",
-            "Price": 65,
-            "Unit": "واحدة",
+            "MarketName": "منذرين",
+            "SizeName": "حبتان",
+            "Price": 70,
+            "Unit": "وحدتان",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -347,25 +379,25 @@
           },
           {
             "MarketName": "قازوز",
-            "SizeName": "سليكتو 1 ل",
-            "Price": 100,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
-            "SizeName": "1 ل سافن آب أو سبرايت (المتاح)",
-            "Price": 100,
-            "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "قازوز",
             "SizeName": "كانيت",
             "Price": 100,
             "Unit": "عبوة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "سيلكتو 1 ل",
+            "Price": 100,
+            "Unit": "قارورة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "قازوز",
+            "SizeName": "شفاف 1 ل",
+            "Price": 100,
+            "Unit": "قارورة",
             "ImagePath": "",
             "IsAvailable": true
           },
@@ -382,38 +414,6 @@
             "SizeName": "1 ل",
             "Price": 65,
             "Unit": "قارورة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عصير",
-            "SizeName": "1 ل",
-            "Price": 100,
-            "Unit": "قارورة/عبوة معلبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عصير",
-            "SizeName": "صغير",
-            "Price": 35,
-            "Unit": "قارورة/عبوة معلبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "عصير",
-            "SizeName": "2 ل",
-            "Price": 200,
-            "Unit": "قارورة/عبوة معلبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "1",
-            "SizeName": "1",
-            "Price": 0,
-            "Unit": "قارورة/عبوة معلبة",
             "ImagePath": "",
             "IsAvailable": true
           },
