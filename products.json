@@ -180,10 +180,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "دجاج ميناما",
+            "MarketName": "التسليم والتسلم (يوميا عدا الجمعة)",
             "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
-            "Price": 400,
-            "Unit": "ربع دجاجة ميناما",
+            "Price": 0,
+            "Unit": "في الظروف العادية",
             "ImagePath": "",
             "IsAvailable": true
           },
