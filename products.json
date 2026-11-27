@@ -856,7 +856,34 @@
         "Description": "قعدات مأكولات شعبية وتقليدية خاصة",
         "Variations": [
           {
-            "MarketName": "طعام كسكسي باللحم محلي أصيل",
+            "MarketName": "التوصيل",
+            "SizeName": "لباب الدار",
+            "Price": 0,
+            "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "الطلب",
+            "SizeName": "طبق فردي",
+            "Price": 0,
+            "Unit": "من أجل طبق جماعي اكتب 6 بالكمبة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "التأكيد",
+            "SizeName": "طبق فردي",
+            "Price": 0,
+            "Unit": "من أجل طبق جماعي اكتب 6 بالكمبة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "التسليم",
             "SizeName": "طبق فردي",
             "Price": 0,
             "Unit": "من أجل طبق جماعي اكتب 6 بالكمبة",
@@ -866,27 +893,21 @@
           },
           {
             "MarketName": "طعام كسكسي باللحم محلي أصيل",
-            "SizeName": "",
+            "SizeName": "طبق فردي",
             "Price": 0,
             "Unit": "من أجل طبق جماعي اكتب 6 بالكمبة",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
-            "MarketName": "طعام كسكسي باللحم محلي أصيل",
-            "SizeName": "",
+            "MarketName": "دشيشة باللحم محلي أصيل",
+            "SizeName": "طبق فردي",
             "Price": 0,
             "Unit": "من أجل طبق جماعي اكتب 6 بالكمبة",
             "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "طعام كسكسي باللحم محلي أصيل",
-            "SizeName": "",
-            "Price": 0,
-            "Unit": "من أجل طبق جماعي اكتب 6 بالكمبة",
-            "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
