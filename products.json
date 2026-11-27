@@ -823,12 +823,13 @@
             "Stock": 0
           },
           {
-            "MarketName": "شاورما",
+            "MarketName": "تأكيد الطلب على الواتساب 0553585613 (يوميا عدا الجمعة)",
             "SizeName": "",
             "Price": 0,
-            "Unit": "سندوتش",
+            "Unit": "لإخلاء المسؤولية واجتناب الأخطاء",
             "ImagePath": "",
-            "IsAvailable": true
+            "IsAvailable": false,
+            "Stock": 0
           },
           {
             "MarketName": "شاورما",
