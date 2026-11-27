@@ -52,6 +52,14 @@
             "Unit": "علبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "حافظة ألمنيوم بغطاء للوجبة",
+            "SizeName": "علبة ألمنيوم حوض أو حوضين أو ثلاث أحواض",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
