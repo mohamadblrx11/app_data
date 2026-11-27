@@ -5681,44 +5681,6 @@
     "Icon": "\uD83C\uDF10",
     "Items": [
       {
-        "Name": "التونة والسردين",
-        "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
-        "Variations": [
-          {
-            "MarketName": "ريكامار",
-            "SizeName": "التونة زيت",
-            "Price": 0,
-            "Unit": "ثلاثيات",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "",
-            "SizeName": "التونة طماطم",
-            "Price": 0,
-            "Unit": "ثلاثيات",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "سردين زيت",
-            "SizeName": "علبة",
-            "Price": 0,
-            "Unit": "5 علب",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "سردين طماطم ريكامار",
-            "SizeName": "علبة",
-            "Price": 0,
-            "Unit": "5 علب",
-            "ImagePath": "",
-            "IsAvailable": false
-          }
-        ]
-      },
-      {
         "Name": "الطماطم المعلبة (مصبرة)",
         "Description": "الطلب 24 ساعة قبل الموعد / توقيت العمل (طلب-نوزيع): من 07h30 إلى 21h30",
         "Variations": [
