@@ -186,6 +186,46 @@
             "Unit": "ربع دجاجة ميناما",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "بروش",
+            "SizeName": "مرقاز",
+            "Price": 100,
+            "Unit": "مطرق واحد",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بروش",
+            "SizeName": "مرقاز حار",
+            "Price": 100,
+            "Unit": "مطرق واحد",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بروش",
+            "SizeName": "سكالوب",
+            "Price": 100,
+            "Unit": "مطرق واحد",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بروش",
+            "SizeName": "لحم",
+            "Price": 100,
+            "Unit": "مطرق واحد",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "بروش",
+            "SizeName": "كبدة",
+            "Price": 100,
+            "Unit": "مطرق واحد",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
