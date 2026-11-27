@@ -855,6 +855,15 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "عصير طبيعي",
+            "SizeName": "عبوة",
+            "Price": 100,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
