@@ -5488,7 +5488,22 @@
   {
     "CategoryName": "آثاث 1",
     "Icon": "\uD83E\uDE91\uD83D\uDECF\uD83D\uDDC4",
-    "Items": []
+    "Items": [
+      {
+        "Name": "خدمات التوصيل والتحصيل",
+        "Description": "طلبيات الآثاث",
+        "Variations": [
+          {
+            "MarketName": "خدمات التوصيل والتحصيل",
+            "SizeName": "آثاث",
+            "Price": 875,
+            "Unit": "طلبيتكم للآثاث كاملة",
+            "ImagePath": "",
+            "IsAvailable": true
+          }
+        ]
+      }
+    ]
   },
   {
     "CategoryName": "عقار",
