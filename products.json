@@ -752,6 +752,15 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "التسليم والتسلم (يوميا عدا الجمعة)",
+            "SizeName": "من 19h00 إلى 21h00",
+            "Price": 0,
+            "Unit": "في الظروف العادية",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
