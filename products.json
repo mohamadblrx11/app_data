@@ -5468,20 +5468,6 @@
             "IsAvailable": true
           }
         ]
-      },
-      {
-        "Name": "سيارة أجرة جماعي 8 مقاعد",
-        "Description": "تفاوضيا على 0665853898",
-        "Variations": [
-          {
-            "MarketName": "سيارة أجرة جماعي 8 مقاعد",
-            "SizeName": "تفاوضيا على 0665853898",
-            "Price": 0,
-            "Unit": "سيارة 8 مقاعد",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
       }
     ]
   },
