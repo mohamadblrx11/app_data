@@ -180,12 +180,11 @@
           },
           {
             "MarketName": "الطلب ببرنامج التطبيق (يوميا عدا الجمعة)",
-            "SizeName": "قطعة من 10 قطع",
+            "SizeName": "الغذاء: 10h00-00h00 / العشاء: 17h45-10h01",
             "Price": 0,
-            "Unit": "من أجل بيزا كاملة اكتب 10 بالكمية",
+            "Unit": "شروط الطلب",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "بيزا كاري",
