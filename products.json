@@ -235,9 +235,9 @@
           },
           {
             "MarketName": "ميناما",
-            "SizeName": "",
+            "SizeName": "الغذاء: 10h00-00h00 / العشاء: 17h45-10h01",
             "Price": 1400,
-            "Unit": "وحدة كاملة",
+            "Unit": "شروط الطلب",
             "ImagePath": "",
             "IsAvailable": true
           },
