@@ -188,6 +188,39 @@
             "IsAvailable": true
           },
           {
+            "MarketName": "دجاج مشوي",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 250,
+            "Unit": "ربع دجاجة مشوية",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "دجاج على الجمر",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 300,
+            "Unit": "ربع دجاجة على الجمر",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "دجاج ماندي",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 350,
+            "Unit": "ربع دجاجة ماندي",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "دجاج ميناما",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 400,
+            "Unit": "ربع دجاجة ميناما",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
             "MarketName": "بروش",
             "SizeName": "مرقاز",
             "Price": 100,
@@ -206,7 +239,7 @@
           {
             "MarketName": "بروش",
             "SizeName": "سكالوب",
-            "Price": 100,
+            "Price": 70,
             "Unit": "مطرق واحد",
             "ImagePath": "",
             "IsAvailable": true
@@ -214,7 +247,7 @@
           {
             "MarketName": "بروش",
             "SizeName": "لحم",
-            "Price": 100,
+            "Price": 200,
             "Unit": "مطرق واحد",
             "ImagePath": "",
             "IsAvailable": true
@@ -222,7 +255,7 @@
           {
             "MarketName": "بروش",
             "SizeName": "كبدة",
-            "Price": 100,
+            "Price": 350,
             "Unit": "مطرق واحد",
             "ImagePath": "",
             "IsAvailable": true
@@ -230,39 +263,7 @@
           {
             "MarketName": "سندوتش",
             "SizeName": "دوارة",
-            "Price": 300,
-            "Unit": "سندوتش",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سندوتش",
-            "SizeName": "ليزابا",
-            "Price": 300,
-            "Unit": "سندوتش",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سندوتش",
-            "SizeName": "دجاج",
-            "Price": 300,
-            "Unit": "سندوتش",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "بيض مسلوق",
-            "SizeName": "بيضة",
-            "Price": 30,
-            "Unit": "حبة",
-            "ImagePath": "",
-            "IsAvailable": true
-          },
-          {
-            "MarketName": "سندوتش",
-            "SizeName": "فريت",
-            "Price": 120,
+            "Price": 350,
             "Unit": "سندوتش",
             "ImagePath": "",
             "IsAvailable": true
