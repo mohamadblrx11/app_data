@@ -258,6 +258,22 @@
             "Unit": "حبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "سندوتش",
+            "SizeName": "فريت",
+            "Price": 120,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "سندوتش",
+            "SizeName": "فريت أملات",
+            "Price": 150,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
