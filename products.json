@@ -761,6 +761,42 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "ماندي",
+            "SizeName": "دجاجة كاملة",
+            "Price": 0,
+            "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "ماندي",
+            "SizeName": "ربع دجاجة",
+            "Price": 0,
+            "Unit": "ربع دجاجة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "ماندي",
+            "SizeName": "زليف",
+            "Price": 0,
+            "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
+            "MarketName": "ماندي",
+            "SizeName": "دوارة",
+            "Price": 0,
+            "Unit": "طبق",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
           }
         ]
       },
