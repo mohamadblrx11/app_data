@@ -216,13 +216,12 @@
             "Stock": 0
           },
           {
-            "MarketName": "سوفلي",
-            "SizeName": "حبة",
+            "MarketName": "بيزا مرغريتا",
+            "SizeName": "بيزا مرغريتا قطعة من 10 قطع ومن أجل بيزا كاملة اكتب 10 بالكمية",
             "Price": 100,
-            "Unit": "وحدة",
+            "Unit": "علبة",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       },
