@@ -250,10 +250,10 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "ميناما",
+            "MarketName": "التسليم والتسلم (يوميا عدا الجمعة)",
             "SizeName": "",
-            "Price": 500,
-            "Unit": "وجبة",
+            "Price": 0,
+            "Unit": "في الظروف العادية",
             "ImagePath": "",
             "IsAvailable": true
           },
