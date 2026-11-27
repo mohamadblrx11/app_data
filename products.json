@@ -811,6 +811,14 @@
             "Unit": "حبة",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "تارت",
+            "SizeName": "قطعة ومن أجل تارت مجزأة اكتب 10 بالكمية",
+            "Price": 70,
+            "Unit": "قطعة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
