@@ -763,6 +763,22 @@
             "ImagePath": "",
             "IsAvailable": false,
             "Stock": 0
+          },
+          {
+            "MarketName": "جنواز",
+            "SizeName": "حبة",
+            "Price": 60,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "عسليات",
+            "SizeName": "حبة",
+            "Price": 50,
+            "Unit": "حبة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
