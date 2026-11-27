@@ -195,13 +195,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "ميني بيزا",
+            "MarketName": "التسليم والتسلم (يوميا عدا الجمعة)",
             "SizeName": "حبة",
-            "Price": 50,
-            "Unit": "وحدة",
+            "Price": 0,
+            "Unit": "في الظروف العادية",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "كوكا",
