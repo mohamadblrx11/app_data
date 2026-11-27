@@ -805,8 +805,41 @@
         "Description": "الشاورما والأكلات السورية والشرقية المشهورة",
         "Variations": [
           {
+            "MarketName": "التوصيل",
+            "SizeName": "لباب الدار",
+            "Price": 180,
+            "Unit": "وحدة كاملة",
+            "ImagePath": "",
+            "IsAvailable": false,
+            "Stock": 0
+          },
+          {
             "MarketName": "شاورما",
-            "SizeName": "سندويتش",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاورما",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاورما",
+            "SizeName": "",
+            "Price": 0,
+            "Unit": "سندوتش",
+            "ImagePath": "",
+            "IsAvailable": true
+          },
+          {
+            "MarketName": "شاورما",
+            "SizeName": "سندوتش",
             "Price": 0,
             "Unit": "سندوتش",
             "ImagePath": "",
