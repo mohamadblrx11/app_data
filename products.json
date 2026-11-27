@@ -203,13 +203,12 @@
             "IsAvailable": true
           },
           {
-            "MarketName": "كوكا",
-            "SizeName": "حبة",
-            "Price": 50,
-            "Unit": "وحدة",
+            "MarketName": "بيزا",
+            "SizeName": "مرغريتا قطعة ومن أجل بيزا كاملة اكتب 10 بالكمية",
+            "Price": 30,
+            "Unit": "قطعة من 10 قطع",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           },
           {
             "MarketName": "بيزا مرغريتا",
