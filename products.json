@@ -686,14 +686,6 @@
             "Unit": "قارورة/عبوة معلبة",
             "ImagePath": "",
             "IsAvailable": true
-          },
-          {
-            "MarketName": "ميناما",
-            "SizeName": "",
-            "Price": 400,
-            "Unit": "وجبة",
-            "ImagePath": "",
-            "IsAvailable": true
           }
         ]
       },
