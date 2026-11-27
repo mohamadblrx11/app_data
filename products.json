@@ -156,13 +156,12 @@
         "Description": "مطعم عام",
         "Variations": [
           {
-            "MarketName": "سندويتش",
-            "SizeName": "فريت",
-            "Price": 100,
-            "Unit": "وحدة",
+            "MarketName": "دجاج على الجمر",
+            "SizeName": "ربع دجاجة ومن أجل دجاجة كاملة اكتب 04 بالكمية",
+            "Price": 300,
+            "Unit": "ربع دجاجة على الجمر",
             "ImagePath": "",
-            "IsAvailable": false,
-            "Stock": 0
+            "IsAvailable": true
           }
         ]
       },
