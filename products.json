@@ -108,6 +108,14 @@
             "Unit": "ملعقتان",
             "ImagePath": "",
             "IsAvailable": true
+          },
+          {
+            "MarketName": "شوكة وسكين بلاستيك استعمال واحد",
+            "SizeName": "سكين وشوكة بلاستيكيان",
+            "Price": 5,
+            "Unit": "وحدة",
+            "ImagePath": "",
+            "IsAvailable": true
           }
         ]
       },
