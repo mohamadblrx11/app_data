@@ -6426,28 +6426,6 @@
     "Icon": "\uD83D\uDDC4",
     "Items": [
       {
-        "Name": "مستحقات التوصيل والتحصيل",
-        "Description": "الصورة 001 بفيسبوك التطبيق على رمز \"i\" / اطلب ونتصل بك في أقرب وقت",
-        "Variations": [
-          {
-            "MarketName": "الخدمة 01: 0657407408",
-            "SizeName": "الخدمة 02: 0658499497",
-            "Price": 0,
-            "Unit": "خزانة بابين",
-            "ImagePath": "",
-            "IsAvailable": false
-          },
-          {
-            "MarketName": "خزانة بابين",
-            "SizeName": "مستحقات توصيلها",
-            "Price": 850,
-            "Unit": "الخزانة فقط",
-            "ImagePath": "",
-            "IsAvailable": true
-          }
-        ]
-      },
-      {
         "Name": "مستحقات خدمة التركيب",
         "Description": "اطلبها الان وسنتصل بك في أقرب وقت ممكن إن شاء الله",
         "Variations": [
